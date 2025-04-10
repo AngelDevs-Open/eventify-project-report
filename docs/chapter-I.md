@@ -46,3 +46,22 @@ Aspiramos a liderar con innovación, empatía y compromiso con nuestros usuarios
 
 
 ## 1.3 Segmentos objetivo
+
+1. **Anfitriones de Eventos:**
+
+
+   - **Descripcion**: Este segmento incluye a personas y organizaciones que necesitan contratar servicios profesionales para planificar y ejecutar sus eventos.
+   - **Sexo:** Masculino y femenino
+   - **Edades:** Adultos jóvenes (18-34 años), adultos de mediana edad (35-54 años) y adultos mayores (55+)
+   - **Nivel socioeconómico**: Clases A, B y C (alta, media-alta y media)
+   - **Necesidades por satisfacer:** Permitir a estos usuarios encontrar organizadores calificados según el tipo de evento, visualizar perfiles detallados con experiencia previa y reseñas, y establecer comunicación directa para personalizar sus eventos. Esto les ahorra tiempo, reduce el estrés de la búsqueda y les brinda confianza en la contratación.
+
+
+2. **Organizadores de Eventos :**
+
+
+   - **Descripción:** Este segmento incluye a profesionales y empresas dedicadas a la planificación y ejecución de eventos que buscan ampliar su cartera de clientes.
+   - **Sexo:** Masculino y Femenino
+   - **Edades:** Adultos jóvenes (18-34 años), adultos de mediana edad (35-54 años) y adultos mayores (55+)
+   - **Nivel socioeconómico:** Clases A, B y C (alta, media-alta y media)
+   - **Necesidades por satisfacer:** Facilitar la captación de nuevos clientes, gestión eficiente de comunicaciones, elaboración de cotizaciones personalizadas y administración de contratos. Además, proporciona herramientas especializadas como calendario de eventos y sistema de notas para optimizar sus operaciones diarias. Esto les permite profesionalizar su trabajo, aumentar su visibilidad y mejorar la organización de sus servicios.
