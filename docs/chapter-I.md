@@ -99,6 +99,20 @@ Este problema puede generar pérdidas económicas significativas para ambas part
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+<div style="text-align: justify">
+
+* Nuestro entorno revela que muchos organizadores de eventos enfrentan dificultades al gestionar múltiples eventos al mismo tiempo. Esto debido a que no cuentan con herramientas especializadas que les permitan automatizar y optimizar sus procesos. Hemos observado que esta situación genera sobrecarga de trabajo, errores en la planificación y disminución en la calidad del servicio, lo cual podría afectar su reputación profesional y la satisfacción de sus clientes.
+  <br><br>
+  **¿Cómo podríamos ayudar a los organizadores de eventos a gestionar eficientemente múltiples eventos simultáneos sin comprometer la calidad del servicio?**
+
+<br>
+
+* Nuestro entorno revela que los anfitriones de eventos encuentran dificultades al momento de buscar y comparar propuestas entre distintos organizadores. Esto debido a que el proceso suele hacerse de forma manual, requiriendo contacto individual con cada proveedor. Hemos observado que esta acción consume mucho tiempo, genera estrés y confusión en la toma de decisiones, lo cual podría llevar a contrataciones poco satisfactorias o más costosas.
+  <br><br>
+  **¿Cómo podríamos simplificar y centralizar el proceso de búsqueda, comparación y contratación de organizadores de eventos para los anfitriones?**
+  
+<br>
+</div>
 
 #### 1.2.2.2. Lean UX Assumptions
 
