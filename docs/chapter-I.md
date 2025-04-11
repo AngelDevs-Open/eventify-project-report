@@ -48,6 +48,53 @@ Los casos expuestos demuestran que, incluso en eventos masivos con artistas reco
 
 </div>
 
+<div style="text-align: justify">
+
+<br>
+
+### Problemática
+
+Para definir la problemática se aplicó la técnica de las 5W y 2H
+<br><br>
+#### 5W's
+
+#### What (¿Cuál es el problema?)
+
+Los organizadores de eventos presentan dificultades en la gestión simultánea de múltiples eventos, lo que puede ocasionar errores de coordinación, contratación incompleta de servicios o sobrecarga de trabajo.
+
+Por otro lado, los anfitriones enfrentan problemas para encontrar, comparar y evaluar las propuestas que reciben de distintos organizadores, ya que este proceso es manual y suele ser muy demandante, lo cual genera estrés e incertidumbre durante la toma de decisiones.
+<br><br>
+#### When (¿Cuándo ocurre el problema?)
+
+En el caso de los organizadores, esto suele suceder cuando deben planificar varios eventos en fechas cercanas, lo cual reduce su margen de maniobra y exige una gestión precisa para evitar fallos.
+
+En el caso de los anfitriones, el problema surge al momento de planificar un evento personal importante (como un matrimonio, fiesta de promoción, bautizo, etc.) y se enfrenta a la compleja tarea de comparar propuestas para elegir al organizador más adecuado.
+<br><br>
+#### Where (¿Dónde ocurre el problema?)
+
+El problema ocurre en el entorno de trabajo de los organizadores, que puede ser una oficina o un local de eventos. Mientras que para los anfitriones ocurre durante el proceso de cotización, que puede ser de forma remota o presencial en el local de eventos.
+<br><br>
+#### Who (¿A quién o quiénes afecta el problema?)
+
+* **Organizadores de eventos sociales no masivos**, que deben gestionar múltiples eventos con fechas simultaneas.
+* **Anfitriones**, que buscan organizar eventos importantes y necesitan cotizar y comparar propuestas de servicios ofrecidos por los organizadores
+<br><br>
+
+#### Why (¿Por qué sucede el problema?)
+
+Porque muchos organizadores no cuentan con herramientas para gestionar cronogramas o controlar recursos eficientemente. A su vez, los anfitriones carecen de plataformas que les permitan centralizar y comparar cotizaciones, lo que los obliga a realizar búsquedas manuales, generando estrés e incertidumbre.
+<br><br>
+
+### 2H's
+#### How (¿Cómo aparece el problema?)
+Los organizadores, al no disponer de herramientas de gestión adecuadas, pueden incurrir en errores como asignaciones incorrectas de recursos, conflictos de horarios o contratación incompleta de proveedores. Los anfitriones, por su parte, suelen contactar organizadores individualmente, solicitar presupuestos y comparar propuestas por separado, lo que hace más complejo y lento el proceso de elección.
+<br><br>
+#### How much (¿Cuánto afecta el problema?)
+Este problema puede generar pérdidas económicas significativas para ambas partes. Por ejemplo, una boda tradicional puede costar aproximadamente $6,000 USD, incluyendo local, catering, decoración y entretenimiento. Un error en la gestión de cualquiera de estos elementos puede resultar en la pérdida total o parcial de la inversión, afectando tanto al organizador (por posibles reembolsos o demandas) como al anfitrión (por una experiencia insatisfactoria o eventos cancelados). (Cisneros, 2021)
+<br><br>
+
+</div>
+
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
