@@ -119,9 +119,41 @@ Este problema puede generar pérdidas económicas significativas para ambas part
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+Para la elaboración de los Hypothesis Statements, se empleó el enfoque de arquitectura Lean UX: [We believe that], [This will achieve] y [We will demonstrate this when]. 
+
+**Hipótesis 1:**
+- **Creemos que**, si simplificamos el proceso de búsqueda y reserva de organizadores de eventos mediante perfiles detallados, **esto logrará** un aumento en la satisfacción del usuario y una reducción en el tiempo que los clientes pasan buscando organizadores adecuados.
+- **Sabremos que esto es cierto cuando** observemos una reducción del 30% en el tiempo de búsqueda y un aumento del 20% en las reservas exitosas realizadas a través de la plataforma.
+
+**Hipótesis 2:**
+- **Creemos que**, si implementamos un sistema de mensajería en tiempo real para que los clientes y organizadores puedan comunicarse directamente, **esto logrará** un aumento en la confirmación de eventos y reducirá la incertidumbre sobre los detalles del evento.
+- **Sabremos que esto es cierto cuando** veamos un aumento del 25% en las confirmaciones de eventos y una reducción del 15% en las cancelaciones debido a malas comunicaciones.
+
+**Hipótesis 3:**
+- **Creemos que**, si permitimos que los organizadores gestionen sus horarios, pagos y contratos a través de una plataforma integrada, **esto logrará**  un aumento en la productividad y organización de los planificadores de eventos.
+- **Sabremos que esto es cierto cuando** observemos un aumento del 20% en el número de eventos organizados por los usuarios y una mejora del 10% en la retención de organizadores.
+
+**Hipótesis 4:**
+- **Creemos que**, si ofrecemos a los clientes la opción de reservar eventos con anticipación y pagar en cuotas, **esto logrará**  tasas de reserva más altas y un mejor flujo de efectivo para los organizadores de eventos.
+- **Sabremos que esto es cierto cuando** veamos un aumento del 15% en las reservas anticipadas y una reducción del 10% en las cancelaciones de última hora.
+
+**Hipótesis 5:**
+- **Creemos que**, si implementamos un sistema de reseñas y calificaciones detalladas para los organizadores de eventos, **esto logrará** una mayor confianza por parte de los clientes al seleccionar organizadores y aumentará la satisfacción general con la plataforma.
+- **Sabremos que esto es cierto cuando** observemos un aumento del 30% en las reservas realizadas después de leer reseñas y un incremento del 25% en la calificación promedio de la experiencia de los usuarios.
+
+**Hipótesis 6:**
+- **Creemos que**, si proporcionamos a los clientes un catálogo con filtros avanzados para buscar organizadores por ubicación, presupuesto y tipo de evento, **esto logrará** una experiencia de búsqueda más eficiente y personalizada.
+- **Sabremos que esto es cierto cuando** veamos una reducción del 25% en el tiempo promedio que los clientes dedican a encontrar un organizador adecuado y un aumento del 20% en las conversiones de búsqueda a reserva.
+
+**Hipótesis 7:**
+- **Creemos que**, si integramos un cronograma/calendario fácil de usar para que los organizadores visualicen y gestionen cronogramas de eventos, tareas y presupuestos, **esto logrará** una mejor ejecución de los eventos y reducirá los errores de planificación.
+- **Sabremos que esto es cierto cuando** observemos una mejora del 20% en la eficiencia de la planificación de eventos y una disminución en los errores durante la ejecución de los mismos.
+
+**Hipótesis 8:**
+- **Creemos que**, si implementamos un sistema de notificaciones automáticas para recordar a los clientes y organizadores sobre eventos, pagos o hitos importantes, **esto logrará** una reducción en los retrasos y olvidos asociados a la planificación y ejecución de eventos.
+- **Sabremos que esto es cierto cuando** observemos una disminución del 20% en los retrasos en los pagos y un 15% menos de eventos cancelados por falta de seguimiento.
 
 #### 1.2.2.4. Lean UX Canvas
-
 
 ## 1.3 Segmentos objetivo
 
