@@ -4,6 +4,117 @@
 
 ### 2.1.1. Análisis competitivo
 
+<table border="1px">
+        <thead>
+            <th colspan="11">Competitive Analysis Landscepe</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="2" colspan="2">¿Por qué llevar a
+                    cabo este análisis?</td>
+                <td colspan="9">Escriba en el recuadro la pregunta que busca responder o el objetivo de
+                    este análisis.</td>
+            </tr>
+            <tr>
+                <td colspan="9">El objetivo de este análisis es comprender el funcionamiento y las características que presentan los productos de nuestros competidores, para posteriormente planificar estrategias y tácticas para aprovechar las fortalezas de nuestro producto y las debilidades de nuestros competidores.   </td> 
+            </tr>
+            <tr>
+                <tr>
+                    <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+                    <td colspan="2">Eventify</td>
+                    <td colspan="2"><img src="/assets/chapter-II/competidor-1.png" style="width: 60px; height: auto;"><br>Bizzabo</td>
+                    <td colspan="2"><img src="/assets/chapter-II/competidor-2.jpg" style="width: 60px; height: auto;"><br>PartySlate</td>
+                    <td colspan="2"><img src="/assets/chapter-II/competidor-3.png" style="width: 60px; height: auto;"><br>Eventective</td>
+                </tr>
+            </tr>
+            <tr>
+                <td rowspan="2" colspan="1">Perfil</td>
+                <td colspan="2">Overview</td>
+                <td colspan="2">Plataforma que brinda herramientas de gestion para organizadores y los conecta con anfitriones que desean contratar sus servicios</td>
+                <td colspan="2">Plataforma para la gestión de eventos corporativos, especializada en conferencias y experiencias presenciales, virtuales e híbridas </td>
+                <td colspan="2">Plataforma donde organizadores de eventos pueden publicar sus servicios mediante portafolios visuales para atraer la atención de los anfitriones que buscan sus servicios.</td>
+                <td colspan="2">Plataforma para buscar y contratar proveedores de servicios para eventos (locales, catering, etc.)</td>
+            </tr>
+            <tr>
+                <td colspan="2"> Ventaja competitiva <br></br> ¿Qué valor ofrece a los clientes?</td>
+                <td colspan="2">Los organizadores tienen herramientas que facilitan la gestion de eventos. Mientras que los anfitriones pueden encontrar, cotizar y analizar distintas propuestas desde un mismo lugar.</td>
+                <td colspan="2">Permite crear y gestionar eventos(presencial, virtual o hibrido). Además presenta sección de networking para cada evento, permitiendo a los participantes interactuar entre ellos. </td>
+                <td colspan="2">Ofrece a los organizadores presentar sus servicios mediante experiencias visuales basadas en portafolios de fotos y videos de eventos anteriores.</td>
+                <td colspan="2">Ofrece facilidad para encontrar servicios para eventos (locales, catering, etc.), gracias a su amplia variedad de proveedores</td>
+            </tr>
+            <tr>
+                <td rowspan="2" colspan="1">Perfil de Marketing</td>
+                <td colspan="2">Mercado Objetivo</td>
+                <td colspan="2">Organizadores de eventos y anfitriones ubicados en Lima, Perú</td>
+                <td colspan="2">Empresas medianas y grandes que organizan conferencias, cumbres o lanzamientos de productos</td>
+                <td colspan="2">Organizadores de eventos, proveedores (catering, musica, fotografos, etc.) y anfitriones, mayormente de EE.UU.</td>
+                <td colspan="2">Proveedores de servicios para eventos (locales, catering, etc) y anfitriones que desean contratar sus servicios en EE.UU. y Canada</td>
+            </tr>
+            <tr>
+                <td colspan="2">Estrategia de Marketing</td>
+                <td colspan="2">Posicionamiento del Landing page del producto. <br><br>Campañas en Google Ads. <br><br>Publicidad en redes sociales.<br><br>Colaboración con organizadores de eventos</td>
+                <td colspan="2">Posicionamiento del Landing page del producto. <br><br>Publicidad en redes sociales. <br><br>Organización de eventos propios para mostrar las caracteristicas de su plataforma</td>
+                <td colspan="2">Publicidad en redes sociales <br><br> Posicionamiento de su plataforma</td>
+                <td colspan="2">Publicidad en redes sociales <br><br> Posicionamiento de su plataforma</td>
+            </tr>
+            <tr>
+                <td rowspan="3" colspan="1">Perfil de Producto</td>
+                <td colspan="2">Producto & Servicio</td>
+                <td colspan="2">Es una aplicación web que conecta a organizadores de eventos con anfitriones que necesitan contratar sus servicios. Además, ofrece herramientas para los organizadores, como calendarios de eventos, notas internas, comunicación directa con los anfitriones, entre otros.  </td>
+                <td colspan="2">Es una aplicación web y movil que ofrece herramientas para gestion de eventos como registro de asistentes, gestión de entradas, networking y analiticas en tiempo real </td>
+                <td colspan="2">Es una aplicación web que ofrece servicios de organizadores de eventos mediante portafolios visuales </td>
+                <td colspan="2">Es una aplicación web que permite realizar busquedas de servicios de proveedores para eventos, como locales, catering, musica, etc.</td>
+            </tr>
+            <tr>
+                <td colspan="2">Precio & Costos  </td>
+                <td colspan="2">El registro a la aplicación sera de forma gratuita, sin embargo, para acceder a las herramientas de gestión, los organizadores deberan pagar una suscripción mensual.</td>
+                <td colspan="2">La aplicación ofrece una tarifa de $17,999 por año</td>
+                <td colspan="2">Publicación gratuida ilimitada y planes desde $195 a $695 mensuales para mayor visibilidad</td>
+                <td colspan="2">Pago por leads o suscripción mensual de $100 a $170</td>
+            </tr>
+            <tr>
+                <td colspan="2">Canales de distribucion (web y/o Movil)</td>
+                <td colspan="2">Aplicación web</td>
+                <td colspan="2">Aplicación web y Móvil</td>
+                <td colspan="2">Aplicación web</td>
+                <td colspan="2">Aplicación web</td>
+            </tr>
+            <tr>
+                <td rowspan="5">Analisis SWOT</td>
+                <td colspan="10">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus
+                    oportunidades y contribuir a lo que ustedes definen como su posible ventaja
+                    competitiva</td>
+            </tr>
+            <tr>
+                <td colspan="2">Fortalezas</td>
+                <td colspan="2">Ofrecemos herramientas de gestión, como calendarios para organizar eventos, comunicación de organizadores y anfitriones</td>
+                <td colspan="2"> Solución potente y robusta para eventos corporativos grandes. Además, se puede integrar con herramientas empresariales</td>
+                <td colspan="2"> Permite a los organizadores y proveedores a crear portafolios visuales de sus servicios para captar la atención de los anfitriones</td>
+                <td colspan="2"> Presenta una amplia variedad de proveedores registrados y es accesible para proveedores pequeños que inician en el rubro.</td>
+            </tr>
+            <tr>
+                <td colspan="2">Debilidades</td>
+                <td colspan="2">Nuestra aplicación es nueva en el mercado nacional, lo que podria complicar atraer nuevos usuarios</td>
+                <td colspan="2">Es compleja y costosa para organizadores de eventos no masivos</td>
+                <td colspan="2">Ofrece pocas opciones para el mercado nacional, ya que esta centrado mayormente para EE.UU. Además no ofrece herramientas de gestión</td>
+                <td colspan="2">Presenta una interfaz muy simple y poco atractiva. Además, los servicios que ofrece solo estan disponibles en EE.UU. y Canada</td>
+            </tr>
+            <tr>
+                <td colspan="2">Oportunidades</td>
+                <td colspan="2">Es una solución escalable para nivel nacional e inclusive para todo latinoamerica.</td>
+                <td colspan="2">Tiene la posibilidad de liderar el sector de eventos híbridos y virtuales, integrando tecnologías como IA para automatizar procesos de gestión.</td>
+                <td colspan="2">Puede expandirse a nuevos países y fortalecer su red de organizadores mediante alianzas estratégicas</td>
+                <td colspan="2">Puede mejorar su interfaz para dale mejor visibilidad a sus proveedores, además de integrar herramientas de gestión</td>
+            </tr>
+            <tr>
+                <td colspan="2">Amenazas</td>
+                <td colspan="2">Al ser una aplicación nueva, el exito depende tener una amplia cantidad de organizadores y anfitriones simultaneamente, ya que si hay poca oferta o demanda en la aplicación, los usuarios no tendrán motivos para permanecer activos.</td>
+                <td colspan="2">La mayor parte de sus clientes son grandes empresas que requieren soluciones personalizadas. Si no cumplen con las expectativas, podrían perder contratos importantes </td>
+                <td colspan="2">Competencia con redes sociales visuales, como Instragram</td>
+                <td colspan="2">Puede quedar obsoleta frente a nuevas soluciones más modernas </td>
+            </tr>
+        </tbody>
+    </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
