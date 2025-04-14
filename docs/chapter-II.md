@@ -216,11 +216,13 @@ Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se r
 * ¿Pudo hacer seguimiento al estado de pagos fácilmente?
 
 ### 2.2.2. Registro de entrevistas
+**Evidencia de entrevistas:**  [Needfinding - Interviews]() 
+
 A continuación, se presentará un resumen de cada entrevista realizada a los segmentos objetivo. Además, cada entrevista contará una captura de pantalla como evidencia y el intervalo de tiempo de duración que tienen en el video realizado, para que sea más sencillo ubicarlos.
 
 <br>
 
-**Segmento Objetivo: Anfitriones de Evento**
+**Segmento Objetivo 1: Anfitriones de Evento**
 <br><br>
 
 **Entrevista 1: John Rafael Cutiri Chinchay**
@@ -235,7 +237,7 @@ A continuación, se presentará un resumen de cada entrevista realizada a los se
 * **Distrito de Residencia:** Chorrillos
 
 * **Duración de la entrevista:** 
-* **Video de las entrevistas:** [Needfinding - Interviews]()
+* **Minuto de la entrevista:** 
 
 **Resumen de la entrevista:**
 
@@ -250,6 +252,107 @@ Respecto al desarrollo del evento, un aspecto que le hubiera gustado que se expl
 En cuanto al pago, se estableció un adelanto del 30% y el resto a cancelar el día del evento. No obstante, el entrevistado optó por realizar pagos periódicos para facilitar la gestión económica. Todos los pagos se efectuaron mediante transferencia bancaria y no se presentaron gastos imprevistos. Aunque no recibió boletas ni facturas, conservó las capturas de pantalla como comprobantes de pago.
 
 A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resultado final. Consideró que el evento cumplió sus expectativas y que el organizador logró plasmar su visión. Asimismo, afirmó que no habría pagado más por un servicio de mayor calidad, ya que lo recibido le pareció adecuado. Finalmente, mencionó que recomendaría al organizador por haber cumplido con lo prometido.
+
+**Entrevista 2: [Nombre]**
+
+[Foto]
+
+**Datos del entrevistado**
+* **Nombre:** 
+* **Edad:** 
+* **Estado civil:** 
+* **Ocupación:** 
+* **Distrito de Residencia:** 
+
+* **Duración de la entrevista:**
+* **Minuto de la entrevista:**
+
+**Resumen de la entrevista:**
+
+
+
+**Entrevista 3: [Nombre]**
+
+[Foto]
+
+**Datos del entrevistado**
+* **Nombre:**
+* **Edad:**
+* **Estado civil:**
+* **Ocupación:**
+* **Distrito de Residencia:**
+
+* **Duración de la entrevista:**
+* **Minuto de la entrevista:**
+
+**Resumen de la entrevista:**
+
+**Segmento Objetivo 2: Organizadores de Evento**
+<br><br>
+
+**Entrevista 1: Teodoro Paico Sernaqué**
+
+[foto]
+
+**Datos del entrevistado:**
+* **Nombre:** Teodoro Paico Sernaqué
+* **Edad:** 54 años
+* **Estado civil:** Conviviente
+* **Ocupación:** Organizador de eventos.
+* **Distrito de Residencia:** La Unión - Piura
+
+* **Duración de la entrevista:** 24:19
+* **Minuto de de la entrevista:** [ - ]
+
+**Resumen de la entrevista:**
+
+El entrevistado es un organizador de eventos con una empresa formalmente constituida y con razón social, respaldado por 12 años de experiencia en el rubro. Se describe como una persona responsable, entusiasta y apasionada por su trabajo. Su navegador web de preferencia es Google Chrome.
+
+Durante la entrevista, compartió cómo ha sido su desarrollo profesional en el ámbito de la organización de eventos. Todo comenzó en el año 2012, cuando ofrecía servicios de alquiler de equipos de sonido. Al notar que el negocio era rentable y contribuía significativamente a su economía familiar, decidió expandirse y dedicarse de lleno al rubro de eventos.
+
+Actualmente, mantiene comunicación con sus clientes principalmente a través de redes sociales como WhatsApp y Messenger, así como por llamadas telefónicas. Señaló que la publicidad por radio ha sido de gran ayuda para generar interacción con nuevos clientes.
+
+Dentro de los eventos que organiza con mayor frecuencia destacan las bodas y los bautizos, aunque también presta servicios para fiestas infantiles, quinceañeros, baby showers, serenatas públicas y aniversarios. Ofrece distintos tipos de paquetes, los cuales varían según los servicios incluidos y los recursos requeridos. Desde el momento en que un cliente lo contacta, comienza a organizar su agenda de acuerdo a los requerimientos solicitados. A lo largo del proceso, mantiene una comunicación constante con el cliente para asegurar que todos los detalles se cumplan hasta el día del evento.
+
+En cuanto a la gestión de pagos, indicó que trabaja bajo contrato: solicita un abono del 50% por adelantado y el saldo restante al finalizar el evento. Los medios de pago más utilizados son transferencias bancarias y efectivo.
+
+Un aspecto que considera importante mejorar es la automatización del control y gestión de materiales e insumos. A pesar de los desafíos, se siente orgulloso de poder cumplir con las expectativas de sus clientes y brindarles una experiencia satisfactoria. Sin embargo, también ha enfrentado dificultades, como clientes que no cumplen con los pagos a tiempo o que solicitan más servicios de los previamente acordados. Ante estas situaciones, procura mantener una actitud positiva y aprender de cada experiencia para seguir mejorando en su labor.
+
+**Entrevista 2: [Nombre]**
+
+[foto]
+
+**Datos del entrevistado:**
+* **Nombre:** 
+* **Edad:** 
+* **Estado civil:** 
+* **Ocupación:** Organizador de eventos.
+* **Distrito de Residencia:** 
+
+* **Duración de la entrevista:** 
+* **Minuto de de la entrevista:** 
+
+**Resumen de la entrevista:**
+
+
+
+
+**Entrevista 3: [Nombre]**
+
+[foto]
+
+**Datos del entrevistado:**
+* **Nombre:**
+* **Edad:**
+* **Estado civil:**
+* **Ocupación:** Organizador de eventos.
+* **Distrito de Residencia:**
+
+* **Duración de la entrevista:**
+* **Minuto de de la entrevista:**
+
+**Resumen de la entrevista:**
+
 
 ### 2.2.3. Análisis de entrevistas
 
