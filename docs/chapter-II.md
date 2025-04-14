@@ -292,7 +292,7 @@ A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resu
 
 **Entrevista 1: Teodoro Paico Sernaqué**
 
-[foto]
+![Organizador-1](../assets/chapter-II/entrevista-organizador-1.png) 
 
 **Datos del entrevistado:**
 * **Nombre:** Teodoro Paico Sernaqué
