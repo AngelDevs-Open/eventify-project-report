@@ -216,7 +216,40 @@ Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se r
 * ¿Pudo hacer seguimiento al estado de pagos fácilmente?
 
 ### 2.2.2. Registro de entrevistas
+A continuación, se presentará un resumen de cada entrevista realizada a los segmentos objetivo. Además, cada entrevista contará una captura de pantalla como evidencia y el intervalo de tiempo de duración que tienen en el video realizado, para que sea más sencillo ubicarlos.
 
+<br>
+
+**Segmento Objetivo: Anfitriones de Evento**
+<br><br>
+
+**Entrevista 1: John Rafael Cutiri Chinchay**
+
+![Anfitrion 1](../assets/chapter-II/entrevista-anfitrion-1.png)
+
+**Datos del entrevistado**
+* **Nombre:** John Rafael Cutiri Chinchay
+* **Edad:** 52 años
+* **Estado civil:** Casado
+* **Ocupación:** Comerciante
+* **Distrito de Residencia:** Chorrillos
+
+* **Duración de la entrevista:** 
+* **Video de las entrevistas:** [Needfinding - Interviews]()
+
+**Resumen de la entrevista:**
+
+El entrevistado se llama John Rafael Cutiri Chinchay, es una persona sobria, directa y de pocas palabras. Actualmente se encuentra casado, reside en Chorrillos y trabaja como comerciante. El navegador que utiliza con frecuencia es Google Chrome y su dispositivo preferido es el celular.
+
+Durante la entrevista, el señor John relató su experiencia al contratar a un organizador de eventos para la fiesta de quince años de su hija. La planificación del evento duró aproximadamente 10 meses. El entrevistado contrató a este organizador tras solicitar varias cotizaciones con diferentes proveedores, decidiendo contratar al organizador recomendado por un familiar, ya que le generaba mayor confianza y las propuestas que recibió eran muy similares. Además, se convenció al ver videos de eventos anteriores publicados por este organizador en redes sociales.
+
+Durante la planificación, la comunicación con el organizador se limitó a la firma del contrato, pero se intensificó a medida que se acercaba la fecha del evento, utilizando WhatsApp como canal principal. Tambien, comento que lo mas estresante fue este periodo cercano al evento, ya que sentia presión por la posibilidad de que algo pudiera faltar. 
+
+Respecto al desarrollo del evento, un aspecto que le hubiera gustado que se explicara con mayor claridad fue el tema del volumen de la música. Esto debido a que el local se encontraba en una zona de condominios y no se le permitió aumentar el volumen para evitar molestias a los vecinos. También manifestó cierta insatisfacción con la atención a los invitados, ya que notó que algunas mesas eran atendidas mientras otras no, lo cual evidenciaba una posible falta de personal.
+
+En cuanto al pago, se estableció un adelanto del 30% y el resto a cancelar el día del evento. No obstante, el entrevistado optó por realizar pagos periódicos para facilitar la gestión económica. Todos los pagos se efectuaron mediante transferencia bancaria y no se presentaron gastos imprevistos. Aunque no recibió boletas ni facturas, conservó las capturas de pantalla como comprobantes de pago.
+
+A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resultado final. Consideró que el evento cumplió sus expectativas y que el organizador logró plasmar su visión. Asimismo, afirmó que no habría pagado más por un servicio de mayor calidad, ya que lo recibido le pareció adecuado. Finalmente, mencionó que recomendaría al organizador por haber cumplido con lo prometido.
 
 ### 2.2.3. Análisis de entrevistas
 
