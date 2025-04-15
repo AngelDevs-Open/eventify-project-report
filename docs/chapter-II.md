@@ -299,22 +299,31 @@ En cuanto al pago, se estableció un adelanto del 30% y el resto a cancelar el d
 
 A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resultado final. Consideró que el evento cumplió sus expectativas y que el organizador logró plasmar su visión. Asimismo, afirmó que no habría pagado más por un servicio de mayor calidad, ya que lo recibido le pareció adecuado. Finalmente, mencionó que recomendaría al organizador por haber cumplido con lo prometido.
 
-**Entrevista 2: [Nombre]**
+**Entrevista 2: Cenith Luque García**
 
-[Foto]
+![Anfitrion_2](../assets/chapter-II/entrevista-anfitrión-2.png)
 
 **Datos del entrevistado**
-* **Nombre:** 
-* **Edad:** 
-* **Estado civil:** 
-* **Ocupación:** 
-* **Distrito de Residencia:** 
+* **Nombre:** Cenith Luque García
+* **Edad:** 39 años 
+* **Estado civil:** Casada
+* **Ocupación:** Militar del ejército peruano
+* **Distrito de Residencia:** Lima - Chorrillos
 
-* **Duración de la entrevista:**
+* **Duración de la entrevista:** 5:35
 * **Minuto de la entrevista:**
 
 **Resumen de la entrevista:**
 
+La entrevistada se llama Cenith Luque García. Se describe como una mujer comprometida y responsable, cualidades que considera fundamentales para el éxito en la organización de eventos. Durante la entrevista, compartió su experiencia al organizar un evento para el Ejército Peruano, específicamente un almuerzo conmemorativo por el 145 aniversario del arma de ingeniería. Actualmente, Cenith utiliza redes sociales como Facebook e Instagram para establecer contactos profesionales, lo cual le permitió comunicarse inicialmente con el cliente.
+
+La planificación del evento se desarrolló con anticipación y requirió un trabajo constante de coordinación. Desde el inicio, la comunicación con el cliente se dio por mensajes, para luego pasar a reuniones presenciales con el objetivo de alinear expectativas y definir detalles. Uno de los temas que generó confusión fue el de la decoración, por lo que se necesitó mayor explicación para evitar malentendidos. Cenith resaltó la importancia de contar con una buena comunicación para que tanto el organizador como el cliente estén en sintonía.
+
+En cuanto a los aspectos formales, se firmó un contrato que detallaba los servicios acordados, y los pagos se realizaron mediante transferencias bancarias. Este procedimiento, según la entrevistada, brindó seguridad a ambas partes. Además, se llevó un seguimiento ordenado de los pagos, lo cual contribuyó a generar confianza en el proceso.
+
+Durante el desarrollo del evento, Cenith sintió cierta frustración por los tiempos de ejecución, ya que no se cumplieron tal como habían sido planeados. A pesar de ello, se mostró satisfecha con el resultado final, pues la organización comprendió correctamente la visión general del evento. Consideró que el costo fue razonable y que lo más importante era lograr una experiencia de calidad, sin enfocarse exclusivamente en el presupuesto.
+
+Finalmente, la entrevistada afirmó que recomendaría al organizador del evento, destacando su profesionalismo y cumplimiento. También subrayó que una planificación adecuada, una comunicación constante y una buena gestión financiera son claves para llevar a cabo un evento exitoso.
 
 
 **Entrevista 3: [Nombre]**
@@ -364,7 +373,7 @@ En cuanto a la gestión de pagos, indicó que trabaja bajo contrato: solicita un
 
 Un aspecto que considera importante mejorar es la automatización del control y gestión de materiales e insumos. A pesar de los desafíos, se siente orgulloso de poder cumplir con las expectativas de sus clientes y brindarles una experiencia satisfactoria. Sin embargo, también ha enfrentado dificultades, como clientes que no cumplen con los pagos a tiempo o que solicitan más servicios de los previamente acordados. Ante estas situaciones, procura mantener una actitud positiva y aprender de cada experiencia para seguir mejorando en su labor.
 
-**Entrevista 2: [Nombre]**
+**Entrevista 2:**
 
 [foto]
 
