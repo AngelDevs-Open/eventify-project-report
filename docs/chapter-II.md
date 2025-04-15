@@ -326,21 +326,31 @@ Durante el desarrollo del evento, Cenith sintió cierta frustración por los tie
 Finalmente, la entrevistada afirmó que recomendaría al organizador del evento, destacando su profesionalismo y cumplimiento. También subrayó que una planificación adecuada, una comunicación constante y una buena gestión financiera son claves para llevar a cabo un evento exitoso.
 
 
-**Entrevista 3: [Nombre]**
+**Entrevista 3: Anacristina Reymundo Mamani**
 
-[Foto]
+![Anfitrion_3](../assets/chapter-II/entrevista-anfitrión-3.png)
 
 **Datos del entrevistado**
-* **Nombre:**
-* **Edad:**
-* **Estado civil:**
-* **Ocupación:**
-* **Distrito de Residencia:**
+* **Nombre:** Anacristina Reymundo Mamani
+* **Edad:** 22 años
+* **Estado civil:** Soltera
+* **Ocupación:** Estudiante de Medicina veterinaria
+* **Distrito de Residencia:** Lima - Santiago de Surco
 
-* **Duración de la entrevista:**
-* **Minuto de la entrevista:**
+* **Duración de la entrevista:** 8:25 
+* **Minuto de la entrevista:** 0:20 
 
 **Resumen de la entrevista:**
+
+La entrevistada se llama Anacristina Reymundo Mamani. Es una joven de 22 años que se define como empática, responsable y proactiva. Es estudiante de Medicina Veterinaria y se encuentra soltera. Durante la entrevista, compartió su experiencia al organizar un evento familiar para celebrar los 80 años de su abuela. Aunque fue su familia quien contrató al organizador de eventos, Anacristina fue la encargada de mantener contacto con él. Lo conoció inicialmente a través de TikTok, y los factores que consideró para elegirlo fueron su creatividad y responsabilidad. Consultó con otros organizadores antes de decidirse, pero finalmente optó por él.
+
+La planificación del evento tomó aproximadamente dos meses y medio. Sin embargo, Anacristina mencionó que le costó entender por qué algunos organizadores cobraban más que otros por aparentemente los mismos servicios. La comunicación con el organizador fue calificada como regular, ya que, aunque se mantuvieron en contacto mayormente por WhatsApp y en ocasiones por llamadas, él no siempre respondía de manera oportuna. Uno de los aspectos que le hubiera gustado mejorar fue el posicionamiento de las mesas, que quedaron demasiado juntas, algo que no se discutió adecuadamente durante la planificación.
+
+En cuanto a los aspectos financieros, el proceso de cotización incluyó un adelanto del 25% al inicio y el pago del 75% restante al finalizar el evento, todo realizado mediante transferencias bancarias. Este sistema le permitió hacer seguimiento de los pagos fácilmente. Sin embargo, surgieron gastos inesperados debido a que algunos invitados rompieron vasos y copas durante la celebración.
+
+Anacristina afirmó que no recomendaría contratar nuevamente al mismo organizador debido a su falta de experiencia y a una comunicación deficiente, lo cual afectó la ejecución del evento. Aunque valoró no tener que preocuparse por la planificación, pues el organizador se encargaba de ello, sintió que su idea general del evento no fue bien comprendida. Además, consideró que el precio del evento no fue adecuado, ya que cree que otros organizadores habrían podido hacerlo mejor.
+
+Lo más frustrante para ella fue la falta de respuesta por parte del organizador, quien no era lo suficientemente comunicativo. A pesar de estos inconvenientes, destacó que la gestión de pagos fue sencilla gracias al uso exclusivo de transferencias bancarias.
 
 **Segmento Objetivo 2: Organizadores de Evento**
 <br><br>
