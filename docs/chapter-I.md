@@ -171,89 +171,17 @@ Para la elaboración de los Hypothesis Statements, se empleó el enfoque de arqu
 
 El Lean UX Canvas de Eventify identifica los problemas de los clientes para encontrar organizadores de eventos adecuados y de los organizadores para gestionar eficientemente sus tareas y calendarios. Propone soluciones como la implementación de filtros avanzados, un sistema de mensajería en tiempo real, y herramientas integradas de gestión de eventos para mejorar la experiencia del usuario, validando su efectividad mediante hipótesis específicas y métricas claras.
 
-<table border="1px" style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td style="vertical-align: top; padding: 10px; word-wrap: break-word; width: 33%;">
-        <div style="text-align: center; font-weight: bold;">Business Problem</div>
-        <div style="text-align: justify;">
-        Los clientes que buscan organizar eventos enfrentan dificultades para encontrar organizadores confiables, con disponibilidad adecuada y que se ajusten a sus necesidades específicas, lo que genera frustración, pérdida de tiempo y riesgos de contratar servicios que no cumplen sus expectativas. Al mismo tiempo, los organizadores de eventos carecen de herramientas efectivas para centralizar la gestión de sus calendarios, coordinar comunicaciones con los clientes, administrar pagos y recibir reseñas, lo que limita su capacidad para optimizar sus operaciones y aumentar su cartera de clientes.
-        </div>
-    </td>
-    <td rowspan="2" style="vertical-align: top; padding: 10px; word-wrap: break-word; width: 33%;">
-        <div style="text-align: center; font-weight: bold;">Solutions</div>
-        <div style="text-align: justify;">
-            <ul style="margin: 0; padding-left: 20px;">
-                <li>Implementación de un sistema de perfiles detallados y filtros avanzados que permite a los clientes realizar búsquedas precisas de organizadores según ubicación, presupuesto y tipo de evento, optimizando el proceso de selección y reduciendo el tiempo invertido en encontrar la opción adecuada.</li>
-                <li>Desarrollo e integracion de un sistema de mensajería en tiempo real que facilita la comunicación directa y eficiente entre clientes y organizadores, asegurando una mejor coordinación y confirmación de eventos, lo que disminuye los errores de comunicación y reduce las cancelaciones de ultima hora.</li>
-                <li>Integración de Gestión Centralizada de Eventos que permite a los organizadores gestionar todos los aspectos de sus eventos, desde la programación en un calendario interactivo hasta la gestión de pagos y contratos, optimizando la organización y aumentando la eficiencia operativa.</li>
-            </ul>
-        </div>
-    </td>
-    <td style="vertical-align: top; padding: 10px; word-wrap: break-word; width: 34%;">
-        <div style="text-align: center; font-weight: bold;">Business Outcomes</div>
-        <div style="text-align: justify;">
-            <ul style="margin: 0; padding-left: 20px;">
-                <li>Incremento en la cantidad de eventos confirmados, facilitando la comunicación directa entre clientes y organizadores mediante un sistema de mensajería en tiempo real.</li>
-                <li>Reducción del tiempo promedio de búsqueda de organizadores, gracias a la implementación de filtros avanzados y perfiles detallados que personalizan la experiencia del cliente.</li>
-                <li>Mejora en la confianza y satisfacción de los clientes, a través de un sistema de reseñas y calificaciones detalladas que les permite tomar decisiones informadas.</li>
-                <li>Aumento en la eficiencia operativa de los organizadores de eventos, mediante herramientas integradas como calendarios interactivos, gestión de pagos y notificaciones automáticas.</li>
-            </ul>
-        </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top; padding: 10px; word-wrap: break-word; width: 350px;">
-        <div style="text-align: center; font-weight: bold;">Users & Costumers</div>
-        <div style="text-align: justify;">
-            <ul style="margin: 0; padding-left: 20px;">
-                <li>Anfitriones de eventos: Necesitan encontrar organizadores confiables y disponibles que se ajusten a sus necesidades específicas. Valoran un proceso rápido y sencillo que les permita explorar opciones, contactar organizadores y gestionar pagos sin complicaciones.</li>
-                <li>Organizadores de eventos: Buscan herramientas que les permitan gestionar su tiempo, clientes y pagos de manera eficiente. Valoran funcionalidades como calendarios interactivos, sistemas de comunicación directa con clientes y opciones para recibir reseñas que mejoren su reputación y atraigan más clientes.</li>
-            </ul>
-        </div>
-    </td>
-    <td style="vertical-align: top; padding: 10px; word-wrap: break-word; width: 150px;">
-        <div style="text-align: center; font-weight: bold;">User Outcomes & Benefits</div>
-        <div style="text-align: justify;">
-            <ul style="margin: 0; padding-left: 20px;">
-                <li>Los clientes podrán encontrar organizadores adecuados de manera más rápida y eficiente mediante perfiles detallados y filtros avanzados, lo que reducirá significativamente el tiempo dedicado a la búsqueda y aumentará la tasa de reservas exitosas a través de la plataforma.</li>
-                <li>La integración de un sistema de mensajería en tiempo real facilitará la comunicación directa entre clientes y organizadores, mejorando la coordinación y confirmación de eventos, y reduciendo el número de cancelaciones debidas a malas comunicaciones.</li>
-                <li>Los organizadores podrán gestionar sus eventos, calendarios, pagos y contratos desde una plataforma centralizada y fácil de usar, lo que optimizará su productividad, reducirá los errores en la planificación y aumentará la retención de organizadores gracias a una experiencia más fluida y eficiente.</li>
-            </ul>
-        </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top; padding: 10px; word-wrap: break-word; width: 350px;">
-        <div style="text-align: center; font-weight: bold;">Hypotheses</div>
-        <div style="text-align: justify;">
-            <ul style="margin: 0; padding-left: 20px;">
-                <li>Los clientes podrán encontrar organizadores adecuados de manera más rápida y eficiente mediante perfiles detallados y filtros avanzados, lo que reducirá significativamente el tiempo dedicado a la búsqueda y aumentará la tasa de reservas exitosas a través de la plataforma.</li>
-                <li>La integración de un sistema de mensajería en tiempo real facilitará la comunicación directa entre clientes y organizadores, mejorando la coordinación y confirmación de eventos, y reduciendo el número de cancelaciones debidas a malas comunicaciones.</li>
-                <li>Los organizadores podrán gestionar sus eventos, calendarios, pagos y contratos desde una plataforma centralizada y fácil de usar, lo que optimizará su productividad, reducirá los errores en la planificación y aumentará la retención de organizadores gracias a una experiencia más fluida y eficiente.</li>
-            </ul>
-        </div>
-    </td>
-    <td style="vertical-align: top; padding: 10px; word-wrap: break-word; width: 350px;">
-        <div style="text-align: center; font-weight: bold;">What's the most important thing we need to learn first</div>
-        <div style="text-align: justify;">
-            <ul style="margin: 0; padding-left: 20px;">
-                <li>Aprender si los organizadores realmente necesitan herramientas centralizadas para gestionar eventos, pagos y tareas en un solo lugar. Esto nos ayudará a saber si la integración de estas funciones mejora la productividad de los organizadores y reduce los errores en la planificación de eventos.</li>
-                <li>Aprender si los clientes realmente pueden encontrar organizadores adecuados de manera eficiente al utilizar los filtros avanzados y perfiles detallados. Esto nos ayudará a saber si nuestras soluciones de búsqueda realmente mejoran la experiencia del usuario y aumentan las reservas.</li>
-            </ul>
-        </div>
-    </td>
-    <td style="vertical-align: top; padding: 10px; word-wrap: break-word; width: 350px;">
-        <div style="text-align: center; font-weight: bold;">What's the least amount of work we need to do to learn the next most important thing?</div>
-        <div style="text-align: justify;">
-            <ul style="margin: 0; padding-left: 20px;">
-                <li>Desarrollaremos una versión básica del sistema de búsqueda con filtros avanzados y perfiles detallados de organizadores. Luego, realizaremos pruebas con usuarios para medir si se reduce el tiempo de búsqueda en un 25% y se aumenta las reservas exitosas en un 20%.</li>
-                <li>Integraremos una función básica que permita a los organizadores gestionar sus horarios, pagos y tareas en un solo lugar. A continuación, observaremos si los organizadores aumentan su productividad en un 20% y si la retención de organizadores mejora en un 10%.</li>
-                <li>Implementaremos una función simple de mensajería en la plataforma, y evaluaremos si la herramienta mejora las confirmaciones de eventos en un 25% y reduce las cancelaciones en un 15%.</li>
-            </ul>
-        </div>
-    </td>
-  </tr>
-</table>
+| **Business Problem** | **Solutions** | **Business Outcomes** |
+|-----------------------|---------------|------------------------|
+| Los clientes que buscan organizar eventos enfrentan dificultades para encontrar organizadores confiables, con disponibilidad adecuada y que se ajusten a sus necesidades específicas, lo que genera frustración, pérdida de tiempo y riesgos de contratar servicios que no cumplen sus expectativas. Al mismo tiempo, los organizadores de eventos carecen de herramientas efectivas para centralizar la gestión de sus calendarios, coordinar comunicaciones con los clientes, administrar pagos y recibir reseñas, lo que limita su capacidad para optimizar sus operaciones y aumentar su cartera de clientes. | - Implementación de un sistema de perfiles detallados y filtros avanzados que permite a los clientes realizar búsquedas precisas de organizadores según ubicación, presupuesto y tipo de evento, optimizando el proceso de selección y reduciendo el tiempo invertido en encontrar la opción adecuada. <br>- Desarrollo e integración de un sistema de mensajería en tiempo real que facilita la comunicación directa y eficiente entre clientes y organizadores, asegurando una mejor coordinación y confirmación de eventos, lo que disminuye los errores de comunicación y reduce las cancelaciones de última hora. <br>- Integración de gestión centralizada de eventos que permite a los organizadores gestionar todos los aspectos de sus eventos, desde la programación en un calendario interactivo hasta la gestión de pagos y contratos, optimizando la organización y aumentando la eficiencia operativa. | - Incremento en la cantidad de eventos confirmados, facilitando la comunicación directa entre clientes y organizadores mediante un sistema de mensajería en tiempo real. <br>- Reducción del tiempo promedio de búsqueda de organizadores, gracias a la implementación de filtros avanzados y perfiles detallados que personalizan la experiencia del cliente. <br>- Mejora en la confianza y satisfacción de los clientes, a través de un sistema de reseñas y calificaciones detalladas que les permite tomar decisiones informadas. <br>- Aumento en la eficiencia operativa de los organizadores de eventos, mediante herramientas integradas como calendarios interactivos, gestión de pagos y notificaciones automáticas. |
+
+| **Users & Customers** | **User Outcomes & Benefits** |
+|------------------------|------------------------------|
+| - **Anfitriones de eventos:** Necesitan encontrar organizadores confiables y disponibles que se ajusten a sus necesidades específicas. Valoran un proceso rápido y sencillo que les permita explorar opciones, contactar organizadores y gestionar pagos sin complicaciones. <br>- **Organizadores de eventos:** Buscan herramientas que les permitan gestionar su tiempo, clientes y pagos de manera eficiente. Valoran funcionalidades como calendarios interactivos, sistemas de comunicación directa con clientes y opciones para recibir reseñas que mejoren su reputación y atraigan más clientes. | - Los clientes podrán encontrar organizadores adecuados de manera más rápida y eficiente mediante perfiles detallados y filtros avanzados, lo que reducirá significativamente el tiempo dedicado a la búsqueda y aumentará la tasa de reservas exitosas a través de la plataforma. <br>- La integración de un sistema de mensajería en tiempo real facilitará la comunicación directa entre clientes y organizadores, mejorando la coordinación y confirmación de eventos, y reduciendo el número de cancelaciones debidas a malas comunicaciones. <br>- Los organizadores podrán gestionar sus eventos, calendarios, pagos y contratos desde una plataforma centralizada y fácil de usar, lo que optimizará su productividad, reducirá los errores en la planificación y aumentará la retención de organizadores gracias a una experiencia más fluida y eficiente. |
+
+| **Hypotheses** | **What's the most important thing we need to learn first** | **What's the least amount of work we need to do to learn the next most important thing?** |
+|----------------|-----------------------------------------|---------------------------------------------------------|
+| - Los clientes podrán encontrar organizadores adecuados de manera más rápida y eficiente mediante perfiles detallados y filtros avanzados, lo que reducirá significativamente el tiempo dedicado a la búsqueda y aumentará la tasa de reservas exitosas a través de la plataforma. <br>- La integración de un sistema de mensajería en tiempo real facilitará la comunicación directa entre clientes y organizadores, mejorando la coordinación y confirmación de eventos, y reduciendo el número de cancelaciones debidas a malas comunicaciones. <br>- Los organizadores podrán gestionar sus eventos, calendarios, pagos y contratos desde una plataforma centralizada y fácil de usar, lo que optimizará su productividad, reducirá los errores en la planificación y aumentará la retención de organizadores gracias a una experiencia más fluida y eficiente. | - Aprender si los organizadores realmente necesitan herramientas centralizadas para gestionar eventos, pagos y tareas en un solo lugar. Esto nos ayudará a saber si la integración de estas funciones mejora la productividad de los organizadores y reduce los errores en la planificación de eventos. <br>- Aprender si los clientes realmente pueden encontrar organizadores adecuados de manera eficiente al utilizar los filtros avanzados y perfiles detallados. Esto nos ayudará a saber si nuestras soluciones de búsqueda realmente mejoran la experiencia del usuario y aumentan las reservas. | - Desarrollaremos una versión básica del sistema de búsqueda con filtros avanzados y perfiles detallados de organizadores. Luego, realizaremos pruebas con usuarios para medir si se reduce el tiempo de búsqueda en un 25% y se aumentan las reservas exitosas en un 20%. <br>- Integraremos una función básica que permita a los organizadores gestionar sus horarios, pagos y tareas en un solo lugar. A continuación, observaremos si los organizadores aumentan su productividad en un 20% y si la retención de organizadores mejora en un 10%. <br>- Implementaremos una función simple de mensajería en la plataforma, y evaluaremos si la herramienta mejora las confirmaciones de eventos en un 25% y reduce las cancelaciones en un 15%. |
 
 ## 1.3 Segmentos objetivo
 
