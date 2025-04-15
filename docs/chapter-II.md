@@ -118,6 +118,52 @@
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+* **Estrategia de diferenciación:**
+  <br><br>
+    - La estrategia de diferenciación se basa en ofrecer una solución de software única que se distinga de la competencia. En este caso, la propuesta es crear una aplicación web que conecte a organizadores de eventos con anfitriones, brindando herramientas de gestión para facilitar la planificación y ejecución de eventos. Esto permitirá a los organizadores optimizar su trabajo y a los anfitriones encontrar fácilmente el servicio que necesitan.
+      <br><br>
+
+    * **Tácticas:**
+        - Incluir funcionalidades como calendario, chat directo, cotizaciones automáticas, notas personalizadas y seguimiento por pasos.
+        - Diseñar una interfaz intuitiva, clara y amigable desde el primer uso.
+
+
+* **Estrategia de liderazgo en costos:**
+  <br><br>
+    - La estrategia de liderazgo en costos implica ofrecer una solución a un precio más bajo que la competencia. En este caso, se propone ofrecer una suscripción mensual asequible para los organizadores de eventos, lo que les permitirá acceder a herramientas de gestión sin incurrir en altos costos iniciales.
+      <br><br>
+
+    * **Tácticas:**
+        - Implementar un modelo freemium: registro gratuito y herramientas básicas sin costo.
+        - Ofrecer una suscripción mensual accesible para funciones avanzadas, en contraste con los altos precios de aplicaciones como Bizzabo.
+        - No cobrar comisiones por contratos gestionados dentro de la app.
+
+* **Estrategia de diferenciación enfocada:**
+  <br><br>
+    - La propuesta se enfoca en atender a nichos específicos del mercado de eventos sociales (como cumpleaños, bodas y celebraciones familiares), evitando la complejidad de plataformas orientadas a eventos corporativos de gran escala.
+      <br><br>
+
+    * **Tácticas:**
+        - Simplificar las funcionalidades para que se adapten a las necesidades reales de los eventos sociales.
+        - Ajustar la comunicación visual y verbal al tono cercano, emocional y personal que estos eventos suelen tener.
+
+* **Estrategias competitivas adicionales:**
+  <br><br>
+
+    * **Tácticas:**
+        - Permitir a los usuarios dejar reseñas y calificaciones de los organizadores.
+        - Implementar notificaciones automáticas sobre el avance de cada evento (como recordatorios o pendientes).
+
+* **Estrategia de construcción de marca:**
+  <br><br>
+    - Apostar por una identidad visual cálida, cercana y profesional, que conecte emocionalmente con el público objetivo y genere confianza.
+      <br><br>
+
+    * **Tácticas:**
+        - Desarrollar una identidad visual con colores amigables y un logo simple pero memorable.
+        - Utilizar redes sociales como Instagram, TikTok y Facebook para mostrar casos reales de uso de la app (antes y después de eventos organizados con Eventify).
+        - Fomentar una comunidad activa alrededor de la marca, compartiendo consejos y experiencias sobre organización de eventos.
+
 
 ## 2.2. Entrevistas
 
