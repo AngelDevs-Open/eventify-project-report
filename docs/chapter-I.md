@@ -130,6 +130,42 @@ Sabremos que tenemos éxito cuando observemos un aumento en la cantidad de contr
 
 #### 1.2.2.2. Lean UX Assumptions
 
+***Business Assumptions:***
+   1. Consideramos que nuestros clientes necesitan procesos más eficientes para gestionar sus servicios
+   2. Estas necesidades pueden ser resueltas con una aplicación web que brinde herramientas y soporte para gestión de eventos.
+   3. Nuestros clientes iniciales serán organizadores de eventos no masivos y anfitriones que no tienen experiencia contratando servicios para organizar eventos.
+   4. El aspecto más importante que un cliente organizador de eventos buscará en mi servicio son los instrumentos de control y gestión.
+   5. El aspecto más importante que un cliente anfitrión buscará en mi servicio es la búsqueda rápida y eficiente de servicios.
+   6. Como StartUp generamos dinero mediante un modelo de negocios de suscripciones.
+   7. El cliente podrá adquirir mayores beneficios como el aumento de herramientas de control.
+   8. Voy a conseguir la mayor parte de mis clientes recomendaciones y publicidad en redes sociales.
+   9. La competencia en el mercado serán las demás aplicaciones enfocadas en el rubro de soporte de búsqueda y gestión de eventos.
+   10. Nos destacaremos de la competencia por nuestras herramientas eficaces y versátiles que optimizan la organización y gestión de eventos.
+   11. Nuestro mayor riesgo es ser desestimados por la desconfianza a las nuevas tecnologías.
+   12. Solucionaremos esto con una interfaz amigable, herramientas intuitivas que generen confianza.
+    
+***User Assumptions:***
+   13. Nuestros usuarios serán principalmente anfitriones que organizan su primer evento o no tienen experiencia, y organizadores que manejan sus eventos de forma manual.
+   14. Nuestro producto abordará la necesidad de los organizadores de eventos por gestionar con mayor facilidad la realización de un evento.
+   15. Nuestro producto abordará la necesidad de los anfitriones por buscar, comparar y contratar a organizadores de eventos.
+   16. Las características más importantes de nuestro producto son las herramientas de gestión y búsqueda hechas a la medida del rubro.
+
+***Business Outcome Assumptions:***
+- Conseguir un incremento en la cantidad de eventos confirmados, facilitando la comunicación directa entre clientes y organizadores mediante un sistema de mensajería en tiempo real.
+- Reducción del tiempo promedio de búsqueda de organizadores, gracias a la implementación de filtros avanzados y perfiles detallados que personalizan la experiencia del cliente.
+- Mejora en la confianza y satisfacción de los clientes, a través de un sistema de reseñas y calificaciones detalladas que les permite tomar decisiones informadas.
+- Aumento en la eficiencia operativa de los organizadores de eventos, mediante herramientas integradas como calendarios interactivos, gestión de pagos y notificaciones automáticas.
+
+***User Outcome Assumptions:***
+- Los clientes podrán encontrar organizadores adecuados de manera más rápida y eficiente mediante perfiles detallados y filtros avanzados, lo que reducirá significativamente el tiempo dedicado a la búsqueda y aumentará la tasa de reservas exitosas a través de la plataforma.
+- Los organizadores podrán gestionar sus eventos, calendarios, pagos y contratos desde una plataforma centralizada y fácil de usar, lo que optimizará su productividad, reducirá los errores en la planificación y aumentará la retención de organizadores gracias a una experiencia más fluida y eficiente.
+- La integración de un sistema de mensajería en tiempo real facilitará la comunicación directa entre clientes y organizadores, mejorando la coordinación y confirmación de eventos, y reduciendo el número de cancelaciones debidas a malas comunicaciones.
+
+***Features:***
+- Implementar una función que optimice el proceso de búsqueda y contratación de organizadores de enventos.
+- Implementar funciones dedicadas a la gestión de eventos, tales como calendarios, agendas, y otros, para optimizar los procesos de gestión del organizador de eventos.
+- Implementar un sistema de mensajería en timepo real para facilitar la comunicación directa entre organizadores y anfitriones.
+- Automatizar el proceso de organización de contactos para poder hacer seguimiento a los anfitriones o a los organizadores contratados.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
