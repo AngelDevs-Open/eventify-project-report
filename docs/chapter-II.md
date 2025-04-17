@@ -385,21 +385,31 @@ Un aspecto que considera importante mejorar es la automatización del control y 
 
 **Entrevista 2:**
 
-[foto]
+![Organizador-2](/assets/chapter-II/entrevista-organizador-2.png)
 
 **Datos del entrevistado:**
-* **Nombre:** 
-* **Edad:** 
-* **Estado civil:** 
+* **Nombre:** Jaicob Emmir Diaz Zubiate
+* **Edad:** 22 años
+* **Estado civil:** Solter 
 * **Ocupación:** Organizador de eventos.
-* **Distrito de Residencia:** 
+* **Distrito de Residencia:** Villa el Salvador 
 
-* **Duración de la entrevista:** 
-* **Minuto de de la entrevista:** 
+* **Duración de la entrevista:** 18:56
+* **Minuto de de la entrevista:** [-]
 
 **Resumen de la entrevista:**
 
+El entrevistado es un organizador de eventos con una productora que se especializa en el rubro audiovisual. Se describe como una persona creativo, apasionado y responsable. Tiene preferencias por utilizar Whatsapp, una laptop, y Safari como navegador web.
 
+Durante la entrevista, compartió como entró al mundo de la organización de eventos desde hace 3 años por un familiar, su tío, quien lo llamó para que lo apoye. Desde entonces ha seguido en este negocio y actualmente tiene su propia productora.
+
+Actualmente, con mayor frecuencia suele organizar eventos como bodas y quinceañeros, llegando a gestionar en promedio 3 eventos mensuales.
+
+En los eventos que organiza, ofrece lo que son paquetes de servicios que se incluirán en el evento para tener más facilidad de manejo y contratación de servicios de terceros. Además luego mantiene comunicación con el cliente para dar a conocer los procesos que se están siguiendo con la organización del evento.
+
+Para la gestión de pagos, usualmente trabaja con un 50% de adelanto, y un 50% al final del evento. Tiene una cuenta bancaria específica para su trabajo así que generalmente lo maneja con depósitos, y alternativas como Yape si el presupuesto lo permite.
+
+Considera que un aspecto para automatizar es la organización de los contactos o una agenda, porque lo tiene muy desordenado. A causa de esto le dificulta trabajar con terceros y prefiere manejar el todo, por ello llegó a abrir su productora audiovisual.
 
 
 **Entrevista 3: [Nombre]**
