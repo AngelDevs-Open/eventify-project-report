@@ -412,21 +412,33 @@ Para la gestión de pagos, usualmente trabaja con un 50% de adelanto, y un 50% a
 Considera que un aspecto para automatizar es la organización de los contactos o una agenda, porque lo tiene muy desordenado. A causa de esto le dificulta trabajar con terceros y prefiere manejar el todo, por ello llegó a abrir su productora audiovisual.
 
 
-**Entrevista 3: [Nombre]**
+**Entrevista 3: Sara Goveya**
 
-[foto]
+![Organizador-3](/assets/chapter-II/entrevista-organizador-3.jpeg)
 
 **Datos del entrevistado:**
-* **Nombre:**
-* **Edad:**
-* **Estado civil:**
+* **Nombre:** Sara Goveya
+* **Edad:** 34 años
+* **Estado civil:** Casada
 * **Ocupación:** Organizador de eventos.
-* **Distrito de Residencia:**
+* **Distrito de Residencia:** Surco
 
-* **Duración de la entrevista:**
+* **Duración de la entrevista:** 
 * **Minuto de de la entrevista:**
 
 **Resumen de la entrevista:**
+
+La entrevistada, de actualmente 34 años, es dueña de una empresa de publicidad y eventos con 18 años de experiencia en el rubro y 4 años liderando su propia empresa. Su nombre es Sara Goveya, y se describe como una persona perseverante, capaz y disruptiva, destacando su enfoque innovador en la organización de eventos. Está casada y su negocio se enfoca tanto en eventos corporativos como sociales.
+
+Sara identificó una gran demanda en el sector, ya que muchas empresas suelen tercerizar la planificación de eventos. Al notar esta necesidad, decidió especializarse y cubrir ese nicho de mercado. Captar clientes no ha sido un problema para ella: su principal canal de contacto es Facebook Marketplace, aunque también usa el boca a boca, contactos directos y redes como WhatsApp. Incluso ha trabajado con marcas grandes.
+
+La mayoría de los eventos que organiza son corporativos, incluyendo activaciones de marca y algunos eventos sociales. Su empresa desarrolla aproximadamente dos eventos grandes por mes, manteniendo así una carga de trabajo equilibrada. Ha realizado celebraciones que van desde 20 hasta 200 personas, con presupuestos que oscilan entre los S/15,000 y S/25,000 para eventos sociales, y hasta S/100,000 para eventos corporativos.El proceso de organización comienza con un primer contacto en el que se recogen datos clave como tipo de evento, presupuesto y fecha. Una vez aceptada la propuesta, se solicita un adelanto del 50% para iniciar la producción. La etapa de preproducción suele durar entre dos a cuatro días.
+
+Los clientes valoran principalmente su atención personalizada y la calidad del servicio. Ha recibido comentarios positivos sobre su dedicación y la excelencia del producto final. Sin embargo, señala que la falta de organización por parte de algunos clientes puede ser frustrante, especialmente cuando hay varias personas involucradas en la toma de decisiones.
+
+Finalmente, Sara reconoce que no está del todo satisfecha con su flujo actual de ventas. Cree firmemente que su servicio es de alta calidad, pero menciona la falta de personal y las barreras de comunicación como obstáculos para llegar a más clientes.
+
+
 
 
 ### 2.2.3. Análisis de entrevistas
