@@ -522,7 +522,6 @@ A través de gráficos estadísticos, se muestran los resultados más relevantes
   <img src="/assets/chapter-II/Grafico_Excel_Organizadores_14.png" alt="Grafico_Excel_Organizadores_14" width="60%">
 </p>
 
-- Segmento Objetivo 2: Organizadores de Eventos
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
