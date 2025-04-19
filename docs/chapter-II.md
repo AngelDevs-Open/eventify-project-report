@@ -447,9 +447,34 @@ A través de gráficos estadísticos, se muestran los resultados más relevantes
 
 - Segmento Objetivo 1: Anfitriones de Eventos
 
-![Grafico_Anfitriones_1](/assets/chapter-II/Grafico_Excel_Anfitriones_1.png)
 <p align="center">
-  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_1.png" alt="Descripción de la imagen" width="70%">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_1.png" alt="Grafico_Anfitriones_1" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_2.png" alt="Grafico_Anfitriones_2" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_3.png" alt="Grafico_Anfitriones_3" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_4.png" alt="Grafico_Anfitriones_4" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_5.png" alt="Grafico_Anfitriones_5" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_6.png" alt="Grafico_Anfitriones_6" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_7.png" alt="Grafico_Anfitriones_7" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_8.png" alt="Grafico_Anfitriones_8" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_9.png" alt="Grafico_Anfitriones_9" width="60%">
+</p><p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_10.png" alt="Grafico_Anfitriones_10" width="60%">
 </p>
 
 - Segmento Objetivo 2: Organizadores de Eventos
