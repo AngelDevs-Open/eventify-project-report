@@ -439,11 +439,20 @@ Los clientes valoran principalmente su atención personalizada y la calidad del 
 Finalmente, Sara reconoce que no está del todo satisfecha con su flujo actual de ventas. Cree firmemente que su servicio es de alta calidad, pero menciona la falta de personal y las barreras de comunicación como obstáculos para llegar a más clientes.
 
 
-
-
 ### 2.2.3. Análisis de entrevistas
 
+En esta sección, se presenta el análisis de las entrevistas realizadas, según los segmentos obejtivos. La finalidad es identificar las principales necesidades, preferencias y desafíos del mercado.
 
+A través de gráficos estadísticos, se muestran los resultados más relevantes, que servirán como base para definir las funcionalidades y características de la plataforma.
+
+- Segmento Objetivo 1: Anfitriones de Eventos
+
+![Grafico_Anfitriones_1](/assets/chapter-II/Grafico_Excel_Anfitriones_1.png)
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_1.png" alt="Descripción de la imagen" width="70%">
+</p>
+
+- Segmento Objetivo 2: Organizadores de Eventos
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
