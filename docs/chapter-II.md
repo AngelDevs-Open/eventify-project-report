@@ -477,6 +477,51 @@ A través de gráficos estadísticos, se muestran los resultados más relevantes
   <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_10.png" alt="Grafico_Anfitriones_10" width="60%">
 </p>
 
+- Segmento Objetivo 2: Oreganizadores de Eventos
+
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_1.png" alt="Grafico_Excel_Organizadores_1" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_2.png" alt="Grafico_Excel_Organizadores_2" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_3.png" alt="Grafico_Excel_Organizadores_3" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_4.png" alt="Grafico_Excel_Organizadores_4" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_5.png" alt="Grafico_Excel_Organizadores_5" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_6.png" alt="Grafico_Excel_Organizadores_6" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_7.png" alt="Grafico_Excel_Organizadores_7" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_8.png" alt="Grafico_Excel_Organizadores_8" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_9.png" alt="Grafico_Excel_Organizadores_9" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_10.png" alt="Grafico_Excel_Organizadores_10" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_11.png" alt="Grafico_Excel_Organizadores_11" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_12.png" alt="Grafico_Excel_Organizadores_12" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_13.png" alt="Grafico_Excel_Organizadores_13" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_14.png" alt="Grafico_Excel_Organizadores_14" width="60%">
+</p>
+
 - Segmento Objetivo 2: Organizadores de Eventos
 ## 2.3. Needfinding
 
