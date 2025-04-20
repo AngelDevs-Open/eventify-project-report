@@ -545,6 +545,19 @@ En esta sección se presentarán los User Personas de cada segmento objetivo. Es
 
 ### 2.3.4. Empathy Mapping
 
+El empathy mapping es una herramienta que nos permite comprender en profundidad a nuestros usuarios, explorando no solo lo que hacen o necesitan, sino también lo que piensan, sienten, ven, escuchan y dicen. A través de este esquema, podemos identificar sus frustraciones, motivaciones y comportamientos para desarrollar soluciones más alineadas con sus necesidades reales.
+
+**Segmento Objetivo: Organizadores de eventos sociales no masivos** <br>
+
+Este mapa se enfoca en Francisco Mendoza, un organizador de eventos experimentado que desea gestionar sus procesos de forma más eficiente y destacarse en un mercado competitivo. A través de esta herramienta, identificamos sus motivaciones, necesidades operativas y los principales desafíos que enfrenta en su día a día.
+
+![Empathy Map 1](../assets/chapter-II/empathy-map-organizador.png)
+
+**Segmento Objetivo: Anfitriones de eventos** <br>
+
+En este mapa de empatía exploramos la perspectiva de Laura Gómez, una anfitriona que busca ofrecer experiencias únicas a sus invitados sin tener que lidiar con el estrés de la logística. Aquí entendemos sus deseos, frustraciones y la manera en que se relaciona con los organizadores de eventos.
+
+![Empathy Map 2](../assets/chapter-II/empathy-map-anfitrion.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
