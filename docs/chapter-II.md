@@ -538,6 +538,86 @@ En esta sección se presentarán los User Personas de cada segmento objetivo. Es
 ![User Persona 2](../assets/chapter-II/user-persona-anfitrion.png)
 
 ### 2.3.2. User Task Matrix
+En el User Task Matrix hemos identificado las actividades que realizan nuestros dos segmentos y hemos evaluado la importancia de cada una de estas tareas para cada segmento.
+
+### Indicadores de Importancia:
+- ALTA
+- MEDIA
+- BAJA
+
+### Indicadores de Frecuencia:
+- ALTA
+- MEDIA
+- BAJA
+
+### **Organizadores de eventos sociales no masivos**
+
+| **Tarea**                       | **Frecuencia** | **Importancia** |
+|----------------------------------|----------------|-----------------|
+| Planificación del evento         | Alta           | Alta            |
+| Coordinación con proveedores     | Alta           | Alta            |
+| Gestión de invitados             | Alta           | Alta            |
+| Promoción del evento             | Media          | Alta            |
+| Supervisión durante el evento    | Alta           | Alta            |
+| Post-evento                      | Media          | Media           |
+
+### **Anfitriones de eventos**
+
+| **Tarea**                       | **Frecuencia** | **Importancia** |
+|----------------------------------|----------------|-----------------|
+| Planificación del evento         | Alta           | Alta            |
+| Coordinación con proveedores     | Media          | Alta            |
+| Gestión de invitados             | Alta           | Alta            |
+| Promoción del evento             | Baja           | Baja            |
+| Supervisión durante el evento    | Alta           | Alta            |
+| Post-evento                      | Alta           | Media           |
+
+### Organizadores de Eventos Sociales No Masivos:
+
+#### Tareas con mayor frecuencia:
+1. **Planificar el cronograma del evento.**
+2. **Gestionar la contratación de proveedores (catering, decoración, etc.).**
+3. **Coordinar la logística de los asistentes (registro, entradas, transportes).**
+
+**Explicación de la tarea con mayor frecuencia:**
+Para los organizadores de eventos sociales no masivos, la tarea de **planificar el cronograma del evento** es la más frecuente porque implica coordinar todos los aspectos del evento, desde la programación de actividades hasta la asignación de tiempos para cada proveedor. Esta tarea es fundamental porque asegura que el evento siga un flujo organizado y se realicen todas las actividades sin inconvenientes.
+
+#### Tareas con mayor importancia:
+1. **Garantizar la seguridad y el bienestar de los asistentes.**
+2. **Supervisar la calidad de los servicios de proveedores (catering, audiovisuales).**
+3. **Realizar la gestión de presupuestos y costos del evento.**
+
+**Explicación de la tarea con mayor importancia:**
+La tarea de **garantizar la seguridad y el bienestar de los asistentes** es clave porque asegura que el evento sea exitoso no solo en términos logísticos, sino también en la experiencia que viven los participantes. Si los asistentes se sienten seguros y cómodos, el evento tiene más probabilidades de cumplir sus objetivos y generar satisfacción.
+
+---
+
+### Anfitriones de Eventos:
+
+#### Tareas con mayor frecuencia:
+1. **Gestionar la lista de invitados y las confirmaciones de asistencia.**
+2. **Coordinar la llegada de los invitados y su acomodo en el evento.**
+3. **Atender a los invitados durante el evento (responder dudas, ofrecer ayuda).**
+
+Para los anfitriones de eventos, la tarea más frecuente es **gestionar la lista de invitados y las confirmaciones de asistencia**, ya que es esencial para asegurarse de que todos los invitados estén presentes y organizados. Esta tarea implica coordinar las respuestas de los invitados y asegurarse de que los asistentes se encuentren en el lugar adecuado a la hora indicada.
+
+#### Tareas con mayor importancia:
+1. **Asegurarse de que la experiencia de los invitados sea agradable y fluida.**
+2. **Coordinar la interacción entre los proveedores y los invitados.**
+3. **Asegurar la puntualidad y el cumplimiento de la programación del evento.**
+
+La tarea de **asegurarse de que la experiencia de los invitados sea agradable y fluida** es la más importante porque, como anfitrión, el éxito del evento depende directamente de cómo se sientan los invitados. Si los anfitriones logran ofrecer un ambiente cómodo, bien organizado y cordial, los asistentes disfrutarán del evento, lo que contribuirá a su éxito general.
+
+---
+
+### Diferencias entre los segmentos:
+
+Al analizar ambos segmentos, se observa que los **organizadores de eventos sociales no masivos** se concentran principalmente en la **planificación y logística** del evento, garantizando que todo funcione correctamente y según lo esperado. Su enfoque está más relacionado con la ejecución técnica y la coordinación de recursos.
+
+Por otro lado, los **anfitriones de eventos** se centran en la **experiencia de los invitados** y en la **gestión del ambiente** durante el evento, asegurándose de que los asistentes se sientan cómodos, atendidos y disfruten del evento.
+
+Aunque las tareas varían, ambos segmentos coinciden en la importancia de la **organización eficiente** y el **bienestar de los participantes**. Sin embargo, los **organizadores** tienen un enfoque más técnico y operativo, mientras que los **anfitriones** se enfocan en la interacción social y la satisfacción personal de los invitados.
+
 
 
 ### 2.3.3. User Journey Mapping
