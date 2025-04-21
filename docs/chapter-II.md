@@ -643,3 +643,59 @@ En este mapa de empatía exploramos la perspectiva de Laura Gómez, una anfitrio
 
 
 ## 2.4. Ubiquitous Language
+
+**Aforo**: capacidad de un espacio en número de personas.
+
+**Asistentes**: personas que asistirán y participarán en un evento.
+
+**Azafato o azafata de eventos**: personal que apoya en el registro, atención y otras tareas logísticas.
+
+**Break / Coffee break**: receso donde se sirven café y bocaditos.
+
+**Catering**: servicio de suministro de comidas y bebidas en un evento.
+
+**Ceremonia**: acto formal dentro del evento.
+
+**Check-list**: lista para hacer comprobaciones sistemáticas de actividades o recursos.
+
+**Cliente**: persona que contrata al organizador para realizar un evento.
+
+**Concierto**: presentación musical en vivo.
+
+**Conferencia**: reunión donde se exponen temas ante un público.
+
+**Cronograma / Timing**: planificación detallada de las actividades del evento.
+
+**Decoración**: elementos visuales que ambientan el evento.
+
+**Equipo de producción**: grupo de personas que trabajan en conjunto para producir un evento como técnicos, ayudantes y cualquier otra persona adicional al staff base que esté involucrada en el evento.
+
+**Evento**: actividad planificada con fecha, hora y lugar específico.
+
+**Event Planner**: persona que se encarga de planificar todo el evento.
+
+**Expositor**: persona o empresa que presenta productos o ideas en el evento.
+
+**Factura pro-forma**: un tipo de factura emitida por proveedores que es necesario pagar previo a la ejecución del evento.
+
+**Keynote**: discurso inicial de una presentación o serie de conferencias que apunta al tema general del que se hablará y que es diseñado para motivar a la audiencia.
+
+**Local**: lugar físico donde se realiza el evento.
+
+**Mampara**: pared móvil para adaptar y ambientar los espacios de acuerdo con las necesidades del evento.
+
+**Organizador**: persona o empresa responsable de planificar y ejecutar el evento.
+
+**Patrocinador**: empresa o persona que apoya o financia el evento.
+
+**Plano del evento**: documento que muestra el espacio del salón de eventos designado para la exposición. También muestra en detalle el espacio que puede ocupar cada stand, el área de registro, las entradas y salidas, etc.
+
+**Programación**: agenda de actividades del evento.
+
+**Protocolo**: conjunto de normas, costumbres y tradiciones mediante las cuales se organiza cualquier acto, evento público, privado u oficial.
+
+**Staff**: personal que forma parte de la organización del evento.
+
+**Stand**: instalación usada para mostrar productos o brindar información.
+
+**Transfer**: traslado de asistentes (ej. del hotel al evento).
