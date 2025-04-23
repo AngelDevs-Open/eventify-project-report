@@ -93,6 +93,17 @@ En esta sección se presentan las representaciones de bajo nivel **(wireframes)*
 
 ### 4.3.2. Landing Page Mock-up
 
+En esta sección se muestran los mock-ups del landing page, que sirven como una representación visual de alta fidelidad para anticipar cómo se verá y funcionará la interfaz final. Están diseñados tanto para dispositivos móviles como para escritorio. [Mock Ups - Eventify](https://www.figma.com/design/uPtLATLNkVL8P5xY7wBOc2/Eventify---Landing-page?node-id=0-1&t=yRuZCtcaOfFtQUmB-1)
+
+**Desktop Web Browser**
+
+![eventify-mockup-desktop](/assets/chapter-IV/eventify-mockup-desktop.jpg)
+
+<br>
+
+**Mobile Web Browser**
+
+![eventify-mockup-mobile](/assets/chapter-IV/eventify-mockup-mobile.jpg)
 
 ## 4.4. Web Applications UX/UI Design
 
