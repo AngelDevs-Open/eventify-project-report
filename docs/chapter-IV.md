@@ -52,6 +52,12 @@ La comunicación está diseñada para ser cercana, clara y con un toque entusias
 
 ### 4.1.2. Web Style Guidelines
 
+La interfaz web de Eventify está diseñada bajo principios de diseño responsive, garantizando una experiencia de usuario óptima en todos los dispositivos, desde smartphones hasta pantallas de escritorio. El objetivo es ofrecer una navegación fluida, intuitiva y visualmente coherente.
+
+Para organizar el contenido se utilizó el patrón en Z, un esquema visual que guía naturalmente la mirada del usuario desde la parte superior izquierda hasta la inferior derecha, ideal para estructurar información de forma clara y persuasiva.
+
+![web-style-z-pattern](/assets/chapter-IV/web-style-z-pattern.png)
+
 
 ## 4.2. Information Architecture
 
