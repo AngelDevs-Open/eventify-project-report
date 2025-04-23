@@ -69,6 +69,69 @@ Para organizar el contenido se utilizó el patrón en Z, un esquema visual que g
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+En el desarrollo de Eventify, la optimización para motores de búsqueda (SEO) juega un papel crucial para mejorar la visibilidad de la plataforma en línea. Los SEO tags y meta tags son herramientas esenciales que ayudan a los motores de búsqueda a comprender y clasificar el contenido de las páginas de la plataforma, asegurando que los usuarios encuentren Eventify de manera eficiente. Estos elementos permiten proporcionar información relevante, como el título de la página, la descripción, las palabras clave, y los datos específicos para mejorar la experiencia del usuario y atraer tráfico cualificado.
+
+En este apartado, exploraremos los diferentes tipos de meta tags y SEO tags implementados en Eventify, cómo se utilizan para optimizar la indexación de nuestras páginas y las mejores prácticas que siguen los motores de búsqueda más utilizados.
+
+#### 🌐 Landing Page (Sitio Web Estático)
+
+- **Title Tag: <br>**
+El title tag es uno de los factores más importantes en SEO, ya que determina el título que aparece en los resultados de búsqueda. Por eso decidimos que sea breve, relevante y que contenenga las palabras clave para mejorar una mejor visibilidad.
+```html
+<title>Eventify - Conecta, organiza y celebra tus eventos</title>
+```
+- **Meta Description: Tag <br>**
+La meta description proporciona un resumen conciso del contenido de la página. Es importante que sea atractiva y contenga palabras clave relevantes para aumentar la tasa de clicks en Eventify.
+```html
+<meta name="description" content="Eventify es la plataforma donde anfitriones encuentran al organizador ideal y organizadores hacen crecer su negocio. Conecta, organiza y celebra con confianza.">
+```
+- **Meta Keywords Tag: <br>**
+El meta keywords tag es menos relevante hoy en día, pero aún es útil para proporcionar información adicional sobre el contenido de la página. En este caso, hemos incluido palabras clave relacionadas con la organización de eventos y la conexión entre anfitriones y organizadores.
+```html
+<meta name="keywords" content="eventos, organización, anfitriones, organizadores, bodas, celebraciones, gestión de eventos, planificación de eventos">
+```
+- **Meta Author Tag: <br>**
+El meta author tag se utiliza para especificar el autor del contenido de la página. Aunque no impacta directamente en el SEO, lo consideramos útil para proporcionar transparencia y credibilidad.
+```html
+<meta name="author" content="Equipo Eventify">
+```
+- **Meta Viewport Tag: <br>**
+  El Meta Viewport Tag es esencial para garantizar que el sitio se vea correctamente en dispositivos móviles. Asegura que la página sea responsiva, ajustando su escala según el tamaño de la pantalla del dispositivo. Decidimos implementarlo en Eventify para mejorar la experiencia del usuario en dispositivos móviles.
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+- **Favicon: <br>**
+  El favicon es el ícono que aparece en la pestaña del navegador. Es una forma sencilla de personalizar la apariencia de la página y mejorar la experiencia del usuario. Decidimos incluirlo en Eventify para ayudar a los usuarios a identificar nuestra plataforma de manera visual en múltiples pestañas.
+```html
+<link rel="icon" href="/assets/chapter-IV/eventify_logo.png" type="image/png">
+```
+
+### ⚙️ Web Application (Aplicación Web Interactiva)
+- **Title Tag: <br>**
+  El title tag define el título que aparecerá en el navegador y en los resultados de búsqueda cuando los usuarios interactúen directamente con la aplicación. Decidimos usar un título dinámico que refleje la acción principal del usuario en la aplicación Eventify.
+```html
+<title>Eventify - Organiza tu evento</title>
+```
+- **Meta Description: <br>**
+  La meta description proporciona un resumen conciso del contenido de la página. Es importante que sea atractiva y contenga palabras clave relevantes para aumentar la tasa de clicks en Eventify.
+```html
+<meta name="description" content="Usa Eventify para planificar, coordinar y comunicarte con organizadores o anfitriones en tiempo real. Todo desde una única plataforma eficiente y fácil de usar.">
+```
+- **Meta Keywords Tag: <br>**
+  El meta keywords tag es menos relevante hoy en día, pero aún es útil para proporcionar información adicional sobre el contenido de la página. En este caso, hemos incluido palabras clave relacionadas con la organización de eventos y la conexión entre anfitriones y organizadores.
+```html
+<meta name="keywords" content="gestión de eventos, mensajería, proformas, seguimiento del evento, anfitriones, organizadores, Eventify app">
+```
+- **Meta Author Tag: <br>**
+  El meta author tag se utiliza para especificar el autor del contenido de la página. Aunque no impacta directamente en el SEO, lo consideramos útil para proporcionar transparencia y credibilidad.
+```html
+<meta name="author" content="Equipo Eventify">
+```
+- **Meta Viewport Tag: <br>**
+  El meta viewport tag es fundamental para que la aplicación web sea responsiva. Asegura que Eventify se vea y funcione correctamente en dispositivos móviles, ajustando el contenido al ancho de la pantalla del usuario. Decidimos incluirlo para ofrecer una experiencia fluida en cualquier dispositivo.
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
 
 ### 4.2.4. Searching Systems
 
