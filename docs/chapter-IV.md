@@ -28,7 +28,17 @@
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+En esta sección se presentan las representaciones de bajo nivel **(wireframes)** del landing page, diseñadas para dispositivos móviles y de escritorio. [Wireframe - Eventify](https://www.figma.com/design/uPtLATLNkVL8P5xY7wBOc2/Eventify---Landing-page?node-id=0-1&t=yRuZCtcaOfFtQUmB-1)
 
+**Desktop Web Browser**
+
+![eventify-wireframe-desktop](/assets/chapter-IV/eventify-wireframe-desktop.jpg)
+
+<br>
+
+**Mobile Web Browser**
+
+![eventify-wireframe-mobile](/assets/chapter-IV/eventify-wireframe-mobile.jpg)
 
 ### 4.3.2. Landing Page Mock-up
 
