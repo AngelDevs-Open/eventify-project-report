@@ -2,6 +2,17 @@
 
 ## 3.1. To-Be Scenario Mapping
 
+**Segmento Organizadores**
+
+Este To-Be Scenario Mapping fue creado tras realizar una lluvia de ideas individual por parte del equipo, revisión en conjunto y alineamiento de las fases a partir del análisis del As-Is.
+
+![To-be Scenario Map 1](../assets/chapter-III/Scenario_ToBe_FranciscoMendoza.png)
+
+**Segmento Anfitriones**
+
+A través de este escenario ToBe, se busca identificar las expectativas de los anfitriones al utilizar la aplicación. Se realizó una lluvia de ideas individual por parte del equipo, seguido de una revisión en conjunto para alinear las fases a partir del análisis del As-Is.
+
+![To-be Scenario Map 2](../assets/chapter-III/Scenario_ToBe_LauraGomez.png)
 
 ## 3.2. User Stories
 
