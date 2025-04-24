@@ -687,7 +687,7 @@ En el As-is scenario mapping de este segmento se han identificado los principale
 
 **Expositor**: persona o empresa que presenta productos o ideas en el evento.
 
-**Factura pro-forma**: un tipo de factura emitida por proveedores que es necesario pagar previo a la ejecución del evento.
+**Factura proforma**: un tipo de factura emitida por proveedores que es necesario pagar previo a la ejecución del evento.
 
 **Keynote**: discurso inicial de una presentación o serie de conferencias que apunta al tema general del que se hablará y que es diseñado para motivar a la audiencia.
 
