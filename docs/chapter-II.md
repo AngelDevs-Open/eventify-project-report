@@ -622,6 +622,15 @@ Aunque las tareas varían, ambos segmentos coinciden en la importancia de la **o
 
 ### 2.3.3. User Journey Mapping
 
+En esta sección se presentan los User Journey Maps, que ilustran el end-to-end journey que experimentan nuestros segmentos objetivo sin la intervención de nuestra solución propuesta.
+
+#### User Journey Mapping - Segmento Organizador de eventos no masivos
+
+![journey mapping - organizador](/assets/chapter-II/User%20Journey%20Mapping%20-%20Organizador.png)
+
+#### User Journey Mapping - Segmento Anfitrion
+
+![journey mapping - organizador](/assets/chapter-II/User%20Journey%20Mapping%20-%20Anfitrion.png) 
 
 ### 2.3.4. Empathy Mapping
 
