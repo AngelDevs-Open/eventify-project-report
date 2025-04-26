@@ -232,6 +232,47 @@ En esta sección se descompone el sistema en sus contenedores principales, ilust
 
 ### 4.6.3. Software Architecture Components Diagrams
 
+Finalmente, en esta sección se detallan los componentes internos de la Single Page Application (SPA), la cual está dividida en diferentes bounded contexts que encapsulan funcionalidades específicas del dominio. Cada bounded context agrupa componentes que colaboran entre sí para cumplir con responsabilidades concretas, lo que facilita la escalabilidad, el mantenimiento y la alineación con los procesos del negocio.
+
+**Bounded Context Event Management**
+
+![bounded-context-event-management](/assets/chapter-IV/C4%20-%20Event%20Management%20Bounded%20context.png)
+
+**Bounded Context Quote Management**
+
+![bounded-context-quote-management](/assets/chapter-IV/C4%20-%20Quote%20Bounded%20context.png)
+
+**Bounded Context Searching Event Planning Service**
+
+![bounded-context-searching-event-planning-service](/assets/chapter-IV/C4%20-%20Search%20Bounded%20context.png)
+
+**Bounded Context Reviews and Ratings**
+
+![bounded-context-reviews-and-ratings](/assets/chapter-IV/C4%20-%20Reviews%20Bounded%20context.png)
+
+**Bounded Context User Authentication**
+
+![bounded-context-user-authentication](/assets/chapter-IV/C4%20-%20Authentication%20Bounded%20context.png)
+
+**Bounded Context Profile Management**
+
+![bounded-context-profile-management](/assets/chapter-IV/C4%20-%20Profile%20Bounded%20context.png)
+
+**Bounded Context Payments and Suscriptions**
+
+![bounded-context-payments-and-suscription](/assets/chapter-IV/C4%20-%20Payment%20Bounded%20context.png)
+
+**Bounded Context Direct Communication**
+
+![bounded-context-direct-communication](/assets/chapter-IV/C4%20-%20Comunication%20Bounded%20context.png)
+
+**Bounded Context Notifications**
+
+![bounded-context-notifications](/assets/chapter-IV/C4%20-%20Notifiaction%20Bounded%20context.png)
+
+**Bounded Context Shared**
+
+![bounded-context-shared](/assets/chapter-IV/C4%20-%20Shared%20Bounded%20context.png)
 
 ## 4.7. Software Object-Oriented Design
 
