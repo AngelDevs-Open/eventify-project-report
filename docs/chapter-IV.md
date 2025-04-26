@@ -135,9 +135,25 @@ El meta author tag se utiliza para especificar el autor del contenido de la pág
 
 ### 4.2.4. Searching Systems
 
+El sistema de búsqueda en la aplicación web de Eventify ha sido diseñado para facilitar el acceso rápido a información clave, permitiendo a los usuarios encontrar contenido específico dentro de las distintas secciones de la plataforma de forma eficiente y ordenada.
+
+El sistema de búsqueda está presente en las siguientes áreas:
+
+- **Calendario:** los usuarios pueden buscar reuniones pendientes o próximas.
+
+- **Cotizaciones:** se permite buscar cotizaciones específicas y aplicar filtros de orden cronológico (de la más antigua a la más reciente).
+
+- **Eventos:** se pueden buscar eventos por nombre o por nombre del organizador, así como aplicar filtros por fecha.
+
+- **Mensajes:** los usuarios pueden localizar conversaciones específicas mediante un campo de búsqueda.
+
+- **Perfil del Organizador:** los organizadores pueden buscar dentro de sus propios eventos en la sección “Mis eventos”.
+
+En todos los casos, el sistema responde a una acción de búsqueda explícita del usuario, es decir, los resultados se muestran una vez se presiona el botón "Buscar". Esto permite al usuario tener un mayor control sobre cuándo desea ver los resultados filtrados o refinados.
+
+Este enfoque contribuye a una experiencia más ágil y centrada, permitiendo que tanto anfitriones como organizadores encuentren rápidamente lo que necesitan dentro de la aplicación Eventify.
 
 ### 4.2.5. Navigation Systems
-
 
 ## 4.3. Landing Page UI Design
 
