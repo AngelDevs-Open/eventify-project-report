@@ -40,13 +40,13 @@ En el Sprint 1, nos enfocamos en diseñar y desarrollar la Landing Page de Event
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
 
-|            Team Member            | GitHub Username | Header/Footer | Header | Inicio | Beneficios | Funcionalidades | Planes | About Us | About the product |
-|:---------------------------------:|:---------------:|:-------------:|:------:|:------:|:----------:|:---------------:|:------:|:--------:|:-----------------:|
-|     Aldave Aldave, Jean Pierr     |   Jean Pierr    |       L       |   C    |   C    |     C      |        C        |   L    |    C     |         C         |
-| Berrocal Ramirez, Omar Christian  |      OmBRz      |       C       |   C    |   C    |     C      |        L        |   C    |    C     |         C         |
-|  Crisanto Calle, Deybbi Anderson  |     Dacc03      |       C       |   L    |   C    |     C      |        C        |   C    |    C     |         C         |
-| Cutiri Agüero, Fabrizio Alexander |    Fabrizio     |       C       |   C    |   L    |     C      |        C        |   C    |    L     |         C         |
-|   Paico Calderon, July Zelmira    |      JulyP      |       C       |   C    |   C    |     L      |        C        |   C    |    C     |         L         |
+|            Team Member            | GitHub Username | Header  | Footer | Inicio | Beneficios | Funcionalidades | Planes | About Us | About the product |
+|:---------------------------------:|:---------------:|:-------:|:------:|:------:|:----------:|:---------------:|:------:|:--------:|:-----------------:|
+|     Aldave Aldave, Jean Pierr     |   Jean Pierr    |    L    |   C    |   C    |     C      |        C        |   L    |    C     |         C         |
+| Berrocal Ramirez, Omar Christian  |      OmBRz      |    C    |   C    |   C    |     C      |        L        |   C    |    C     |         C         |
+|  Crisanto Calle, Deybbi Anderson  |     Dacc03      |    C    |   L    |   C    |     C      |        C        |   C    |    C     |         C         |
+| Cutiri Agüero, Fabrizio Alexander |    Fabrizio     |    C    |   C    |   L    |     C      |        C        |   C    |    L     |         C         |
+|   Paico Calderon, July Zelmira    |      JulyP      |    C    |   C    |   C    |     L      |        C        |   C    |    C     |         L         |
 
 #### 5.2.1.3. Sprint Backlog 1
 
