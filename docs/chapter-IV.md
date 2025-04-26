@@ -226,6 +226,9 @@ En esta sección se presenta una vista general del sistema, identificando las pr
 
 ### 4.6.2. Software Architecture Container Diagrams
 
+En esta sección se descompone el sistema en sus contenedores principales, ilustrando las tecnologías utilizadas, las responsabilidades de cada uno y cómo se comunican entre sí.
+
+![container-diagram](/assets/chapter-IV/C4%20-%20Open%20-%20container.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
