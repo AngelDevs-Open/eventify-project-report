@@ -219,6 +219,10 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 
 ### 4.6.1. Software Architecture Context Diagram
 
+En esta sección se presenta una vista general del sistema, identificando las principales interacciones y sistemas relacionados al funcionamiento.
+
+![context-diagram](/assets/chapter-IV/context-diagram-eventify.png)
+
 
 ### 4.6.2. Software Architecture Container Diagrams
 
