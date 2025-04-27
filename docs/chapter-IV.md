@@ -447,6 +447,7 @@ Finalmente, en esta sección se detallan los componentes internos de la Single P
 
 ### 4.7.1. Class Diagrams
 
+![class-diagram.png](../assets/chapter-IV/class-diagram.png)
 
 ### 4.7.2. Class Dictionary
 
