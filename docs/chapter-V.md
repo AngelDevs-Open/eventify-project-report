@@ -191,8 +191,41 @@ En el Sprint 1, nos enfocamos en diseñar y desarrollar la Landing Page de Event
 #### 5.2.1.4. Development Evidence for Sprint Review
 
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review 
 
+Despues de finalizar el sprint 1, hemos logrado implementar todas las funcionalidades de nuestra landing page, con excepción de la sección about the product, que todavía no contiene un video que muestre el funcionamiento de nuestra plataforma web, puesto que la plataforma web aún no existe en este sprint. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
+
+***header:*** La barra de navegación que nos ayudará a redirigirnos por las diferentes secciones de la landing page.
+
+![Header](/assets/chapter-V/navbar.png)
+
+***Hero:*** Banner que contiene un botón que te llevará a registrarte a nuestra apliación web.
+
+![Hero](/assets/chapter-V/Hero.png)
+
+***Benefits:*** Sección donde los visitantes de la landing page podrán ver los beneficios principales que les ofrece nuestra aplicación.
+
+![Benefits](/assets/chapter-V/Benefits.png)
+
+***Functionality:*** Seccion donde los visitantes de la lading page podrán ver como es que funciona nuestra aplicacion y que les ofrece.
+
+![Functionalities](/assets/chapter-V/functionalities.png)
+
+***Plans***: Sección donde los visitantes podrán ver los planes con los que contamos para suscribirse a la aplicación web, podiendo ver los precios y una descripción de dicho plan.
+
+![Plans](/assets/chapter-V/plans.png)
+
+***About-us:*** Sección que muestra los miembros del equipo de trabajo y descripción del startup.
+
+![About_us](/assets/chapter-V/about_us.png)
+
+***About-the-product:*** Sección con un video que muestra el funcionamiento de la plataforma web.
+
+![About_the_product](/assets/chapter-V/about_the_product.png)
+
+***Footer:*** Contenido extra con información de contacto como correo, teléfono y redes sociales.
+
+![footer](/assets/chapter-V/footer.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
