@@ -450,7 +450,40 @@ Finalmente, en esta sección se detallan los componentes internos de la Single P
 ![class-diagram.png](../assets/chapter-IV/class-diagram.png)
 
 ### 4.7.2. Class Dictionary
-
+| Elemento | Descripción |
+|----------|-------------|
+| **Bounded Context** | Delimitación conceptual que agrupa clases relacionadas funcionalmente dentro del dominio de la aplicación. |
+| **Authentication** | Contexto que gestiona la identificación y autenticación de usuarios. |
+| **User** | Clase abstracta base que contiene atributos y métodos comunes a todos los usuarios del sistema. |
+| **EventOrganizer** | Subclase de User que representa a los profesionales que gestionan eventos. |
+| **EventHost** | Subclase de User que representa a los clientes que buscan organizar eventos. |
+| **Profile Management** | Contexto responsable de administrar la información de perfiles de usuarios. |
+| **Album** | Clase que representa colecciones de fotos de eventos pasados organizados por los Event Organizers. |
+| **Picture** | Clase que representa imágenes individuales dentro de los álbumes. |
+| **Event Management** | Contexto que gestiona la creación y administración de eventos. |
+| **Event** | Clase principal que contiene toda la información relacionada con un evento específico. |
+| **Task** | Clase que representa actividades específicas que deben completarse para un evento. |
+| **Calendar** | Clase que maneja la visualización y sincronización de eventos con servicios de calendario externos. |
+| **Payment and Subscription** | Contexto que gestiona pagos y suscripciones dentro de la plataforma. |
+| **PaymentMethod** | Clase que almacena información de métodos de pago de los usuarios. |
+| **Subscription** | Clase que representa la suscripción de un usuario a un plan específico. |
+| **Plan** | Clase que define las características y precios de las suscripciones disponibles. |
+| **Direct Communication** | Contexto que facilita la comunicación entre usuarios de la plataforma. |
+| **Message** | Clase que representa mensajes individuales enviados entre usuarios. |
+| **Chat** | Clase que agrupa mensajes relacionados a una conversación entre usuarios. |
+| **Notifications** | Contexto que gestiona alertas y notificaciones del sistema. |
+| **Notification** | Clase que representa avisos específicos enviados a los usuarios. |
+| **Quote Management** | Contexto que maneja la creación y gestión de presupuestos. |
+| **Quote** | Clase que representa un presupuesto creado por un organizador para un host. |
+| **ServiceItem** | Clase que representa servicios individuales incluidos en un presupuesto. |
+| **Reviews and Rating** | Contexto que gestiona las reseñas y calificaciones de los organizadores. |
+| **Review** | Clase que representa una evaluación realizada por un host sobre un organizador. |
+| **Search Planning Service** | Contexto que facilita la búsqueda de servicios de organización de eventos. |
+| **EventPlanningServiceHub** | Clase que centraliza la búsqueda y visualización de servicios disponibles. |
+| **Shared** | Contexto que contiene componentes utilizados a través de múltiples contextos. |
+| **ToolbarOrganizer** | Clase de interfaz para la navegación específica de organizadores de eventos. |
+| **ToolbarHost** | Clase de interfaz para la navegación específica de anfitriones de eventos. |
+| **AppComponent** | Clase principal que orquesta la interfaz de usuario de la aplicación. |
 
 ## 4.8. Database Design
 
