@@ -125,6 +125,63 @@ La Aplicación Web de **Eventify** está diseñada para ofrecer una experiencia 
 
 ### 4.2.2. Labeling Systems
 
+# Sistemas de Etiquetado en Eventify (Web Application Angular)
+
+En este apartado se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **Eventify**, desarrollada con **Angular**.  
+El etiquetado está diseñado para aprovechar Angular Components y Angular Material, garantizando fluidez y accesibilidad.
+
+## Etiquetas de Encabezados (Headings)
+
+Los encabezados principales se estructuran utilizando `mat-card`, `mat-toolbar` y `mat-expansion-panel`:
+
+- **Inicio / Home:**  
+  Página de bienvenida con `mat-toolbar` fija y sección de presentación usando `mat-card` para el contenido principal.
+
+- **Eventos / Events:**  
+  Listado de eventos en un `mat-grid-list` o `mat-list` con información básica y botones de acción.
+
+- **Planes y Precios / Pricing Plans:**  
+  Cards dinámicos (`mat-card`) para presentar las suscripciones disponibles.
+
+- **Contáctanos / Contact Us:**  
+  Formulario de contacto usando `mat-form-field`, `mat-input`, y `mat-button` para el envío.
+
+- **Sobre Nosotros / About Us:**  
+  Información organizacional estructurada en `mat-accordion` para una navegación simplificada.
+
+
+## Etiquetas Textuales (Text Labels)
+
+Las acciones están representadas principalmente en `mat-button`, `mat-icon-button` y etiquetas de formularios:
+
+- **Buscar Eventos / Find Events:**  
+  Barra de búsqueda con `mat-form-field` + `mat-icon` de búsqueda.
+
+- **Registrarse / Register:**  
+  Botón destacado `mat-raised-button color="primary"`.
+
+- **Mis Eventos / My Events:**  
+  Acceso a eventos propios desde `mat-sidenav` o sección principal.
+
+- **Historial / History:**  
+  Listado de eventos anteriores usando `mat-list` o `mat-table`.
+
+- **Configuraciones / Settings:**  
+  Sección en menú lateral (`mat-sidenav`) para ajustes de cuenta y notificaciones.
+
+
+## Etiquetas Icónicas (Iconic Labels)
+
+Angular Material usa íconos de la librería `@angular/material/icon`:
+
+- **Icono de Búsqueda (search):** `<mat-icon>search</mat-icon>`
+- **Icono de Calendario (event):** `<mat-icon>event</mat-icon>`
+- **Icono de Estrella (star):** `<mat-icon>star</mat-icon>`
+- **Icono de Ticket (confirmation_number):** `<mat-icon>confirmation_number</mat-icon>`
+- **Icono de Notificación (notifications):** `<mat-icon>notifications</mat-icon>`
+
+El enfoque en Angular garantiza una aplicación altamente dinámica y modular, donde cada componente gestiona su propia sección dentro de Eventify.
+
 
 ### 4.2.3. SEO Tags and Meta Tags
 
@@ -132,7 +189,7 @@ En el desarrollo de Eventify, la optimización para motores de búsqueda (SEO) j
 
 En este apartado, exploraremos los diferentes tipos de meta tags y SEO tags implementados en Eventify, cómo se utilizan para optimizar la indexación de nuestras páginas y las mejores prácticas que siguen los motores de búsqueda más utilizados.
 
-#### 🌐 Landing Page (Sitio Web Estático)
+####  Landing Page (Sitio Web Estático)
 
 - **Title Tag: <br>**
 El title tag es uno de los factores más importantes en SEO, ya que determina el título que aparece en los resultados de búsqueda. Por eso decidimos que sea breve, relevante y que contenenga las palabras clave para mejorar una mejor visibilidad.
