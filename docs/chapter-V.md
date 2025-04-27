@@ -105,11 +105,117 @@ Para la escritura de commits en el proyecto Eventify, se sigue la convención 'C
    docs(README): update index instructions.
 ```
 
-### 5.1.3. Source Code Style Guide & Conventions
+#### 5.1.3. Source Code Style Guide & Conventions
 
+En el proyecto Eventify, hemos implementado una serie de guías de estilo y convenciones para asegurar que todo el equipo de desarrollo siga una estructura consistente y clara en todo el ciclo de vida del proyecto. Esto facilita la legibilidad del código, mejora la colaboración entre los desarrolladores y asegura que el código sea mantenible a largo plazo.
 
-### 5.1.4. Software Deployment Configuration
+#### Nomenclatura General
 
+Para asegurar la coherencia en todo el código, se seguirán las siguientes directrices:
+
+- Los nombres de variables, funciones y métodos deben utilizar **camelCase**.
+- Los nombres de clases y componentes seguirán la convención **PascalCase**.
+- Para los archivos y carpetas, se empleará la convención **kebab-case**.
+
+El uso de **inglés** para todos los nombres es obligatorio, con el fin de asegurar la comprensión entre los miembros del equipo y facilitar la colaboración internacional.
+
+**Ejemplos**:
+
+- Variables: `eventDetails`, `userProfile`
+- Clases: `EventManager`, `User`
+- Archivos: `event-manager.service.ts`, `user.controller.js`
+
+#### Espacios y Sangría
+
+La **sangría** de código en Eventify seguirá las siguientes reglas para asegurar la claridad y el orden del código:
+
+- Se utilizarán **2 espacios** para la sangría en archivos HTML, CSS, JavaScript, y TypeScript.
+- En archivos **Java**, se utilizarán **4 espacios** para la sangría.
+
+Esta convención ayuda a mantener la consistencia en todos los lenguajes empleados en el proyecto y facilita la colaboración entre diferentes desarrolladores.
+
+**Ejemplo de HTML con sangría**:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Eventify</title>
+  </head>
+  <body>
+    <h1>Eventos Disponibles</h1>
+    <p>Encuentra y reserva eventos fácilmente</p>
+  </body>
+</html>
+```
+
+#### Convenciones por Lenguaje
+
+1. **HTML/CSS/JavaScript**:
+
+    - Se utilizará la [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) para asegurar la consistencia en la estructura y la presentación de los archivos HTML y CSS.
+    - Para JavaScript, adoptamos la [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript), ampliamente conocida y utilizada en la industria.
+2. **TypeScript**:
+
+    - **Angular** es el framework elegido para el frontend de Eventify, por lo que seguimos la [Angular Style Guide](https://angular.io/guide/styleguide), que dicta cómo deben estructurarse los módulos, servicios y componentes.
+    - También seguimos la [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) para garantizar la correcta tipificación y legibilidad del código.
+3. **Java**:
+
+    - En el backend, utilizamos **Spring Boot** para crear APIs y servicios web. Seguimos la [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) para mantener consistencia en la estructura de las clases y los métodos.
+    - Los nombres de clases serán descriptivos, utilizando sustantivos para clases y verbos para métodos.
+
+**Ejemplo de una clase Java**:
+
+```java
+public class EventManager {
+    private int availableTickets;
+
+    public EventManager(int tickets) {
+        this.availableTickets = tickets;
+    }
+
+    public void reserveTicket() {
+        if (availableTickets > 0) {
+            availableTickets--;
+        }
+    }
+}
+```
+
+4. **Gherkin**:
+    - Para escribir los tests automatizados, seguimos la convención de [Gherkin Syntax](https://cucumber.io/docs/gherkin/). Esto permite una descripción clara y precisa de los escenarios de prueba en los archivos `.feature`.
+    - Utilizamos **Given-When-Then** para describir el comportamiento esperado en cada escenario.
+
+**Ejemplo de Gherkin**:
+
+```gherkin
+
+Feature: Event ticket booking
+
+  Scenario: Successful ticket reservation
+    Given the user is logged in
+    When they select an available event
+    Then the system should confirm the ticket reservation
+```
+
+#### Espaciado y Comillas
+
+- **Espacios**: Siempre se debe colocar un espacio alrededor de los operadores y entre los parámetros en las funciones.
+
+  **Ejemplo**:
+
+  ```javascript
+  let totalTickets = 200;
+  let bookedTickets = 45;
+  let availableTickets = totalTickets - bookedTickets;
+  ```
+- **Comillas**: En **JavaScript** y **TypeScript**, se utilizan comillas simples (`'`) para cadenas, mientras que en **HTML** se prefieren las comillas dobles (`"`).
+
+#### Límite de Longitud de Línea
+
+El código no debe exceder las **80 columnas** por línea. En caso de necesitar más espacio, se recomienda dividir la línea de código para mejorar la legibilidad.
+
+#### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
