@@ -39,7 +39,7 @@ En la gestión de proyectos y colaboración del equipo se utilizaron:
 Para la documentación del proyecto se emplearon las siguientes herramientas:
 
 - Vertabelo: Herramienta utilizada para el diseño, creación y documentación colaborativa de bases de datos. [https://vertabelo.com/](https://vertabelo.com/)
-- Lucidchart: Utilizada para la creación de diagramas UML, wireflows y user flows que ayudan en la planificación y visualización del sistema. [https://www.lucidchart.com/pages](https://www.lucidchart.com/pages)
+- PlantUML Editor: Utilizada para la creación del diagrama de clases que ayuda en la planificación y visualización del sistema. [https://plantuml.com/](https://plantuml.com/)
 - Structurizr: Herramienta usada para modelar la arquitectura de software mediante diagramas C4. [https://structurizr.com/](https://structurizr.com/)
 
 
