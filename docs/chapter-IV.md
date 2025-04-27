@@ -217,6 +217,13 @@ Segmento Organizadores de Eventos
 ![reset-password 1.png](../assets/chapter-IV/reset-password%201.png)
 ![verification-code 1.png](../assets/chapter-IV/verification-code%201.png)
 ![reset-password 1.png](../assets/chapter-IV/reset-password%201.png)
+![organizer-profile 1.png](../assets/chapter-IV/organizer-profile%201.png)
+![update-organizer-profile 1.png](../assets/chapter-IV/update-organizer-profile%201.png)
+![almuns-profile-organizer.png](../assets/chapter-IV/almuns-profile-organizer.png)
+![album-detail 1.png](../assets/chapter-IV/album-detail%201.png)
+![create-album 1.png](../assets/chapter-IV/create-album%201.png)
+![direct-communication-mockup1-Org.png](../assets/chapter-IV/direct-communication-mockup1-Org.png)
+
 
 Segmento Organizadores Anfitriones
 
