@@ -358,7 +358,16 @@ Segmento Organizadores de Eventos
 ![direct-communication-mockup1-Org.png](../assets/chapter-IV/direct-communication-mockup1-Org.png)
 
 
-Segmento Organizadores Anfitriones
+Segmento Organizadores Anfitriones 
+
+![event-planning-hub 1.png](../assets/chapter-IV/event-planning-hub%201.png)
+![service-portfolio 1.png](../assets/chapter-IV/service-portfolio%201.png) 
+![organizer-Historial-reseña-anfitrion2.png](../assets/chapter-IV/organizer-Historial-rese%C3%B1a-anfitrion2.png) 
+![organizer-profile-public 1.png](../assets/chapter-IV/organizer-profile-public%201.png)
+![review-detail-mockup-continuation 1.png](../assets/chapter-IV/review-detail-mockup-continuation%201.png)
+![review-rating-mockup 1.png](../assets/chapter-IV/review-rating-mockup%201.png)
+![Contact-to-organizator-from-host.png](../assets/chapter-IV/Contact-to-organizator-from-host.png)
+![write-review 1.png](../assets/chapter-IV/write-review%201.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
