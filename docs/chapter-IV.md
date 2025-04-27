@@ -318,6 +318,23 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 
 ### 4.4.1. Web Applications Wireframes
 
+Segmento Organizadores de Eventos
+
+![wireframe-1.png](../assets/chapter-IV/wireframe-1.png) 
+![wireframe-2.png](../assets/chapter-IV/wireframe-2.png)
+![wireframe-3.png](../assets/chapter-IV/wireframe-3.png) 
+![wireframe-4.png](../assets/chapter-IV/wireframe-4.png)
+
+
+Segmento Organizadores Anfitriones
+
+![wireframe-5a.png](../assets/chapter-IV/wireframe-5a.png)
+![wireframe-6a.png](../assets/chapter-IV/wireframe-6a.png)
+![wireframe-7a.png](../assets/chapter-IV/wireframe-7a.png)
+![wireframe-8a.png](../assets/chapter-IV/wireframe-8a.png)
+![wireframe-9a.png](../assets/chapter-IV/wireframe-9a.png)
+![wireframe-10a.png](../assets/chapter-IV/wireframe-10a.png)
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
