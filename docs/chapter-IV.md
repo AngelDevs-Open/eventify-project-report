@@ -299,3 +299,8 @@ Finalmente, en esta sección se detallan los componentes internos de la Single P
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+
+En esta sección, se presenta nuestro diagrama de base de datos desarrollado en Vertabelo, con sus respectivas relaciones y entidades.
+
+![database-diagram](/assets/chapter-IV/database-diagram-eventify.png)
+[Link diagrama Vertabelo](https://my.vertabelo.com/public-model-view/FULssyMHN0FcM2xM3exStZY4DopgWkvqmmBCXcTuCWpZyZGKwu3ksoDXA1VBUtV7?x=4300&y=5000&zoom=0.75)
