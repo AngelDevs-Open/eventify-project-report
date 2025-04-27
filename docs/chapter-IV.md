@@ -110,12 +110,12 @@ El meta author tag se utiliza para especificar el autor del contenido de la pág
 - **Title Tag: <br>**
   El title tag define el título que aparecerá en el navegador y en los resultados de búsqueda cuando los usuarios interactúen directamente con la aplicación. Decidimos usar un título dinámico que refleje la acción principal del usuario en la aplicación Eventify.
 ```html
-<title>Eventify - Organiza tu evento</title>
+<title>Eventify - El aplicativo ideal para planificar tu evento</title>
 ```
 - **Meta Description: <br>**
   La meta description proporciona un resumen conciso del contenido de la página. Es importante que sea atractiva y contenga palabras clave relevantes para aumentar la tasa de clicks en Eventify.
 ```html
-<meta name="description" content="Usa Eventify para planificar, coordinar y comunicarte con organizadores o anfitriones en tiempo real. Todo desde una única plataforma eficiente y fácil de usar.">
+<meta name="description" content="Organiza, coordina y conecta en un solo lugar. Con Eventify, gestiona eventos en tiempo real de manera rápida, sencilla y sin complicaciones.">
 ```
 - **Meta Keywords Tag: <br>**
   El meta keywords tag es menos relevante hoy en día, pero aún es útil para proporcionar información adicional sobre el contenido de la página. En este caso, hemos incluido palabras clave relacionadas con la organización de eventos y la conexión entre anfitriones y organizadores.
@@ -214,6 +214,15 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 
 ## 4.5. Web Applications Prototyping
 
+El prototipo de Eventify, desarrollado en Figma, ofrece una representación visual e interactiva de la experiencia del usuario, adaptada tanto para anfitriones como para organizadores de eventos. Cada perfil de usuario dispone de funcionalidades específicas: los anfitriones pueden buscar organizadores, enviar mensajes, gestionar eventos y recibir cotizaciones; mientras que los organizadores tienen la capacidad de administrar solicitudes, enviar formularios, cotizar servicios y supervisar sus eventos activos.​
+
+A continuación, se presenta el enlace al prototipo web, que ilustra las principales interfaces y flujos de navegación de la aplicación.
+
+Link Figma: [https://www.figma.com/design/1usb4mpjHIvceZfIweObPL/Eventify-OS?node-id=0-1&t=S4zPF8OqxPlZvDWW-1](https://www.figma.com/design/1usb4mpjHIvceZfIweObPL/Eventify-OS?node-id=0-1&t=S4zPF8OqxPlZvDWW-1)
+
+![prototyping_image_Open](/assets/chapter-IV/Prototyping_image_open.PNG)
+
+Link Presentación del prototipo: [https://www.figma.com/proto/1usb4mpjHIvceZfIweObPL/Eventify-OS?node-id=3-573&t=S4zPF8OqxPlZvDWW-1](https://www.figma.com/proto/1usb4mpjHIvceZfIweObPL/Eventify-OS?node-id=3-573&t=S4zPF8OqxPlZvDWW-1)
 
 ## 4.6. Domain-Driven Software Architecture
 
