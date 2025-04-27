@@ -253,6 +253,12 @@ En el Sprint 1, nos enfocamos en diseñar y desarrollar la Landing Page de Event
 
 #### 5.2.1.3. Sprint Backlog 1
 
+Para el sprint 1 usamos la herramienta trello para organizar las tareas del equipo.
+
+Enlance: https://trello.com/b/iDs1MVOZ/eventify-sprint-backlog-1 
+
+![trello_sprint_1](/assets/chapter-V/TRELLO.png) 
+
 <table>
   <tr>
     <td> <strong>Sprint #</strong></td>
@@ -392,6 +398,99 @@ En el Sprint 1, nos enfocamos en diseñar y desarrollar la Landing Page de Event
 </table>
 
 #### 5.2.1.4. Development Evidence for Sprint Review
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center">https://github.com/AngelDevs-Web/eventify-landing-page </td>
+    <td align="center"> main</td>
+    <td align="center"> 7d73095c182e4d75e94b25b7ac954d082912f412</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/04/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/funcionalities</td>
+    <td align="center" > 1d9b985bd179a7e02f3896845bae43695099d7dd</td>
+    <td align="center"> style(functionalities): add styles for functionalities section.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/04/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/header</td>
+    <td align="center">97bec8773ba0df16b23986bbd048f088d4884962</td>
+    <td align="center"> style(header): style header section for landing page.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/04/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/about-us</td>
+    <td align="center"> e4f70d8e829878a40fae3e1e0070d6bdb19a5796</td>
+    <td align="center"> style(about-us): add styles for about us section.</td>
+    <td align="center"> ---</td>
+    <td align="center">27/04/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/about-the-product</td>
+    <td align="center"> 9d2397cb6fc1cf0e6225641a0494edd6d24a573f</td>
+    <td align="center"> style(about-the-product): add styles for about the product section for landing page.</td>
+    <td align="center"> ---</td>
+    <td align="center">27/04/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/hero</td>
+    <td align="center"> 11e233f5c5f2dfd3ec65485fec398599298e2c43</td>
+    <td align="center">style(hero): add styles for hero section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/04/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/plans</td>
+    <td align="center"> fc083a88e837c5a88562754667e8304158e2a64a</td>
+    <td align="center"> style(plans-section): style plans section for landing page.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/04/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/footer</td>
+    <td align="center"> 49582dc112638bbf70854593e64bff2e19a8d9fd</td>
+    <td align="center"> style(footer): add styles for footer section.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/04/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/benefits</td>
+    <td align="center">eb1a05507dc9affc037e5e06747b84cc72334901</td>
+    <td align="center"> style(benefits): add styles for benefits section for landing page.</td>
+    <td align="center"> ---</td>
+    <td align="center">27/04/2025</td>
+  </tr>
+
+
+  <tr>
+    <td align="center"> develop</td>
+    <td align="center">7d73095c182e4d75e94b25b7ac954d082912f412</td>
+    <td align="center">chore: initial commit.</td>
+    <td align="center"> ---</td>
+    <td align="center">27/04/2025</td>
+  </tr>
+</table>
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review 
