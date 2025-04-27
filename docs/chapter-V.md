@@ -531,6 +531,20 @@ Despues de finalizar el sprint 1, hemos logrado implementar todas las funcionali
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "Eventify"
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://angeldevs-open.github.io/eventify-landing-page/ </td>
+    <td> Desplegar Landing Page de Eventify</td>
+  </tr>
+</table>
+
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
