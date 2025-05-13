@@ -54,8 +54,8 @@ En cuanto a la validación del software:
 La gestión del código fuente es una parte fundamental en el desarrollo colaborativo de software, ya que permite un control eficiente sobre las modificaciones realizadas en el proyecto a lo largo de su ciclo de vida. En este apartado, se describe el sistema de control de versiones implementado en el proyecto Eventify, utilizando GitHub como plataforma principal. Además, se detallan las convenciones de trabajo adoptadas por el equipo, como el modelo GitFlow, el versionado semántico (Semantic Versioning) y las convenciones de commit mediante Conventional Commits. Estas prácticas aseguran un desarrollo ordenado y una integración continua efectiva entre los miembros del equipo.
 
 **URL de los Repositorios:**
-- Organización: [https://github.com/AngelDevs-Web](https://github.com/AngelDevs-Web)
-- Reporte: [https://github.com/AngelDevs-Web/eventify-project-report](https://github.com/AngelDevs-Web/eventify-project-report)
+- Organización: [https://github.com/AngelDevs-Web](https://github.com/AngelDevs-Open)
+- Reporte: [https://github.com/AngelDevs-Web/eventify-project-report](https://github.com/AngelDevs-Open/eventify-project-report)
 - Landing Page: [https://github.com/AngelDevs-Open/eventify-landing-page](https://github.com/AngelDevs-Open/eventify-landing-page)
 
 **Estructura de Ramas:**
@@ -410,7 +410,7 @@ Enlance: https://trello.com/b/iDs1MVOZ/eventify-sprint-backlog-1
   </tr>
 
   <tr>
-    <td rowspan="27" align="center">https://github.com/AngelDevs-Web/eventify-landing-page </td>
+    <td rowspan="27" align="center">https://github.com/AngelDevs-Open/eventify-landing-page </td>
     <td align="center"> main</td>
     <td align="center"> 7d73095c182e4d75e94b25b7ac954d082912f412</td>
     <td align="center"> chore: initial commit</td>
