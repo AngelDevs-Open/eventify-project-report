@@ -606,6 +606,30 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+**Bounded Context Quote Management**
+
+**Quote Management**
+
+Esta es la página donde se gestionan todas las cotizaciones. Se puede crear cotizaciones nuevas, asi como actualizar los datos de cotizaciones anteriormente registradas, si en caso el organizador necesite definir cambios de último momento.
+
+![quote-management](../assets/chapter-V/quote-management.png)
+
+**Quote Order Form Component | Service Item Form Component**
+
+![quote-and-service-component](../assets/chapter-V/quote-service-edit-create.png)
+![quote-and-service-edit-action-component](../assets/chapter-V/quote-service-edit-action.png)
+
+Este es el formulario donde se define información relevante respecto al posible evento que se vaya a realizar. El organizador podrá definir el tipo de evento que se planeará, la cantidad de invitados, asi como la fecha que se celebraria. Además se podrá agregar los servicios que incluirá en la planeación.
+Estos formularios, a su vez tienen la opción de editar cotizaciones y servicios que ya han sido registrados.
+
+**Bounded Context - Event Management**
+
+**Calendar Component**
+
+![calendar-component](../assets/chapter-V/calendar-event.png)
+
+El siguiente calendario permitirá mostrar los eventos que el organizador este gestionando. Además se ira actualizando conforme se registren nuevos eventos. 
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 Para este segundo Sprint, hemos realizado la implementación y el despliegue del FrontEnd de nuestra aplicación Web "Eventify".
