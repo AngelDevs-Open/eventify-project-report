@@ -604,6 +604,105 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Open/eventify-front-end </td>
+    <td align="center"> feature/task-management</td>
+    <td align="center">f3b0fe13e560b1e1bb511930e59199ec478cba07 </td>
+    <td align="center"> feat(task): add task management component page.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 16/05/2025</td>
+  </tr>
+
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">4431b8d3813c931938917855a7ce4f101adb07b1</td>
+      <td align="center"> feat(task): create task entity..</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">5caaf73d68baba681bce650b0638181fdd41a289</td>
+      <td align="center"> feat(task): add task item component.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">4c946b7ef9fcdba8ddd12088f7336a4432fd35b8</td>
+      <td align="center"> feat(task): add task column component.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">78a3f28589f7fc21f2b26d085f9899680c42f58f</td>
+      <td align="center"> feat(task): add task column entity.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">c34e9f5f504768eb39d8652e1a07d3c55e004781</td>
+      <td align="center"> feat(task): add task entity.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">2d20ccb6f44c643f770ab37ec9ccadd7898c512f</td>
+      <td align="center"> feat(task): add task board component.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/quote-management</td>
+      <td align="center">15bc0d46ec5178b533eabe43f6ca595114c5a45b</td>
+      <td align="center"> feat(quote): add quote order entity</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+ <tr>
+      <td align="center"> feature/quote-management</td>
+      <td align="center">633026fdce3a52a124d079be18512a049c5bb48e</td>
+      <td align="center"> feat(quote): add service item entity</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+<tr>
+      <td align="center"> feature/quote-management</td>
+      <td align="center">40d9280bc960c81b832104c1e15272d38aec4366</td>
+      <td align="center"> feat(quote): add services to quote order and service item</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+<tr>
+      <td align="center"> feature/quote-management</td>
+      <td align="center">5052d27a5a6e89db9231bd830e121aa42f73e100</td>
+      <td align="center"> feat(quote): add service item create and edit component</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+<tr>
+      <td align="center"> feature/quote-management</td>
+      <td align="center">359cc0ca698eca6b332d6f35daeb82c8343b61e7</td>
+      <td align="center"> feat(quote): add quote management component with data maintenance functionality</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+</table>
+
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 **Bounded Context Quote Management**
