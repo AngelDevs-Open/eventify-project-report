@@ -587,3 +587,12 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
 | **Sprint 2 Velocity**      | Velocidad de 26 - Primer Sprint  |
 | **Story Points Totales**   | Sprint 2 - 32 Story Points                     |
 
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+|            Team Member            | GitHub Username | TaskManagement | ProfileManagement | QuoteManagement | Event Management | Calendar | 
+|:---------------------------------:|:---------------:|:--------------:|:-----------------:|:---------------:|:----------------:|:--------:| 
+|     Aldave Aldave, Jean Pierr     |   Jean Pierr    |       L        |         C         |        C        |        C         |    C     |  
+| Berrocal Ramirez, Omar Christian  |      OmBRz      |       C        |         C         |        C        |        C         |    L     |   
+|  Crisanto Calle, Deybbi Anderson  |     Dacc03      |       C        |         L         |        C        |        C         |    C     |   
+| Cutiri Agüero, Fabrizio Alexander |    Fabrizio     |       C        |         C         |        L        |        C         |    C     |    
+|   Paico Calderon, July Zelmira    |      JulyP      |       C        |         C         |        C        |        L         |    C     |  
