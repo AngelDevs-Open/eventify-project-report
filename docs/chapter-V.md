@@ -602,6 +602,157 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
 
 #### 5.2.2.3. Sprint Backlog 2
 
+
+Para el sprint 2 usamos la herramienta trello para organizar las tareas del equipo.
+
+Enlance: https://trello.com/b/rzR3S25M/eventify-sprint-backlog-2
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US24 Solicitar cotización a un organizador</td>
+    <td align="center"> TA01 </td>
+     <td align="center"> Create a qoute management</td>
+    <td align="center">Crear un formulario para generar una cotización </td>
+    <td align="center"> 3</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA02 </td>
+     <td align="center"> Add component to create and edit services into a quote</td>
+    <td align="center"> Crea componentes para crear y editar cotizaciones en una tabla</td>
+    <td align="center"> 3</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA03 </td>
+     <td align="center">Add external service for CRUD operations of quotes</td>
+    <td align="center"> Crea un servicio para acceder al fake api y hacer operaciones de CRUD</td>
+    <td align="center"> 2</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander</td>
+    <td align="center">Done</td>
+  </tr>
+
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US21 Vista de cronograma del evento</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Create a calendar to view events registered</td>
+    <td align="center"> Se crea un calendario donde figurarán los eventos en los días correspondientes.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Berrocal Ramirez, Omar Christian</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US19 Gestión de presupuesto del evento</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Add external service for CRUD operations of services into a quote</td>
+    <td align="center"> Se crea un servicio para acceder al apifake y hacer operaciones de crud.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander</td>
+    <td align="center">Done</td>
+  </tr>
+
+
+<!-------------------------------------------------->
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US18 Lista de tareas del evento</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Create a task management board</td>
+    <td align="center"> crea un board de gestión de tareas.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Aldave Aldave, Jean Pierr </td>
+    <td align="center"> Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA02 </td>
+     <td align="center">Add a component to create and edit tasks</td>
+    <td align="center"> Crea componentes para crear y editar tareas en el task board</td>
+    <td align="center"> 3</td>
+    <td align="center"> Aldave Aldave, Jean Pierr</td>
+    <td align="center">Done</td>
+  </tr>
+   <tr>
+    <td align="center"> TA03 </td>
+     <td align="center">Add external service for CRUD operations of tasks</td>
+    <td align="center"> Crea un servicio para acceder al fake api y obtener, editar o elimnar datos de las tareas.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Aldave Aldave, Jean Pierr</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US22 Visualización de resumen del evento</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Create event summary</td>
+    <td align="center"> Se debe desarrollar un card que muestre el resumen del evento</td>
+    <td align="center"> 2</td>
+    <td align="center"> Paico Calderon, July Zelmira </td>
+    <td align="center">In Progress</td>
+  </tr>
+  <!------------------------------------------------>
+   <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US23 Visualizar perfiles de organizadores	</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Organizer profile</td>
+    <td align="center"> Se desarrolla secion de perfil del organizador.</td>
+    <td align="center"> 3</td>
+    <td align="center"> Crisanto Calle, Deybbi Anderson </td>
+    <td align="center"> Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA02 </td>
+     <td align="center">Add Reviews and rating</td>
+    <td align="center"> Crea una vista con las reseñas y calificaciones que tiene el organizador.</td>
+    <td align="center"> 2</td>
+    <td align="center">Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">In Progress</td>
+  </tr>
+  <!------------------------------------------------>
+   <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US17 Registro de nuevo evento.</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Create a new event</td>
+    <td align="center"> Crea un componente que genere un evento cuando se apruebe la cotización.</td>
+    <td align="center"> 2 </td>
+    <td align="center"> Paico Calderon, July Zelmira </td>
+    <td align="center"> In Progress</td>
+  </tr>
+
+
+</table>
+
 #### 5.2.2.4. Development Evidence for Sprint Review
 
 <table>
