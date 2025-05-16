@@ -608,6 +608,27 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+Para este segundo Sprint, hemos realizado la implementación y el despliegue del FrontEnd de nuestra aplicación Web "Eventify".
+Para ello hemos utilizado Firebase como servicio de hosting y Firebase CLI para el despliegue.
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://angeldevs-open.github.io/eventify-landing-page/</td>
+    <td> Desplegar Landing Page de Eventify</td>
+  </tr>
+  <tr>
+    <td> https://eventify-open-frontend.web.app</td>
+    <td> Desplegar Front End</td>
+  </tr>
+  <tr>
+    <td> https://eventify-frontend.free.beeceptor.com</td>
+    <td> Desplegar Fake API</td>
+  </tr>
+</table>
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -616,7 +637,6 @@ Para el despliegue del FrontEnd utilizamos el servicio de hosting que ofrece Fir
 ![firebase-service](../assets/chapter-V/firebase-open.png)
 
 ![firebase-json](../assets/chapter-V/firebase-open-json.png)
-
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
