@@ -664,58 +664,58 @@ En el As-is scenario mapping de este segmento se han identificado los principale
 
 ## 2.4. Ubiquitous Language
 
-**Aforo**: capacidad de un espacio en número de personas.
+**Capacity**: number of people a space can hold.
 
-**Asistentes**: personas que asistirán y participarán en un evento.
+**Attendees**: people who will attend and participate in an event.
 
-**Azafato o azafata de eventos**: personal que apoya en el registro, atención y otras tareas logísticas.
+**Event usher**: staff who supports with registration, service, and other logistical tasks.
 
-**Break / Coffee break**: receso donde se sirven café y bocaditos.
+**break**: recess where coffee and snacks are served.
 
-**Catering**: servicio de suministro de comidas y bebidas en un evento.
+**Catering**: service providing food and beverages at an event.
 
-**Ceremonia**: acto formal dentro del evento.
+**Ceremony**: formal act within the event.
 
-**Check-list**: lista para hacer comprobaciones sistemáticas de actividades o recursos.
+**Check-list**: list for systematic verification of activities or resources.
 
-**Cliente**: persona que contrata al organizador para realizar un evento.
+**Host**: person who hires the organizer to conduct an event.
 
-**Concierto**: presentación musical en vivo.
+**Concert**: live musical performance.
 
-**Conferencia**: reunión donde se exponen temas ante un público.
+**Conference**: meeting where topics are presented to an audience.
 
-**Cronograma / Timing**: planificación detallada de las actividades del evento.
+**Timing**: detailed planning of event activities.
 
-**Decoración**: elementos visuales que ambientan el evento.
+**Decoration**: visual elements that set the atmosphere for the event.
 
-**Equipo de producción**: grupo de personas que trabajan en conjunto para producir un evento como técnicos, ayudantes y cualquier otra persona adicional al staff base que esté involucrada en el evento.
+**Production team**: group of people working together to produce an event, such as technicians, assistants, and any other person additional to the base staff who is involved in the event.
 
-**Evento**: actividad planificada con fecha, hora y lugar específico.
+**Event**: planned activity with a specific date, time, and place.
 
-**Event Planner**: persona que se encarga de planificar todo el evento.
+**Event Planner**: person in charge of planning the entire event.
 
-**Expositor**: persona o empresa que presenta productos o ideas en el evento.
+**Exhibitor**: person or company presenting products or ideas at the event.
 
-**Factura proforma**: un tipo de factura emitida por proveedores que es necesario pagar previo a la ejecución del evento.
+**Pro-forma invoice**: a type of invoice issued by suppliers that must be paid prior to the execution of the event.
 
-**Keynote**: discurso inicial de una presentación o serie de conferencias que apunta al tema general del que se hablará y que es diseñado para motivar a la audiencia.
+**Keynote**: initial speech of a presentation or series of conferences that points to the general topic to be discussed and is designed to motivate the audience.
 
-**Local**: lugar físico donde se realiza el evento.
+**Venue**: physical location where the event takes place.
 
-**Mampara**: pared móvil para adaptar y ambientar los espacios de acuerdo con las necesidades del evento.
+**Partition**: movable wall to adapt and set up spaces according to the needs of the event.
 
-**Organizador**: persona o empresa responsable de planificar y ejecutar el evento.
+**Organizer**: person or company responsible for planning and executing the event.
 
-**Patrocinador**: empresa o persona que apoya o financia el evento.
+**Sponsor**: company or person who supports or finances the event.
 
-**Plano del evento**: documento que muestra el espacio del salón de eventos designado para la exposición. También muestra en detalle el espacio que puede ocupar cada stand, el área de registro, las entradas y salidas, etc.
+**Event floor plan**: document that shows the space of the event hall designated for the exhibition. It also shows in detail the space that each stand can occupy, the registration area, entrances and exits, etc.
 
-**Programación**: agenda de actividades del evento.
+**Program**: agenda of event activities.
 
-**Protocolo**: conjunto de normas, costumbres y tradiciones mediante las cuales se organiza cualquier acto, evento público, privado u oficial.
+**Protocol**: set of norms, customs, and traditions through which any act, public, private, or official event is organized.
 
-**Staff**: personal que forma parte de la organización del evento.
+**Staff**: personnel who are part of the event organization.
 
-**Stand**: instalación usada para mostrar productos o brindar información.
+**Stand**: installation used to display products or provide information.
 
-**Transfer**: traslado de asistentes (ej. del hotel al evento).
+**Transfer**: transportation of attendees (e.g., from hotel to event).

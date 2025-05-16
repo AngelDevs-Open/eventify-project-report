@@ -29,9 +29,24 @@
 ## Registro de Versiones del Informe
 
 
-| **Version** | **Fecha** | **Autor** | **Descripción de modificación** |
-|:-----------:|:---------:|:---------:|:-------------------------------:|
-|             |           |           |                                 |
+| **Version** | **Fecha**  |            **Autor**             |                                       **Descripción de modificación**                                        |
+|:-----------:|:----------:|:--------------------------------:|:------------------------------------------------------------------------------------------------------------:|
+|     1.0     | 19/04/2025 | Fabrizio Alexander Cutiri Agüero |                                    Se presento la estructura del Informe                                     |
+|     1.1     | 24/04/2025 |   July Zelmira Paico Calderon    |                  Se agrego Startup Profile, Antecedentes y Problematica, Segmentos Objetivo                  |
+|     1.2     | 25/04/2025 |     Jean Pierr Aldave Aldave     |                             Se agregarón todas las secciones del Lean UX Process                             |
+|     1.3     | 25/04/2025 | Fabrizio Alexander Cutiri Agüero | Se agregaron las secciones respecto a las entrevistas, analisis de competidores y Artefactos del Needfinding |
+|     1.4     | 27/04/2025 |  Deybbi Anderson Crisanto Calle  |                 Se agregó el To Be Scenary Map, las Epics, User Stories y Technical Stories.                 |
+|     1.5     | 27/04/2025 | Fabrizio Alexander Cutiri Agüero |            Se agregaron los Style Guidelines generales y Web. Ademas del Information Architecture            |
+|     1.6     | 27/04/2025 | Omar Christian Berrocal Ramirez  |         Se agregarón wireframes, mockups del landing page y la aplicación web. Además del Prototipo.         |
+|     1.7     | 27/04/2025 |     Jean Pierr Aldave Aldave     |                            Se agregó el c4 model y el diagrama de base de datos.                             |
+|     1.8     | 27/04/2025 |  Deybbi Anderson Crisanto Calle  |                       Se realizó el Sprint plannig 1 y el despliegue del Landing Page                        |
+|     2.0     | 16/05/2025 |   July Zelmira Paico Calderon    |                         Se realizaron las correcciones de la entrega anterior (TB1)                          |
+|     2.1     | 16/05/2025 | Fabrizio Alexander Cutiri Agüero |                             Se implemento la seccion quotes de la aplicacion web                             |
+|     2.2     | 16/05/2025 | Omar Christian Berrocal Ramirez  |                     Se implemento la seccion deL calendario dentro de la aplicacion web                      |
+|     2.3     | 16/05/2025 |     Jean Pierr Aldave Aldave     |                                    Se busco implementar la seccion tasks.                                    |
+|     2.4     | 16/05/2025 |  Deybbi Anderson Crisanto Calle  |                                   Se busco implementar la seccion profile.                                   |
+|     2.5     | 16/05/2025 |   July Zelmira Paico Calderon    |         Se busco implementar la seccion de eventos, pero no se logro por falta de tiempo y recursos.         |
+|     2.6     | 16/05/2025 | Fabrizio Alexander Cutiri Agüero |                   Se realizo el despliegue de la aplicacion usando firebase y json server                    |
 
 ## Project Report Collaboration Insights
 
