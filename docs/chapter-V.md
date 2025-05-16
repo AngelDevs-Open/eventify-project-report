@@ -595,12 +595,19 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
 | Berrocal Ramirez, Omar Christian  |      OmBRz      |       C        |         C         |        C        |        C         |    L     |   
 |  Crisanto Calle, Deybbi Anderson  |     Dacc03      |       C        |         L         |        C        |        C         |    C     |   
 | Cutiri Agüero, Fabrizio Alexander |    Fabrizio     |       C        |         C         |        L        |        C         |    C     |    
-|   Paico Calderon, July Zelmira    |      JulyP      |       C        |         C         |        C        |        L         |    C     |
+|   Paico Calderon, July Zelmira    |      JulyP      |       C        |         C         |        C        |        C         |    L     |  
+
+### 5.2.2.3. Sprint Backlog 2
+
+### 5.2.2.4. Development Evidence for Sprint Review
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 
 
-
-#### 5.2.2.8. Team Collaboration Insights during Sprint.
+### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 La meta para este Sprint fue la implementación y despliegue de la primera versión del FrontEnd de nuestro proyecto. Para ello, utilizamos diversas herramientas como GitHub, Webstorm, Angular, Angular material, ngx-translate-core, entre otros. Como evidencia de que se trabajo de forma colaborativa se presentan los insights del repositorio en Github donde se desarrollo el proyecto.
 
