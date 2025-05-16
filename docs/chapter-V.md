@@ -592,7 +592,26 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
 |            Team Member            | GitHub Username | TaskManagement | ProfileManagement | QuoteManagement | Event Management | Calendar | 
 |:---------------------------------:|:---------------:|:--------------:|:-----------------:|:---------------:|:----------------:|:--------:| 
 |     Aldave Aldave, Jean Pierr     |   Jean Pierr    |       L        |         C         |        C        |        C         |    C     |  
-| Berrocal Ramirez, Omar Christian  |      OmBRz      |       C        |         C         |        C        |        L         |    C     |   
+| Berrocal Ramirez, Omar Christian  |      OmBRz      |       C        |         C         |        C        |        C         |    L     |   
 |  Crisanto Calle, Deybbi Anderson  |     Dacc03      |       C        |         L         |        C        |        C         |    C     |   
 | Cutiri Agüero, Fabrizio Alexander |    Fabrizio     |       C        |         C         |        L        |        C         |    C     |    
-|   Paico Calderon, July Zelmira    |      JulyP      |       C        |         C         |        C        |        C         |    L     |  
+|   Paico Calderon, July Zelmira    |      JulyP      |       C        |         C         |        C        |        L         |    C     |
+
+
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+La meta para este Sprint fue la implementación y despliegue de la primera versión del FrontEnd de nuestro proyecto. Para ello, utilizamos diversas herramientas como GitHub, Webstorm, Angular, Angular material, ngx-translate-core, entre otros. Como evidencia de que se trabajo de forma colaborativa se presentan los insights del repositorio en Github donde se desarrollo el proyecto.
+
+![collaboration-insights](../assets/chapter-V/pulse-open.png)
+En esta imagen se muestran el total de commits que hizo cada integrante durante el desarrollo del Frontend
+
+![contributors-frontend](../assets/chapter-V/contributors%20-%20open.png)
+En esta imagen se refleja el nivel de modificaciones realizadas por los commits de cada integrante en el repositorio del FrontEnd.
+
+![gitflow-1](../assets/chapter-V/network-open.png)
+
+![gitflow-2](../assets/chapter-V/network-2-open.png)
+
+Finalmente en estas imagenes se pueden apreciar las ramas con las que se ha trabajado durante el desarrollo del FrontEnd
