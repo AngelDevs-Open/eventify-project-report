@@ -569,3 +569,111 @@ En esta imagen se refleja la el nivel de modificaciones realizadas por los commi
 
 ![Network-landing](/assets/chapter-V/network-landing.png)
 En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron, así como se aplicó gitflow para su desarrollo.
+
+![firebase-service](../assets/chapter-V/firebase-open.png)
+
+![firebase-json](../assets/chapter-V/firebase-open-json.png)
+
+#### 5.2.2.1. Sprint Planning 2
+| Sprint #                    | Sprint  |
+|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background** | |
+| **Fecha**                  | 06/05/25   |
+| **Hora**                   | 23:40 horas |
+| **Lugar**                  | Reunión virtual - Zoom/Discord   |
+| **Preparado por**          | Omar Christian Berrocal Ramirez |
+| **Asistentes**             | - Aldave Aldave Jean Pierr  <br> - Deybbi Anderson Crisanto Calle  <br> - Fabrizio Alexander Cutiri Agüero  <br> - July Zelmira Paico Calderon    |
+| **Sprint n-1 Review Summary**     | Se logró implementar la versión inicial del Frontend, exponiendo las vistas core del negocio. Se establecieron las tecnologías base del proyecto: Angular y Typecript. Además se corrigieron errores del sprint anterior.          |
+| **Sprint n-1 Retrospective Summary** | Durante el Sprint 2 se acordó implementar en el Frontend las principales vistas de nuestro negocio con la finalidad de generar espectativas a los clientes desde la primera versión del producto. También se identificó la necesidad de establecer estándares de componentes reutilizables y convenciones claras de código desde el inicio del desarrollo.|
+| **Sprint Goal & User Stories**    |  |
+| **Sprint 2 Goal**          | Nuestro enfoque en este sprint es construir la primera versión funcional del Frontend de Eventify con con Angular, incorporando componentes reutilizables, diseño responsive y navegación fluida. Nos centraremos en desarrollar las secciones previamente definidas (Inicio, Quote, Settings, Calendar) utilizando código limpio y modular, aplicando Angular Material para los componentes visuales. Buscamos entregar una versión navegable que los usuarios puedan ver y usar desde diferentes dispositivos. Esto nos permitirá realizar pruebas tempranas de usabilidad y validar si la interfaz cumple con los objetivos de claridad, atractivo visual y navegación intuitiva. Este trabajo será validado mediante una demo funcional desplegada localmente y/o en hosting temporal (como Netlify o Vercel), que permita recibir feedback interno antes de pasar a etapas más avanzadas de integración o backend. |
+| **Sprint 2 Velocity**      | Velocidad de 26 - Primer Sprint  |
+| **Story Points Totales**   | Sprint 2 - 32 Story Points                     |
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+|            Team Member            | GitHub Username | TaskManagement | ProfileManagement | QuoteManagement | Event Management | Calendar | 
+|:---------------------------------:|:---------------:|:--------------:|:-----------------:|:---------------:|:----------------:|:--------:| 
+|     Aldave Aldave, Jean Pierr     |   Jean Pierr    |       L        |         C         |        C        |        C         |    C     |  
+| Berrocal Ramirez, Omar Christian  |      OmBRz      |       C        |         C         |        C        |        C         |    L     |   
+|  Crisanto Calle, Deybbi Anderson  |     Dacc03      |       C        |         L         |        C        |        C         |    C     |   
+| Cutiri Agüero, Fabrizio Alexander |    Fabrizio     |       C        |         C         |        L        |        C         |    C     |    
+|   Paico Calderon, July Zelmira    |      JulyP      |       C        |         C         |        C        |        C         |    L     |  
+
+#### 5.2.2.3. Sprint Backlog 2
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+**Bounded Context Quote Management**
+
+**Quote Management**
+
+Esta es la página donde se gestionan todas las cotizaciones. Se puede crear cotizaciones nuevas, asi como actualizar los datos de cotizaciones anteriormente registradas, si en caso el organizador necesite definir cambios de último momento.
+
+![quote-management](../assets/chapter-V/quote-management.png)
+
+**Quote Order Form Component | Service Item Form Component**
+
+![quote-and-service-component](../assets/chapter-V/quote-service-edit-create.png)
+![quote-and-service-edit-action-component](../assets/chapter-V/quote-service-edit-action.png)
+
+Este es el formulario donde se define información relevante respecto al posible evento que se vaya a realizar. El organizador podrá definir el tipo de evento que se planeará, la cantidad de invitados, asi como la fecha que se celebraria. Además se podrá agregar los servicios que incluirá en la planeación.
+Estos formularios, a su vez tienen la opción de editar cotizaciones y servicios que ya han sido registrados.
+
+**Bounded Context - Event Management**
+
+**Calendar Component**
+
+![calendar-component](../assets/chapter-V/calendar-event.png)
+
+El siguiente calendario permitirá mostrar los eventos que el organizador este gestionando. Además se ira actualizando conforme se registren nuevos eventos. 
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Para este segundo Sprint, hemos realizado la implementación y el despliegue del FrontEnd de nuestra aplicación Web "Eventify".
+Para ello hemos utilizado Firebase como servicio de hosting y Firebase CLI para el despliegue.
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://angeldevs-open.github.io/eventify-landing-page/</td>
+    <td> Desplegar Landing Page de Eventify</td>
+  </tr>
+  <tr>
+    <td> https://eventify-open-frontend.web.app</td>
+    <td> Desplegar Front End</td>
+  </tr>
+  <tr>
+    <td> https://eventify-frontend.free.beeceptor.com</td>
+    <td> Desplegar Fake API</td>
+  </tr>
+</table>
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para el despliegue del FrontEnd utilizamos el servicio de hosting que ofrece Firebase. Para ello, hemos utilizado Firebase CLI para vincular nuestro proyecto con Firebase y mediante lineas de comandos realizar el despliegue.
+
+![firebase-service](../assets/chapter-V/firebase-open.png)
+
+![firebase-json](../assets/chapter-V/firebase-open-json.png)
+
+### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+La meta para este Sprint fue la implementación y despliegue de la primera versión del FrontEnd de nuestro proyecto. Para ello, utilizamos diversas herramientas como GitHub, Webstorm, Angular, Angular material, ngx-translate-core, entre otros. Como evidencia de que se trabajo de forma colaborativa se presentan los insights del repositorio en Github donde se desarrollo el proyecto.
+
+![collaboration-insights](../assets/chapter-V/pulse-open.png)
+En esta imagen se muestran el total de commits que hizo cada integrante durante el desarrollo del Frontend
+
+![contributors-frontend](../assets/chapter-V/contributors%20-%20open.png)
+En esta imagen se refleja el nivel de modificaciones realizadas por los commits de cada integrante en el repositorio del FrontEnd.
+
+![gitflow-1](../assets/chapter-V/network-open.png)
+
+![gitflow-2](../assets/chapter-V/network-2-open.png)
+
+Finalmente en estas imagenes se pueden apreciar las ramas con las que se ha trabajado durante el desarrollo del FrontEnd
