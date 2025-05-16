@@ -592,7 +592,7 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
 |            Team Member            | GitHub Username | TaskManagement | ProfileManagement | QuoteManagement | Event Management | Calendar | 
 |:---------------------------------:|:---------------:|:--------------:|:-----------------:|:---------------:|:----------------:|:--------:| 
 |     Aldave Aldave, Jean Pierr     |   Jean Pierr    |       L        |         C         |        C        |        C         |    C     |  
-| Berrocal Ramirez, Omar Christian  |      OmBRz      |       C        |         C         |        C        |        C         |    L     |   
+| Berrocal Ramirez, Omar Christian  |      OmBRz      |       C        |         C         |        C        |        L         |    C     |   
 |  Crisanto Calle, Deybbi Anderson  |     Dacc03      |       C        |         L         |        C        |        C         |    C     |   
 | Cutiri Agüero, Fabrizio Alexander |    Fabrizio     |       C        |         C         |        L        |        C         |    C     |    
-|   Paico Calderon, July Zelmira    |      JulyP      |       C        |         C         |        C        |        L         |    C     |  
+|   Paico Calderon, July Zelmira    |      JulyP      |       C        |         C         |        C        |        C         |    L     |  
