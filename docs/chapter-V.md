@@ -570,6 +570,9 @@ En esta imagen se refleja la el nivel de modificaciones realizadas por los commi
 ![Network-landing](/assets/chapter-V/network-landing.png)
 En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron, así como se aplicó gitflow para su desarrollo.
 
+![firebase-service](../assets/chapter-V/firebase-open.png)
+
+![firebase-json](../assets/chapter-V/firebase-open-json.png)
 
 #### 5.2.2.1. Sprint Planning 2
 | Sprint #                    | Sprint  |
@@ -597,14 +600,22 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
 | Cutiri Agüero, Fabrizio Alexander |    Fabrizio     |       C        |         C         |        L        |        C         |    C     |    
 |   Paico Calderon, July Zelmira    |      JulyP      |       C        |         C         |        C        |        C         |    L     |  
 
-### 5.2.2.3. Sprint Backlog 2
+#### 5.2.2.3. Sprint Backlog 2
 
-### 5.2.2.4. Development Evidence for Sprint Review
+#### 5.2.2.4. Development Evidence for Sprint Review
 
-### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
 
-### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para el despliegue del FrontEnd utilizamos el servicio de hosting que ofrece Firebase. Para ello, hemos utilizado Firebase CLI para vincular nuestro proyecto con Firebase y mediante lineas de comandos realizar el despliegue.
+
+![firebase-service](../assets/chapter-V/firebase-open.png)
+
+![firebase-json](../assets/chapter-V/firebase-open-json.png)
 
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
