@@ -569,3 +569,21 @@ En esta imagen se refleja la el nivel de modificaciones realizadas por los commi
 
 ![Network-landing](/assets/chapter-V/network-landing.png)
 En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron, así como se aplicó gitflow para su desarrollo.
+
+
+#### 5.2.2.1. Sprint Planning 2
+| Sprint #                    | Sprint  |
+|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background** | |
+| **Fecha**                  | 06/05/25   |
+| **Hora**                   | 23:40 horas |
+| **Lugar**                  | Reunión virtual - Zoom/Discord   |
+| **Preparado por**          | Omar Christian Berrocal Ramirez |
+| **Asistentes**             | - Aldave Aldave Jean Pierr  <br> - Deybbi Anderson Crisanto Calle  <br> - Fabrizio Alexander Cutiri Agüero  <br> - July Zelmira Paico Calderon    |
+| **Sprint n-1 Review Summary**     | Se logró implementar la versión inicial del Frontend, exponiendo las vistas core del negocio. Se establecieron las tecnologías base del proyecto: Angular y Typecript. Además se corrigieron errores del sprint anterior.          |
+| **Sprint n-1 Retrospective Summary** | Durante el Sprint 2 se acordó implementar en el Frontend las principales vistas de nuestro negocio con la finalidad de generar espectativas a los clientes desde la primera versión del producto. También se identificó la necesidad de establecer estándares de componentes reutilizables y convenciones claras de código desde el inicio del desarrollo.|
+| **Sprint Goal & User Stories**    |  |
+| **Sprint 2 Goal**          | Nuestro enfoque en este sprint es construir la primera versión funcional del Frontend de Eventify con con Angular, incorporando componentes reutilizables, diseño responsive y navegación fluida. Nos centraremos en desarrollar las secciones previamente definidas (Inicio, Quote, Settings, Calendar) utilizando código limpio y modular, aplicando Angular Material para los componentes visuales. Buscamos entregar una versión navegable que los usuarios puedan ver y usar desde diferentes dispositivos. Esto nos permitirá realizar pruebas tempranas de usabilidad y validar si la interfaz cumple con los objetivos de claridad, atractivo visual y navegación intuitiva. Este trabajo será validado mediante una demo funcional desplegada localmente y/o en hosting temporal (como Netlify o Vercel), que permita recibir feedback interno antes de pasar a etapas más avanzadas de integración o backend. |
+| **Sprint 2 Velocity**      | Velocidad de 26 - Primer Sprint  |
+| **Story Points Totales**   | Sprint 2 - 32 Story Points                     |
+
