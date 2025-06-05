@@ -50,6 +50,31 @@
 
 ## Project Report Collaboration Insights
 
+**Link de la organización:** https://github.com/AngelDevs-Open
+
+**Link del Repositorio del Informe:** https://github.com/AngelDevs-Open/eventify-project-report
+
+### Reporte de Colaboración para la entrega del TB1
+
+En esta primera entrega se redactó el informe hasta la sección Sprint 1 del capítulo V. Durante este proceso se realizaron diversas actividades, siendo las más relevantes:  la definición de los antecedentes y problematicas identificados, la implementación del Lean UX Canvas, analisis de competidores, diseño y analisis de entrevistas, creación de artefactos (User Personas, Task Matrix, etc), redacción de User Stories, diseño de Wireframes y MockUps para los productos (landing page y applicación web), diseño de los diagramas C4 Model (Contexto, Contenedores y Componentes), asi como la documentación de la implementación y despliegue del landing page.
+
+Para evidenciar nuestros avances y que todos los miembros del equipo participaron en la redacción del informe, se presenta a continuación, las capturas obtenidas de los analíticos de colaboración en el repositorio de GitHub del Informe:
+
+**Contributors**
+
+En el analítico de Contributors, se evidencia las contribuciones que hizo cada integrante del equipo para la redacción del informe durante el periodo de esta primera entrega. Se puede observar la cantidad de commits que realizó cada integrante, asi como la cantidad de addiciones y eliminaciones que se realizaron en el informe.
+
+![contributors-report-tb1](./assets/cover/contributors-insights-tb1.png)
+
+**Network Graph**
+
+En el analítico de **Network Graph**, se evidencia que se trabajo con GitFlow para la redacción del informe. Se puede apreciar las diversas ramas que se crearon para cada feature que presentaba el informe. Se crearon ramas tanto para los capitulos, como para la caratula del informe, el Student Outcome, los anexos y las referencias bibliográficas. Se realizaron commits en cada una de estas ramas, para posteriormente hacer **merge** hacia la rama develop y finalmente hacer merge a la rama main.
+
+![gitflow-report-tb1-1](./assets/cover/gitflow-1-insights-tb1.png)
+![gitflow-report-tb1-2](./assets/cover/gitflow-2-insights-tb1.png)
+![gitflow-report-tb1-3](./assets/cover/gitflow-3-insights-tb1.png)
+![gitflow-report-tb1-4](./assets/cover/gitflow-4-insights-tb1.png)
+
 
 ------
 
