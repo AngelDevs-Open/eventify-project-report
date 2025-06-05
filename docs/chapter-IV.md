@@ -292,13 +292,72 @@ En esta sección se presentan las representaciones de bajo nivel **(wireframes)*
 
 **Desktop Web Browser**
 
-![eventify-wireframe-desktop](/assets/chapter-IV/eventify-wireframe-desktop.jpg)
+**Header Section**
+![header-section-wireframe-desktop](/assets/chapter-IV/header-section-wireframe.png)
+
+**Hero Section**
+![hero-section-wireframe-desktop](/assets/chapter-IV/hero-section-wireframe.png)
+
+**About the product Section**
+![about-product-section-wireframe-desktop](/assets/chapter-IV/about-the-product-section-wireframe.png)
+
+**Functionalities Section**
+![functionality-section-wireframe-desktop](/assets/chapter-IV/functionality-section-wireframe.png)
+
+**Benefits Section**
+![benefits-section-wireframe-desktop](/assets/chapter-IV/benefits-section-wireframe.png)
+
+**Plans Section**
+![plans-section-wireframe-desktop](/assets/chapter-IV/plans-section-wireframe.png)
+
+**About us Section**
+![about-us-section-wireframe-desktop](/assets/chapter-IV/about-us-section-wireframe.png)
+
+**About the team Section**
+![about-team-section-wireframe-desktop](/assets/chapter-IV/about-the-team-section-wireframe.png)
+
+**Footer Section**
+![footer-section-wireframe-desktop](/assets/chapter-IV/footer-section-wireframe.png)
 
 <br>
 
 **Mobile Web Browser**
 
-![eventify-wireframe-mobile](/assets/chapter-IV/eventify-wireframe-mobile.jpg)
+**Header Section**
+
+![header-section-wireframe-desktop](/assets/chapter-IV/header-section-mobile-wireframe.png)
+
+**Hero Section**
+
+![hero-section-wireframe-desktop](/assets/chapter-IV/hero-section-mobile-wireframe.png)
+
+**About the product Section**
+
+![about-product-section-wireframe-desktop](/assets/chapter-IV/about-the-product-section-mobile-wireframe.png)
+
+**Functionalities Section**
+
+![functionality-section-wireframe-desktop](/assets/chapter-IV/functionality-section-mobile-wireframe.png)
+
+**Benefits Section**
+
+![benefits-section-wireframe-desktop](/assets/chapter-IV/benefits-section-mobile-wireframe.png)
+
+**Plans Section**
+
+![plans-section-wireframe-desktop](/assets/chapter-IV/plans-section-mobile-wireframe.png)
+
+**About us Section**
+
+![about-us-section-wireframe-desktop](/assets/chapter-IV/about-us-section-mobile-wireframe.png)
+
+**About the team Section**
+
+![about-team-section-wireframe-desktop](/assets/chapter-IV/about-the-team-section-mobile-wireframe.png)
+
+**Footer Section**
+
+![footer-section-wireframe-desktop](/assets/chapter-IV/footer-section-mobile-wireframe.png)
 
 ### 4.3.2. Landing Page Mock-up
 
