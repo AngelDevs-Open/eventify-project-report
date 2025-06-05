@@ -262,7 +262,6 @@ Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se r
 * ¿Pudo hacer seguimiento al estado de pagos fácilmente?
 
 ### 2.2.2. Registro de entrevistas
-**Evidencia de entrevistas:**  [Needfinding - Interviews]() 
 
 A continuación, se presentará un resumen de cada entrevista realizada a los segmentos objetivo. Además, cada entrevista contará una captura de pantalla como evidencia y el intervalo de tiempo de duración que tienen en el video realizado, para que sea más sencillo ubicarlos.
 
@@ -282,8 +281,8 @@ A continuación, se presentará un resumen de cada entrevista realizada a los se
 * **Ocupación:** Comerciante
 * **Distrito de Residencia:** Chorrillos
 
-* **Duración de la entrevista:** 
-* **Minuto de la entrevista:** 
+* **Duración de la entrevista:** [00:00:08 - 00:16:12]
+*  **Video de las entrevistas:**  [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EawraYRD3sVOubX0Z4vy5jYBfpSgHPDrsez9nogb8Krr2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gi6qqk)
 
 **Resumen de la entrevista:**
 
@@ -310,8 +309,8 @@ A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resu
 * **Ocupación:** Militar del ejército peruano
 * **Distrito de Residencia:** Lima - Chorrillos
 
-* **Duración de la entrevista:** 5:35
-* **Minuto de la entrevista:**
+* **Duración de la entrevista:** [00:16:14 - 00:21:49]
+*  **Video de las entrevistas:**  [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EawraYRD3sVOubX0Z4vy5jYBfpSgHPDrsez9nogb8Krr2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gi6qqk)
 
 **Resumen de la entrevista:**
 
@@ -337,8 +336,8 @@ Finalmente, la entrevistada afirmó que recomendaría al organizador del evento,
 * **Ocupación:** Estudiante de Medicina veterinaria
 * **Distrito de Residencia:** Lima - Santiago de Surco
 
-* **Duración de la entrevista:** 8:25 
-* **Minuto de la entrevista:** 0:20 
+* **Duración de la entrevista:** [00:21:50 - 00:30:15]
+*  **Video de las entrevistas:**  [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EawraYRD3sVOubX0Z4vy5jYBfpSgHPDrsez9nogb8Krr2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gi6qqk)
 
 **Resumen de la entrevista:**
 
@@ -366,8 +365,8 @@ Lo más frustrante para ella fue la falta de respuesta por parte del organizador
 * **Ocupación:** Organizador de eventos.
 * **Distrito de Residencia:** La Unión - Piura
 
-* **Duración de la entrevista:** 24:19
-* **Minuto de de la entrevista:** [ - ]
+* **Duración de la entrevista:** [00:30:16 - 00:54:35]
+*  **Video de las entrevistas:**  [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EawraYRD3sVOubX0Z4vy5jYBfpSgHPDrsez9nogb8Krr2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gi6qqk)
 
 **Resumen de la entrevista:**
 
@@ -390,12 +389,12 @@ Un aspecto que considera importante mejorar es la automatización del control y 
 **Datos del entrevistado:**
 * **Nombre:** Jaicob Emmir Diaz Zubiate
 * **Edad:** 22 años
-* **Estado civil:** Solter 
+* **Estado civil:** Soltero 
 * **Ocupación:** Organizador de eventos.
 * **Distrito de Residencia:** Villa el Salvador 
 
-* **Duración de la entrevista:** 18:56
-* **Minuto de de la entrevista:** [-]
+* **Duración de la entrevista:** [00:54:36 - 01:13:31]
+*  **Video de las entrevistas:**  [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EawraYRD3sVOubX0Z4vy5jYBfpSgHPDrsez9nogb8Krr2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gi6qqk)
 
 **Resumen de la entrevista:**
 
@@ -423,10 +422,10 @@ Considera que un aspecto para automatizar es la organización de los contactos o
 * **Ocupación:** Organizador de eventos.
 * **Distrito de Residencia:** Surco
 
-* **Duración de la entrevista:** 
-* **Minuto de de la entrevista:**
+* **Duración de la entrevista:** [1:13:32 - 1:35:23] 
+*  **Video de las entrevistas:**  [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EawraYRD3sVOubX0Z4vy5jYBfpSgHPDrsez9nogb8Krr2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gi6qqk)
 
-**Resumen de la entrevista:**
+* **Resumen de la entrevista:**
 
 La entrevistada, de actualmente 34 años, es dueña de una empresa de publicidad y eventos con 18 años de experiencia en el rubro y 4 años liderando su propia empresa. Su nombre es Sara Goveya, y se describe como una persona perseverante, capaz y disruptiva, destacando su enfoque innovador en la organización de eventos. Está casada y su negocio se enfoca tanto en eventos corporativos como sociales.
 
