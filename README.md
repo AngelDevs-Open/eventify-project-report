@@ -76,6 +76,30 @@ En el analítico de **Network Graph**, se evidencia que se trabajo con GitFlow p
 ![gitflow-report-tb1-4](./assets/cover/gitflow-4-insights-tb1.png)
 
 
+### Reporte de Colaboración para la entrega del TP1Add commentMore actions
+
+En esta segunda entrega se elaboró la sección correspondiente al Sprint 2 del capítulo V, asi como correcciones de secciones pasadas, tales como el User Task Matrix, Product Backlog y ubiquitous language. Durante este proceso, se llevaron a cabo reuniones para definir el sprint goal y se distribuyeron las tareas necesarias para la implementación y el despliegue del frontend. Además, en lo que respecta al contenido del Sprint 2, se redactaron el Sprint Planning y las evidencias de desarrollo, ejecución, despliegue y colaboración asociadas a las principales funcionalidades del frontend trabajadas durante este periodo.
+
+Para evidenciar nuestros avances y que todos los miembros del equipo participaron en la redacción del informe, se presenta a continuación, las capturas obtenidas de los analíticos de colaboración en el repositorio de GitHub del Informe:
+
+**Pulse**
+
+En el analítico de **Pulse** se evidencian los commits que realizó cada integrante del equipo durante el periodo definido para esta segunda entrega.
+
+![commits-report-tp1](./assets/cover/commits-insights-tp1.png)
+
+**Contributors**
+
+En el analítico de Contributors, se evidencia las contribuciones que hizo cada integrante del equipo para la redacción del informe. Se puede observar la cantidad de commits que realizó cada integrante, asi como la cantidad de addiciones y eliminaciones que se realizaron en el informe.
+
+![contributors-report-tp1](./assets/cover/contributors-insights-tp1.png)
+
+**Network Graph**
+
+En el analítico de **Network Graph**, se evidencia que se ha trabajado en ramas de capitulos anteriores al Sprint 2, las cuales son correcciones realizadas sobre errores identificados en la entrega anterior. Además de esto, tambien se trabajo en la rama del Capitulo V, para redactar la documentación relacionada a la implementación y despliegue del frontend durante el Sprint 2.
+
+![gitflow-report-tp1](./assets/cover/gitflow-insights-tp1.png)
+
 ------
 
 # Contenido
