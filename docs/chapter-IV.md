@@ -516,51 +516,41 @@ En esta sección se presenta una vista general del sistema, identificando las pr
 
 En esta sección se descompone el sistema en sus contenedores principales, ilustrando las tecnologías utilizadas, las responsabilidades de cada uno y cómo se comunican entre sí.
 
-![container-diagram](/assets/chapter-IV/C4%20-%20Open%20-%20container.png)
+![container-diagram](/assets/chapter-IV/container-diagram-eventify.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-Finalmente, en esta sección se detallan los componentes internos de la Single Page Application (SPA), la cual está dividida en diferentes bounded contexts que encapsulan funcionalidades específicas del dominio. Cada bounded context agrupa componentes que colaboran entre sí para cumplir con responsabilidades concretas, lo que facilita la escalabilidad, el mantenimiento y la alineación con los procesos del negocio.
+Finalmente, en esta sección se detallan los componentes internos de la Single Page Application (SPA), asi como del Api Application, los cuales estan divididos en diferentes bounded contexts que encapsulan funcionalidades específicas del dominio. Cada bounded context agrupa componentes que colaboran entre sí para cumplir con responsabilidades concretas, lo que facilita la escalabilidad, el mantenimiento y la alineación con los procesos del negocio.
 
-**Bounded Context Event Management**
+**Single Page Application (SPA)**
 
-![bounded-context-event-management](/assets/chapter-IV/C4%20-%20Event%20Management%20Bounded%20context.png)
+**Event Design and Planning Bounded Context**
 
-**Bounded Context Quote Management**
+![bounded-context-event-planning](/assets/chapter-IV/component-diagram-event-planning-spa.png)
 
-![bounded-context-quote-management](/assets/chapter-IV/C4%20-%20Quote%20Bounded%20context.png)
+**Event Operations and Monitoring Bounded Context**
 
-**Bounded Context Searching Event Planning Service**
+![bounded-context-event-operations](/assets/chapter-IV/component-diagram-event-operation-spa.png)
 
-![bounded-context-searching-event-planning-service](/assets/chapter-IV/C4%20-%20Search%20Bounded%20context.png)
+**Profiles and Preferences Bounded Context**
 
-**Bounded Context Reviews and Ratings**
+![bounded-context-profiles](/assets/chapter-IV/component-diagram-profiles-spa.png)
 
-![bounded-context-reviews-and-ratings](/assets/chapter-IV/C4%20-%20Reviews%20Bounded%20context.png)
+**Payments and Subscriptions Bounded Context**
 
-**Bounded Context User Authentication**
+![bounded-context-payments](/assets/chapter-IV/component-diagram-payments-spa.png)
 
-![bounded-context-user-authentication](/assets/chapter-IV/C4%20-%20Authentication%20Bounded%20context.png)
+**Direct Communication Bounded Context**
+![bounded-context-communication](/assets/chapter-IV/component-diagram-communication-spa.png)
 
-**Bounded Context Profile Management**
+**Identity and Access Management Bounded Context (IAM)**
 
-![bounded-context-profile-management](/assets/chapter-IV/C4%20-%20Profile%20Bounded%20context.png)
+![bounded-context-iam](/assets/chapter-IV/component-diagram-iam-spa.png)
 
-**Bounded Context Payments and Suscriptions**
+**API Application - Eventify Platform**
 
-![bounded-context-payments-and-suscription](/assets/chapter-IV/C4%20-%20Payment%20Bounded%20context.png)
+![component-diagram-eventify-platform](/assets/chapter-IV/component-diagram-api-platform.png)
 
-**Bounded Context Direct Communication**
-
-![bounded-context-direct-communication](/assets/chapter-IV/C4%20-%20Comunication%20Bounded%20context.png)
-
-**Bounded Context Notifications**
-
-![bounded-context-notifications](/assets/chapter-IV/C4%20-%20Notifiaction%20Bounded%20context.png)
-
-**Bounded Context Shared**
-
-![bounded-context-shared](/assets/chapter-IV/C4%20-%20Shared%20Bounded%20context.png)
 
 ## 4.7. Software Object-Oriented Design
 
