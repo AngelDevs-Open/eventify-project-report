@@ -30,14 +30,14 @@
             <tr>
                 <td rowspan="2" colspan="1">Perfil</td>
                 <td colspan="2">Overview</td>
-                <td colspan="2">Plataforma que brinda herramientas de gestion para organizadores y los conecta con anfitriones que desean contratar sus servicios</td>
+                <td colspan="2">Plataforma que brinda herramientas de gestión para organizadores y los conecta con anfitriones que desean contratar sus servicios</td>
                 <td colspan="2">Plataforma para la gestión de eventos corporativos, especializada en conferencias y experiencias presenciales, virtuales e híbridas </td>
                 <td colspan="2">Plataforma donde organizadores de eventos pueden publicar sus servicios mediante portafolios visuales para atraer la atención de los anfitriones que buscan sus servicios.</td>
                 <td colspan="2">Plataforma para buscar y contratar proveedores de servicios para eventos (locales, catering, etc.)</td>
             </tr>
             <tr>
                 <td colspan="2"> Ventaja competitiva <br></br> ¿Qué valor ofrece a los clientes?</td>
-                <td colspan="2">Los organizadores tienen herramientas que facilitan la gestion de eventos. Mientras que los anfitriones pueden encontrar, cotizar y analizar distintas propuestas desde un mismo lugar.</td>
+                <td colspan="2">Los organizadores tienen herramientas que facilitan la gestión de eventos. Mientras que los anfitriones pueden encontrar, cotizar y analizar distintas propuestas desde un mismo lugar.</td>
                 <td colspan="2">Permite crear y gestionar eventos(presencial, virtual o hibrido). Además presenta sección de networking para cada evento, permitiendo a los participantes interactuar entre ellos. </td>
                 <td colspan="2">Ofrece a los organizadores presentar sus servicios mediante experiencias visuales basadas en portafolios de fotos y videos de eventos anteriores.</td>
                 <td colspan="2">Ofrece facilidad para encontrar servicios para eventos (locales, catering, etc.), gracias a su amplia variedad de proveedores</td>
@@ -61,13 +61,13 @@
                 <td rowspan="3" colspan="1">Perfil de Producto</td>
                 <td colspan="2">Producto & Servicio</td>
                 <td colspan="2">Es una aplicación web que conecta a organizadores de eventos con anfitriones que necesitan contratar sus servicios. Además, ofrece herramientas para los organizadores, como calendarios de eventos, notas internas, comunicación directa con los anfitriones, entre otros.  </td>
-                <td colspan="2">Es una aplicación web y movil que ofrece herramientas para gestion de eventos como registro de asistentes, gestión de entradas, networking y analiticas en tiempo real </td>
+                <td colspan="2">Es una aplicación web y móvil que ofrece herramientas para gestión de eventos como registro de asistentes, gestión de entradas, networking y analiticas en tiempo real </td>
                 <td colspan="2">Es una aplicación web que ofrece servicios de organizadores de eventos mediante portafolios visuales </td>
-                <td colspan="2">Es una aplicación web que permite realizar busquedas de servicios de proveedores para eventos, como locales, catering, musica, etc.</td>
+                <td colspan="2">Es una aplicación web que permite realizar búsquedas de servicios de proveedores para eventos, como locales, catering, musica, etc.</td>
             </tr>
             <tr>
                 <td colspan="2">Precio & Costos  </td>
-                <td colspan="2">El registro a la aplicación sera de forma gratuita, sin embargo, para acceder a las herramientas de gestión, los organizadores deberan pagar una suscripción mensual.</td>
+                <td colspan="2">El registro a la aplicación será de forma gratuita. Sin embargo, para acceder a las herramientas de gestión, los organizadores deberan pagar una suscripción mensual.</td>
                 <td colspan="2">La aplicación ofrece una tarifa de $17,999 por año</td>
                 <td colspan="2">Publicación gratuida ilimitada y planes desde $195 a $695 mensuales para mayor visibilidad</td>
                 <td colspan="2">Pago por leads o suscripción mensual de $100 a $170</td>
@@ -180,17 +180,17 @@ Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se r
 
 * ¿Cuál es su nombre?
 * ¿Qué edad tiene?
-* ¿Como se definiría usando solo 3 adjetivos?
+* ¿Cómo se definiría usando solo 3 adjetivos?
 * ¿Cuál es su estado civil?
 * ¿A qué se dedica? (freelance o como organización)
 * ¿En qué distrito/provincia reside?
 * ¿Hace cuánto tiempo lleva trabajando como organizador de eventos?
-* ¿Porque decidió trabajar en el rubro de organizador de eventos?
+* ¿Por qué decidió trabajar en el rubro de organizador de eventos?
 
 **Preguntas de Hábitos Digitales:**
 
-* Porque medio se comunica con sus clientes con mayor frecuencia (Whatsapp, Instagram, Facebook, correo Hotmail/Gmail)?
-* ¿Con que dispositivo interactúa con mayor frecuencia (Pc, laptop, iPad)?
+* ¿Por qué medio se comunica con sus clientes con mayor frecuencia (Whatsapp, Instagram, Facebook, correo Hotmail/Gmail)?
+* ¿Con qué dispositivo interactúa con mayor frecuencia (Pc, laptop, iPad)?
 * ¿Cuál es el navegador web que con mayor frecuencia usa? (Chrome, Safari, Brave, Opera).
 
 **Preguntas Principales:**
@@ -200,12 +200,12 @@ Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se r
 * ¿Qué diferencia nota de organizar un evento sencillo de uno complejo?
 * ¿Cuál es el rango salarial para organizar un evento (quinceañero, boda, bautizo, etc.)?
 * ¿Podría contarnos paso a paso, como es su proceso para organizar un evento, desde que un cliente lo contacta hasta el día del evento?
-* ¿Como gestiona su planificación de eventos? ¿Utiliza alguna aplicación de calendario, agenda o recordatorio? ¿Alguna es de paga? ¿Si es así cuales y cuánto?
+* ¿Cómo gestiona su planificación de eventos? ¿Utiliza alguna aplicación de calendario, agenda o recordatorio? ¿Alguna es de paga? ¿Si es así cuáles y cuánto?
 
 * ¿Qué desafíos encuentra al comunicarse con sus clientes?
-* ¿Como ha logrado conseguir la mayoría de sus clientes, promocionándose en alguna red social, sitio web o por contactos? ¿Si es así cual y cómo?
+* ¿Cómo ha logrado conseguir la mayoría de sus clientes, promocionándose en alguna red social, sitio web o por contactos? ¿Si es así cuál y cómo?
 * ¿Qué aspecto del trabajo considera que los clientes menos comprenden? ¿Hay términos técnicos en la organización de eventos?
-* ¿Como gestiona el pago de sus eventos (cuotas, adelantos, al finalizar)?
+* ¿Cómo gestiona el pago de sus eventos (cuotas, adelantos, al finalizar)?
 * ¿Cuáles son los medios de pagos que utiliza con mayor frecuencia?
 * ¿Cuáles son los factores (cantidad de invitados, temática, servicios, etc.) que considera para las cotizaciones de sus eventos con los clientes?
 * ¿Qué le gustaría automatizar o simplificar de su trabajo?
@@ -370,11 +370,11 @@ Lo más frustrante para ella fue la falta de respuesta por parte del organizador
 
 **Resumen de la entrevista:**
 
-El entrevistado es un organizador de eventos con una empresa formalmente constituida y con razón social, respaldado por 12 años de experiencia en el rubro. Se describe como una persona responsable, entusiasta y apasionada por su trabajo. Su navegador web de preferencia es Google Chrome.
+El entrevistado es un organizador de eventos con una empresa formalmente constituida y con razón social, respaldado por 12 años de experiencia en el rubro. Se describe como una persona responsable, entusiasta y apasionada por su trabajo. El navegador web que menciona ser de su preferencia es Google Chrome y el dispositivo que más utiliza es su celular móvil ya que mantiene comunicación con sus clientes por redes sociales y necesita sentirse conectado.
 
-Durante la entrevista, compartió cómo ha sido su desarrollo profesional en el ámbito de la organización de eventos. Todo comenzó en el año 2012, cuando ofrecía servicios de alquiler de equipos de sonido. Al notar que el negocio era rentable y contribuía significativamente a su economía familiar, decidió expandirse y dedicarse de lleno al rubro de eventos.
+Durante la entrevista, compartió cómo ha sido su desarrollo profesional en el ámbito de la organización de eventos. Todo comenzó en el año 2012, cuando ofrecía servicios de alquiler de equipos de sonido. Al notar que el negocio era rentable y contribuía significativamente a su economía familiar, decidió expandirse y dedicarse de lleno al rubro de eventos. 
 
-Actualmente, mantiene comunicación con sus clientes principalmente a través de redes sociales como WhatsApp y Messenger, así como por llamadas telefónicas. Señaló que la publicidad por radio ha sido de gran ayuda para generar interacción con nuevos clientes.
+Actualmente, mantiene comunicación con sus clientes principalmente a través de redes sociales como WhatsApp y Messenger, así como por llamadas telefónicas, siendo WhatsApp su canal principal. Señaló que la publicidad por radio ha sido de gran ayuda para generar interacción con nuevos clientes.
 
 Dentro de los eventos que organiza con mayor frecuencia destacan las bodas y los bautizos, aunque también presta servicios para fiestas infantiles, quinceañeros, baby showers, serenatas públicas y aniversarios. Ofrece distintos tipos de paquetes, los cuales varían según los servicios incluidos y los recursos requeridos. Desde el momento en que un cliente lo contacta, comienza a organizar su agenda de acuerdo a los requerimientos solicitados. A lo largo del proceso, mantiene una comunicación constante con el cliente para asegurar que todos los detalles se cumplan hasta el día del evento.
 
