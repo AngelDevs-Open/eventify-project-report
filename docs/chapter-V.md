@@ -1166,6 +1166,75 @@ Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del ba
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
+<table> 
+  <tr>
+    <td> <strong>Action </strong></td>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> GET</td>
+    <td> /api/v1/organizers/{organizerId}/quotes</td>
+    <td> Obtiene todas las cotizaciones de un organizador</td>
+  </tr>
+  <tr>
+    <td> GET</td>
+    <td> /api/v1/quotes/{quoteId}</td>
+    <td> Obtiene una cotización por ID</td>
+  </tr>
+  <tr>
+    <td> PUT</td>
+    <td> /api/v1/quotes/{quoteId}</td>
+    <td> Actualiza una cotización por ID</td>
+  </tr>
+  <tr>
+    <td> DELETE</td>
+    <td> /api/v1/quotes/{quoteId}</td>
+    <td> Elimina una cotización por ID</td>
+  </tr>
+  <tr>
+    <td> POST</td>
+    <td> /api/v1/quotes</td>
+    <td> Crea una nueva cotización</td>
+  </tr>
+  <tr>
+    <td> POST</td>
+    <td> /api/v1/quotes/{quoteId}/confirmations</td>
+    <td> Actualiza el estado de una cotización a "Accepted"</td>
+  </tr>
+  <tr>
+    <td> POST</td>
+    <td> /api/v1/quotes/{quoteId}/rejections</td>
+    <td> Actualiza el estado de una cotización a "Rejected"</td>
+  </tr>
+  <tr>
+    <td> GET</td>
+    <td> /api/v1/quotes/{quoteId}/service-items/{serviceItemId}</td>
+    <td> Obtiene un servicio de una cotización por ID</td>
+  </tr>
+  <tr>
+    <td> PUT</td>
+    <td> /api/v1/quotes/{quoteId}/service-items/{serviceItemId}</td>
+    <td> Actualiza un servicio de una cotización</td>
+  </tr>
+  <tr>
+    <td> DELETE</td>
+    <td> /api/v1/quotes/{quoteId}/service-items/{serviceItemId}</td>
+    <td> Elimina un servicio de una cotización</td>
+  </tr>
+  <tr>
+    <td> POST</td>
+    <td> /api/v1/quotes/{quoteId}/service-items</td>
+    <td> Crea un nuevo servicio para una cotización</td>
+  </tr>
+  <tr>
+    <td> GET</td>
+    <td> /api/v1/quotes/{quoteId}/service-items</td>
+    <td> Obtiene todos los servicios de una cotización</td>
+  </tr>
+</table>
+
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
