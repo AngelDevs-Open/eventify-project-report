@@ -927,3 +927,256 @@ En esta imagen se refleja el nivel de modificaciones realizadas por los commits 
 ![gitflow-2](../assets/chapter-V/network-2-open.png)
 
 Finalmente en estas imagenes se pueden apreciar las ramas con las que se ha trabajado durante el desarrollo del FrontEnd
+
+### 5.2.3. Sprint 3
+
+Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del backend de nuestra aplicación web Eventify. Además, se realizaron mejoras y correcciones tanto en la landing page como en el frontend. Para lograrlo, definimos en el sprint backlog diversas tareas relacionadas con las funcionalidades principales del negocio, como las cotizaciones para eventos y la creación de tareas que se llevarán a cabo durante su planificación.
+
+#### 5.2.3.1.Spring Planning 3.
+
+
+|            Sprint #            |   Sprint 3     |
+|:------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background** |      |
+|              Date              |   07/06/25  |
+|              Time              |  11:40 horas  |
+|            Location            |  Reunión presencial - Aula UPC VH107  |
+|          Prepared By           |   Omar Christian Berrocal Ramirez |
+|           Attendees            |   - Aldave Aldave Jean Pierr   <br> - Deybbi Anderson Crisanto Calle  <br> - Fabrizio Alexander Cutiri Agüero  <br> - July Zelmira Paico Calderon    |
+|    Sprint 2 Review Summary     |    Se logró documentar y diseñar la una estructura del Landing Page y el FrontEnd de la apliación web, definiendo secciones clave e identificando los componentes necesarios para una muestra del funcionamiento de la aplicación. Se establecieron las tecnologías base del proyecto: Angular, Angular Materials.  |
+| Sprint 2 Retrospective Summary |  Durante el Sprint 2 se acordó que el enfoque visual y estructural era fundamental para atraer a nuevos usuarios. También se identificó la necesidad de establecer estándares de componentes reutilizables y convenciones claras de código desde el inicio del desarrollo. |
+| **Sprint Goal & User Stories** | |
+|         Sprint 3 Goal          | Nuestro enfoque está en brindar información detallada respecto a nuestra aplicación y el equipo de desarrollo, así como cerrar la conversión de los visitantes a través del sitio web del negocio, además de implementar nuevas características, como la búsqueda de organizadores de eventos, planes de suscripción, comunicación directa entre organizadores y anfitriones, notificaciones, autenticación de usuarios y la gestión de eventos, tareas y cotizaciones a través de una API. Creemos que esto nos ayudará a captar la atención de diferentes tipos de visitantes (recurrentes, racionales y emocionales) y brindará una experiencia de usuario más completa y escalable tanto para los organizadores como para los anfitriones. Esto se confirmará cuando los usuarios puedan buscar organizadores de eventos, comprar un plan de suscripción mensual, comunicarse a través del chat, recibir notificaciones relevantes y los organizadores puedan crear, actualizar o cancelar eventos, tareas y cotizaciones utilizando los puntos finales API implementados. |
+|       Sprint 3 Velocity        |  Velocidad de 26 - Primer Sprint                                                                                 |
+|      Sum of Story Points       |                                                   Sprint 3 - 32 Story Points                                                                            |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+|            Team Member            | GitHub Username | Task Management | Profile Management | Quote Management | Event Management | Review Management | 
+|:---------------------------------:|:---------------:|:--------------:|:-----------------:|:---------------:|:----------------:|:--------:| 
+|     Aldave Aldave, Jean Pierr     |   Jean Pierr    |       L        |         C         |        C        |        C         |    C     |     
+|  Crisanto Calle, Deybbi Anderson  |     Dacc03      |       C        |         L         |        C        |        C         |    C     |   
+| Cutiri Agüero, Fabrizio Alexander |    Fabrizio     |       C        |         C         |        L        |        C         |    C     |    
+|   Paico Calderon, July Zelmira    |      JulyP      |       C        |         C         |        C        |        L         |    C     |
+| Berrocal Ramirez, Omar Christian  |      OmBRz      |       C        |         C         |        C        |        C         |    L     |  
+
+#### 5.2.3.3.Sprint Backlog 3.
+#### 5.2.3.4.Development Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Open/eventify-front-end </td>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> ae707330fc2346f296bc33630e23974911831a66</td>
+    <td align="center"> feat(environment): update environment variables</td>
+    <td align="center"> ---</td>
+    <td align="center"> 22/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/quote-management</td>
+    <td align="center" > 21a43b63c070c7a920f89aebaf2182761adbb50c</td>
+    <td align="center"> feat(quote): update quote and service item entities</td>
+    <td align="center"> ---</td>
+    <td align="center"> 22/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center">c6eb067561b47eaf0aff1a15f754f8f7dc43e3bc</td>
+    <td align="center"> feat(quote): update services for quote and service item</td>
+    <td align="center"> ---</td>
+    <td align="center"> 22/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> f239cf22df9c8c5c36de1b6e6684153568bf03e3</td>
+    <td align="center"> feat(quote): update crud operations for quote and service items</td>
+    <td align="center"> ---</td>
+    <td align="center">22/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> 7bde6c5e9165f51d388c5b5e4a6f92e46571b447</td>
+    <td align="center"> fix(quote): fix event date input for updated quote</td>
+    <td align="center"> ---</td>
+    <td align="center">22/06/2025</td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Open/eventify-platfom </td>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> 7a0818d304df438dbd82258b650c13ca61912a2e</td>
+    <td align="center"> chore: specify type of date columns for service item</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/profile-management</td>
+    <td align="center" > 6b1d27b0ce336255dbd3a171a2bf78ef30eae65e</td>
+    <td align="center"> feat: add @operation annotations to ProfileController endpoints</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/reviews-management</td>
+    <td align="center">e0ee6a9f679a46df2f638830f10a0de953170703</td>
+    <td align="center"> fix: bean creation failure.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/event-management</td>
+    <td align="center"> c08586c4b3f3719d0c38e66fb63914536ba81026</td>
+    <td align="center"> feat(value-object): Add StatusType value object.</td>
+    <td align="center"> ---</td>
+    <td align="center">22/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/develop</td>
+    <td align="center"> e0ee6a9f679a46df2f638830f10a0de953170703</td>
+    <td align="center"> fix: bean creation failure.</td>
+    <td align="center"> ---</td>
+    <td align="center">21/06/2025</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Web/eventify-landing-page </td>
+    <td align="center"> feature/develop</td>
+    <td align="center"> 0963aedef8bb20d59df2d13aa055eb85a93a427b</td>
+    <td align="center"> feat(quote): https://github.com/AngelDevs-Web/eventify-landing-page</td>
+    <td align="center"> ---</td>
+    <td align="center"> 14/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/header</td>
+    <td align="center" > ccbd9bd848ce8ed3b55375c366a333cb54d499d2</td>
+    <td align="center"> feat(header): add call to action button for recurrent visitor</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/header</td>
+    <td align="center">256f0b9f00475606d77ea8ed89ba35699aebafe1</td>
+    <td align="center"> feat(header): update spanish content</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/about-the-product</td>
+    <td align="center"> 2aaac34b379b09cf34072e2e85a2b1914054c504</td>
+    <td align="center"> feat(about-the-product): update spanish and english content</td>
+    <td align="center"> ---</td>
+    <td align="center">21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center"> b49a8805c6d67bafa46fca58befdf725cb947ecc</td>
+    <td align="center"> feat(quote): add organizer id value object</td>
+    <td align="center"> ---</td>
+    <td align="center">20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/functionalities</td>
+    <td align="center"> acf90db98ac3f2506059571064dbd17716c99d17</td>
+    <td align="center">chore: update position of functionalities section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/plans</td>
+    <td align="center"> 9771385ffabfcb08508348278b1afeae547b4a5c</td>
+    <td align="center"> style: update style of plans section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/about-us</td>
+    <td align="center"> 669bee4d5894851a4912cea3225f7913513fc4cc</td>
+    <td align="center"> style(about-us): update styles for about us section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/about-the-team</td>
+    <td align="center">b6afb677df8658ab31530dc37b2863ba4c2cbf7b</td>
+    <td align="center"> feat(about-the-team): add about the team section in both languages</td>
+    <td align="center"> ---</td>
+    <td align="center">21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/header</td>
+    <td align="center">34b801d0904799f58217f671debdcb87fa77d293</td>
+    <td align="center"> chore: change order of language switcher buttons</td>
+    <td align="center"> ---</td>
+    <td align="center">21/06/2025</td>
+  </tr>
+</table>
+
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+
+
+### 5.3.2. Registro de Entrevistas.
+### 5.3.3. Evaluaciones según heurísticas.
+## 5.4. Video About-the-Product
