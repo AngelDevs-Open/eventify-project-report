@@ -1111,6 +1111,12 @@ Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del ba
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 
+**Backend**
+
+![execution-backend-1](../assets/chapter-V/execution-backend-1.png)
+
+![execution-backend-2](../assets/chapter-V/execution-backend-2.png)
+
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
 <table> 
