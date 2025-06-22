@@ -1015,4 +1015,24 @@ Finalmente en estas imagenes se pueden apreciar las ramas con las que se ha trab
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+**Backend**
+
+Para esta entrega el backend fue desplegado en Render
+
+![render-deploy](../assets/chapter-V/deployment-backend-render.png)
+
 #### 5.2.3.8. Team Collaboration Insights during sprint
+
+### Backend
+
+**Pulse**
+
+![pulse-insights](../assets/chapter-V/pulse-insights-backend.png)
+
+**Contributors**
+
+![contributors-insights](../assets/chapter-V/contributors-insights-backend.png)
+
+**Network**
+
+![network-insights](../assets/chapter-V/network-insights-backend.png)
