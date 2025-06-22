@@ -30,14 +30,14 @@
             <tr>
                 <td rowspan="2" colspan="1">Perfil</td>
                 <td colspan="2">Overview</td>
-                <td colspan="2">Plataforma que brinda herramientas de gestion para organizadores y los conecta con anfitriones que desean contratar sus servicios</td>
+                <td colspan="2">Plataforma que brinda herramientas de gestión para organizadores y los conecta con anfitriones que desean contratar sus servicios</td>
                 <td colspan="2">Plataforma para la gestión de eventos corporativos, especializada en conferencias y experiencias presenciales, virtuales e híbridas </td>
                 <td colspan="2">Plataforma donde organizadores de eventos pueden publicar sus servicios mediante portafolios visuales para atraer la atención de los anfitriones que buscan sus servicios.</td>
                 <td colspan="2">Plataforma para buscar y contratar proveedores de servicios para eventos (locales, catering, etc.)</td>
             </tr>
             <tr>
                 <td colspan="2"> Ventaja competitiva <br></br> ¿Qué valor ofrece a los clientes?</td>
-                <td colspan="2">Los organizadores tienen herramientas que facilitan la gestion de eventos. Mientras que los anfitriones pueden encontrar, cotizar y analizar distintas propuestas desde un mismo lugar.</td>
+                <td colspan="2">Los organizadores tienen herramientas que facilitan la gestión de eventos. Mientras que los anfitriones pueden encontrar, cotizar y analizar distintas propuestas desde un mismo lugar.</td>
                 <td colspan="2">Permite crear y gestionar eventos(presencial, virtual o hibrido). Además presenta sección de networking para cada evento, permitiendo a los participantes interactuar entre ellos. </td>
                 <td colspan="2">Ofrece a los organizadores presentar sus servicios mediante experiencias visuales basadas en portafolios de fotos y videos de eventos anteriores.</td>
                 <td colspan="2">Ofrece facilidad para encontrar servicios para eventos (locales, catering, etc.), gracias a su amplia variedad de proveedores</td>
@@ -61,13 +61,13 @@
                 <td rowspan="3" colspan="1">Perfil de Producto</td>
                 <td colspan="2">Producto & Servicio</td>
                 <td colspan="2">Es una aplicación web que conecta a organizadores de eventos con anfitriones que necesitan contratar sus servicios. Además, ofrece herramientas para los organizadores, como calendarios de eventos, notas internas, comunicación directa con los anfitriones, entre otros.  </td>
-                <td colspan="2">Es una aplicación web y movil que ofrece herramientas para gestion de eventos como registro de asistentes, gestión de entradas, networking y analiticas en tiempo real </td>
+                <td colspan="2">Es una aplicación web y móvil que ofrece herramientas para gestión de eventos como registro de asistentes, gestión de entradas, networking y analiticas en tiempo real </td>
                 <td colspan="2">Es una aplicación web que ofrece servicios de organizadores de eventos mediante portafolios visuales </td>
-                <td colspan="2">Es una aplicación web que permite realizar busquedas de servicios de proveedores para eventos, como locales, catering, musica, etc.</td>
+                <td colspan="2">Es una aplicación web que permite realizar búsquedas de servicios de proveedores para eventos, como locales, catering, musica, etc.</td>
             </tr>
             <tr>
                 <td colspan="2">Precio & Costos  </td>
-                <td colspan="2">El registro a la aplicación sera de forma gratuita, sin embargo, para acceder a las herramientas de gestión, los organizadores deberan pagar una suscripción mensual.</td>
+                <td colspan="2">El registro a la aplicación será de forma gratuita. Sin embargo, para acceder a las herramientas de gestión, los organizadores deberan pagar una suscripción mensual.</td>
                 <td colspan="2">La aplicación ofrece una tarifa de $17,999 por año</td>
                 <td colspan="2">Publicación gratuida ilimitada y planes desde $195 a $695 mensuales para mayor visibilidad</td>
                 <td colspan="2">Pago por leads o suscripción mensual de $100 a $170</td>
@@ -180,17 +180,17 @@ Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se r
 
 * ¿Cuál es su nombre?
 * ¿Qué edad tiene?
-* ¿Como se definiría usando solo 3 adjetivos?
+* ¿Cómo se definiría usando solo 3 adjetivos?
 * ¿Cuál es su estado civil?
 * ¿A qué se dedica? (freelance o como organización)
 * ¿En qué distrito/provincia reside?
 * ¿Hace cuánto tiempo lleva trabajando como organizador de eventos?
-* ¿Porque decidió trabajar en el rubro de organizador de eventos?
+* ¿Por qué decidió trabajar en el rubro de organizador de eventos?
 
 **Preguntas de Hábitos Digitales:**
 
-* Porque medio se comunica con sus clientes con mayor frecuencia (Whatsapp, Instagram, Facebook, correo Hotmail/Gmail)?
-* ¿Con que dispositivo interactúa con mayor frecuencia (Pc, laptop, iPad)?
+* ¿Por qué medio se comunica con sus clientes con mayor frecuencia (Whatsapp, Instagram, Facebook, correo Hotmail/Gmail)?
+* ¿Con qué dispositivo interactúa con mayor frecuencia (Pc, laptop, iPad)?
 * ¿Cuál es el navegador web que con mayor frecuencia usa? (Chrome, Safari, Brave, Opera).
 
 **Preguntas Principales:**
@@ -200,12 +200,12 @@ Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se r
 * ¿Qué diferencia nota de organizar un evento sencillo de uno complejo?
 * ¿Cuál es el rango salarial para organizar un evento (quinceañero, boda, bautizo, etc.)?
 * ¿Podría contarnos paso a paso, como es su proceso para organizar un evento, desde que un cliente lo contacta hasta el día del evento?
-* ¿Como gestiona su planificación de eventos? ¿Utiliza alguna aplicación de calendario, agenda o recordatorio? ¿Alguna es de paga? ¿Si es así cuales y cuánto?
+* ¿Cómo gestiona su planificación de eventos? ¿Utiliza alguna aplicación de calendario, agenda o recordatorio? ¿Alguna es de paga? ¿Si es así cuáles y cuánto?
 
 * ¿Qué desafíos encuentra al comunicarse con sus clientes?
-* ¿Como ha logrado conseguir la mayoría de sus clientes, promocionándose en alguna red social, sitio web o por contactos? ¿Si es así cual y cómo?
+* ¿Cómo ha logrado conseguir la mayoría de sus clientes, promocionándose en alguna red social, sitio web o por contactos? ¿Si es así cuál y cómo?
 * ¿Qué aspecto del trabajo considera que los clientes menos comprenden? ¿Hay términos técnicos en la organización de eventos?
-* ¿Como gestiona el pago de sus eventos (cuotas, adelantos, al finalizar)?
+* ¿Cómo gestiona el pago de sus eventos (cuotas, adelantos, al finalizar)?
 * ¿Cuáles son los medios de pagos que utiliza con mayor frecuencia?
 * ¿Cuáles son los factores (cantidad de invitados, temática, servicios, etc.) que considera para las cotizaciones de sus eventos con los clientes?
 * ¿Qué le gustaría automatizar o simplificar de su trabajo?
@@ -262,7 +262,6 @@ Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se r
 * ¿Pudo hacer seguimiento al estado de pagos fácilmente?
 
 ### 2.2.2. Registro de entrevistas
-**Evidencia de entrevistas:**  [Needfinding - Interviews]() 
 
 A continuación, se presentará un resumen de cada entrevista realizada a los segmentos objetivo. Además, cada entrevista contará una captura de pantalla como evidencia y el intervalo de tiempo de duración que tienen en el video realizado, para que sea más sencillo ubicarlos.
 
@@ -282,20 +281,20 @@ A continuación, se presentará un resumen de cada entrevista realizada a los se
 * **Ocupación:** Comerciante
 * **Distrito de Residencia:** Chorrillos
 
-* **Duración de la entrevista:** 
-* **Minuto de la entrevista:** 
+* **Duración de la entrevista:** [00:00:08 - 00:16:12]
+*  **Video de las entrevistas:**  [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EawraYRD3sVOubX0Z4vy5jYBfpSgHPDrsez9nogb8Krr2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gi6qqk)
 
 **Resumen de la entrevista:**
 
 El entrevistado se llama John Rafael Cutiri Chinchay, es una persona sobria, directa y de pocas palabras. Actualmente se encuentra casado, reside en Chorrillos y trabaja como comerciante. El navegador que utiliza con frecuencia es Google Chrome y su dispositivo preferido es el celular.
 
-Durante la entrevista, el señor John relató su experiencia al contratar a un organizador de eventos para la fiesta de quince años de su hija. La planificación del evento duró aproximadamente 10 meses. El entrevistado contrató a este organizador tras solicitar varias cotizaciones con diferentes proveedores, decidiendo contratar al organizador recomendado por un familiar, ya que le generaba mayor confianza y las propuestas que recibió eran muy similares. Además, se convenció al ver videos de eventos anteriores publicados por este organizador en redes sociales.
+Durante la entrevista, el señor John relató su experiencia al contratar a un organizador de eventos para la fiesta de quince años de su hija. La planificación del evento duró aproximadamente 10 meses. Como anfitrión, demostró pensamiento crítico al solicitar varias cotizaciones con diferentes proveedores antes de tomar una decisión. Finalmente, optó por contratar al organizador recomendado por un familiar, valorando la confianza que este le generaba y considerando que las propuestas recibidas eran similares. Además, evaluó cuidadosamente los videos de eventos anteriores publicados por el organizador en redes sociales, lo cual reforzó su elección.
 
-Durante la planificación, la comunicación con el organizador se limitó a la firma del contrato, pero se intensificó a medida que se acercaba la fecha del evento, utilizando WhatsApp como canal principal. Tambien, comento que lo mas estresante fue este periodo cercano al evento, ya que sentia presión por la posibilidad de que algo pudiera faltar. 
+Durante la planificación, aunque la comunicación inicial con el organizador fue limitada, supo adaptarse y mantener una comunicación efectiva a medida que se acercaba la fecha del evento, utilizando WhatsApp como canal principal. Esta disposición muestra su capacidad para colaborar activamente en momentos clave del proceso. También comentó que lo más estresante fue el periodo cercano al evento, ya que sentía presión por la posibilidad de que algo pudiera faltar. Esta preocupación evidencia una actitud empática hacia los invitados y hacia el éxito general del evento.
 
-Respecto al desarrollo del evento, un aspecto que le hubiera gustado que se explicara con mayor claridad fue el tema del volumen de la música. Esto debido a que el local se encontraba en una zona de condominios y no se le permitió aumentar el volumen para evitar molestias a los vecinos. También manifestó cierta insatisfacción con la atención a los invitados, ya que notó que algunas mesas eran atendidas mientras otras no, lo cual evidenciaba una posible falta de personal.
+Respecto al desarrollo del evento, señaló que le hubiera gustado que se explicara con mayor claridad el tema del volumen de la música, debido a las restricciones del local ubicado en una zona de condominios. También expresó cierta insatisfacción con la atención a los invitados, ya que notó que algunas mesas eran atendidas mientras otras no. Estas observaciones reflejan su pensamiento crítico al identificar áreas de mejora y su empatía hacia los asistentes, al preocuparse por su experiencia durante la celebración.
 
-En cuanto al pago, se estableció un adelanto del 30% y el resto a cancelar el día del evento. No obstante, el entrevistado optó por realizar pagos periódicos para facilitar la gestión económica. Todos los pagos se efectuaron mediante transferencia bancaria y no se presentaron gastos imprevistos. Aunque no recibió boletas ni facturas, conservó las capturas de pantalla como comprobantes de pago.
+En cuanto al pago, se estableció un adelanto del 30% y el resto a cancelar el día del evento. No obstante, el entrevistado optó por realizar pagos periódicos, mostrando así iniciativa y colaboración para facilitar la gestión económica. Todos los pagos se efectuaron mediante transferencia bancaria y no se presentaron gastos imprevistos. Aunque no recibió boletas ni facturas, conservó las capturas de pantalla como comprobantes de pago, lo que demuestra una actitud responsable y organizada.
 
 A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resultado final. Consideró que el evento cumplió sus expectativas y que el organizador logró plasmar su visión. Asimismo, afirmó que no habría pagado más por un servicio de mayor calidad, ya que lo recibido le pareció adecuado. Finalmente, mencionó que recomendaría al organizador por haber cumplido con lo prometido.
 
@@ -310,8 +309,8 @@ A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resu
 * **Ocupación:** Militar del ejército peruano
 * **Distrito de Residencia:** Lima - Chorrillos
 
-* **Duración de la entrevista:** 5:35
-* **Minuto de la entrevista:**
+* **Duración de la entrevista:** [00:16:14 - 00:21:49]
+*  **Video de las entrevistas:**  [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EawraYRD3sVOubX0Z4vy5jYBfpSgHPDrsez9nogb8Krr2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gi6qqk)
 
 **Resumen de la entrevista:**
 
@@ -337,8 +336,8 @@ Finalmente, la entrevistada afirmó que recomendaría al organizador del evento,
 * **Ocupación:** Estudiante de Medicina veterinaria
 * **Distrito de Residencia:** Lima - Santiago de Surco
 
-* **Duración de la entrevista:** 8:25 
-* **Minuto de la entrevista:** 0:20 
+* **Duración de la entrevista:** [00:21:50 - 00:30:15]
+*  **Video de las entrevistas:**  [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EawraYRD3sVOubX0Z4vy5jYBfpSgHPDrsez9nogb8Krr2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gi6qqk)
 
 **Resumen de la entrevista:**
 
@@ -366,16 +365,16 @@ Lo más frustrante para ella fue la falta de respuesta por parte del organizador
 * **Ocupación:** Organizador de eventos.
 * **Distrito de Residencia:** La Unión - Piura
 
-* **Duración de la entrevista:** 24:19
-* **Minuto de de la entrevista:** [ - ]
+* **Duración de la entrevista:** [00:30:16 - 00:54:35]
+*  **Video de las entrevistas:**  [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EawraYRD3sVOubX0Z4vy5jYBfpSgHPDrsez9nogb8Krr2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gi6qqk)
 
 **Resumen de la entrevista:**
 
-El entrevistado es un organizador de eventos con una empresa formalmente constituida y con razón social, respaldado por 12 años de experiencia en el rubro. Se describe como una persona responsable, entusiasta y apasionada por su trabajo. Su navegador web de preferencia es Google Chrome.
+El entrevistado es un organizador de eventos con una empresa formalmente constituida y con razón social, respaldado por 12 años de experiencia en el rubro. Se describe como una persona responsable, entusiasta y apasionada por su trabajo. El navegador web que menciona ser de su preferencia es Google Chrome y el dispositivo que más utiliza es su celular móvil ya que mantiene comunicación con sus clientes por redes sociales y necesita sentirse conectado.
 
-Durante la entrevista, compartió cómo ha sido su desarrollo profesional en el ámbito de la organización de eventos. Todo comenzó en el año 2012, cuando ofrecía servicios de alquiler de equipos de sonido. Al notar que el negocio era rentable y contribuía significativamente a su economía familiar, decidió expandirse y dedicarse de lleno al rubro de eventos.
+Durante la entrevista, compartió cómo ha sido su desarrollo profesional en el ámbito de la organización de eventos. Todo comenzó en el año 2012, cuando ofrecía servicios de alquiler de equipos de sonido. Al notar que el negocio era rentable y contribuía significativamente a su economía familiar, decidió expandirse y dedicarse de lleno al rubro de eventos. 
 
-Actualmente, mantiene comunicación con sus clientes principalmente a través de redes sociales como WhatsApp y Messenger, así como por llamadas telefónicas. Señaló que la publicidad por radio ha sido de gran ayuda para generar interacción con nuevos clientes.
+Actualmente, mantiene comunicación con sus clientes principalmente a través de redes sociales como WhatsApp y Messenger, así como por llamadas telefónicas, siendo WhatsApp su canal principal. Señaló que la publicidad por radio ha sido de gran ayuda para generar interacción con nuevos clientes.
 
 Dentro de los eventos que organiza con mayor frecuencia destacan las bodas y los bautizos, aunque también presta servicios para fiestas infantiles, quinceañeros, baby showers, serenatas públicas y aniversarios. Ofrece distintos tipos de paquetes, los cuales varían según los servicios incluidos y los recursos requeridos. Desde el momento en que un cliente lo contacta, comienza a organizar su agenda de acuerdo a los requerimientos solicitados. A lo largo del proceso, mantiene una comunicación constante con el cliente para asegurar que todos los detalles se cumplan hasta el día del evento.
 
@@ -390,12 +389,12 @@ Un aspecto que considera importante mejorar es la automatización del control y 
 **Datos del entrevistado:**
 * **Nombre:** Jaicob Emmir Diaz Zubiate
 * **Edad:** 22 años
-* **Estado civil:** Solter 
+* **Estado civil:** Soltero 
 * **Ocupación:** Organizador de eventos.
 * **Distrito de Residencia:** Villa el Salvador 
 
-* **Duración de la entrevista:** 18:56
-* **Minuto de de la entrevista:** [-]
+* **Duración de la entrevista:** [00:54:36 - 01:13:31]
+*  **Video de las entrevistas:**  [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EawraYRD3sVOubX0Z4vy5jYBfpSgHPDrsez9nogb8Krr2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gi6qqk)
 
 **Resumen de la entrevista:**
 
@@ -423,10 +422,10 @@ Considera que un aspecto para automatizar es la organización de los contactos o
 * **Ocupación:** Organizador de eventos.
 * **Distrito de Residencia:** Surco
 
-* **Duración de la entrevista:** 
-* **Minuto de de la entrevista:**
+* **Duración de la entrevista:** [1:13:32 - 1:35:23] 
+*  **Video de las entrevistas:**  [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EawraYRD3sVOubX0Z4vy5jYBfpSgHPDrsez9nogb8Krr2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gi6qqk)
 
-**Resumen de la entrevista:**
+* **Resumen de la entrevista:**
 
 La entrevistada, de actualmente 34 años, es dueña de una empresa de publicidad y eventos con 18 años de experiencia en el rubro y 4 años liderando su propia empresa. Su nombre es Sara Goveya, y se describe como una persona perseverante, capaz y disruptiva, destacando su enfoque innovador en la organización de eventos. Está casada y su negocio se enfoca tanto en eventos corporativos como sociales.
 
@@ -538,86 +537,55 @@ En esta sección se presentarán los User Personas de cada segmento objetivo. Es
 ![User Persona 2](../assets/chapter-II/user-persona-anfitrion.png)
 
 ### 2.3.2. User Task Matrix
-En el User Task Matrix hemos identificado las actividades que realizan nuestros dos segmentos y hemos evaluado la importancia de cada una de estas tareas para cada segmento.
 
-### Indicadores de Importancia:
+En este análisis, estamos considerando dos segmentos de usuarios: Organizadores de eventos sociales no masivos y Anfitriones de eventos.
+
+## Indicadores de Importancia y Frecuencia
+
+**Indicadores de Importancia:**
 - ALTA
 - MEDIA
 - BAJA
 
-### Indicadores de Frecuencia:
+**Indicadores de Frecuencia:**
 - ALTA
 - MEDIA
 - BAJA
 
-### **Organizadores de eventos sociales no masivos**
+## Tabla de Matriz de Tareas de Usuario
 
-| **Tarea**                       | **Frecuencia** | **Importancia** |
-|----------------------------------|----------------|-----------------|
-| Planificación del evento         | Alta           | Alta            |
-| Coordinación con proveedores     | Alta           | Alta            |
-| Gestión de invitados             | Alta           | Alta            |
-| Promoción del evento             | Media          | Alta            |
-| Supervisión durante el evento    | Alta           | Alta            |
-| Post-evento                      | Media          | Media           |
+| Tareas | Organizadores de eventos sociales no masivos | | Anfitriones de eventos | |
+|-------|---------------------|------------|-------------|------------|
+| | **Frecuencia** | **Importancia** | **Frecuencia** | **Importancia** |
+| Planificación del evento | Alta | Alta | Alta | Alta |
+| Coordinación con proveedores | Alta | Alta | Media | Alta |
+| Gestión de invitados | Alta | Alta | Alta | Alta |
+| Promoción del evento | Media | Alta | Baja | Baja |
+| Supervisión durante el evento | Alta | Alta | Alta | Alta |
+| Post-evento | Media | Media | Alta | Media |
 
-### **Anfitriones de eventos**
+## Análisis de Tareas
 
-| **Tarea**                       | **Frecuencia** | **Importancia** |
-|----------------------------------|----------------|-----------------|
-| Planificación del evento         | Alta           | Alta            |
-| Coordinación con proveedores     | Media          | Alta            |
-| Gestión de invitados             | Alta           | Alta            |
-| Promoción del evento             | Baja           | Baja            |
-| Supervisión durante el evento    | Alta           | Alta            |
-| Post-evento                      | Alta           | Media           |
+### Tareas con mayor frecuencia e importancia:
 
-### Organizadores de Eventos Sociales No Masivos:
+Ambos segmentos de usuarios muestran alta frecuencia e importancia para **Planificación del evento** y **Gestión de invitados**. Para los Organizadores de eventos sociales no masivos, la **Coordinación con proveedores** también tiene alta frecuencia e importancia, mientras que para los Anfitriones de eventos esta tarea tiene frecuencia media pero alta importancia.
 
-#### Tareas con mayor frecuencia:
-1. **Planificar el cronograma del evento.**
-2. **Gestionar la contratación de proveedores (catering, decoración, etc.).**
-3. **Coordinar la logística de los asistentes (registro, entradas, transportes).**
+### Principales diferencias entre segmentos de usuarios:
 
-**Explicación de la tarea con mayor frecuencia:**
-Para los organizadores de eventos sociales no masivos, la tarea de **planificar el cronograma del evento** es la más frecuente porque implica coordinar todos los aspectos del evento, desde la programación de actividades hasta la asignación de tiempos para cada proveedor. Esta tarea es fundamental porque asegura que el evento siga un flujo organizado y se realicen todas las actividades sin inconvenientes.
+1. **Promoción del evento**: Para los Organizadores, esto tiene frecuencia media y alta importancia, mientras que para los Anfitriones tiene baja frecuencia e importancia.
+2. **Post-evento**: Los Anfitriones de eventos realizan esto con alta frecuencia, mientras que los Organizadores lo hacen con frecuencia media. Ambos segmentos lo consideran de importancia media.
 
-#### Tareas con mayor importancia:
-1. **Garantizar la seguridad y el bienestar de los asistentes.**
-2. **Supervisar la calidad de los servicios de proveedores (catering, audiovisuales).**
-3. **Realizar la gestión de presupuestos y costos del evento.**
+### Principales similitudes:
 
-**Explicación de la tarea con mayor importancia:**
-La tarea de **garantizar la seguridad y el bienestar de los asistentes** es clave porque asegura que el evento sea exitoso no solo en términos logísticos, sino también en la experiencia que viven los participantes. Si los asistentes se sienten seguros y cómodos, el evento tiene más probabilidades de cumplir sus objetivos y generar satisfacción.
+Ambos segmentos coinciden en la alta frecuencia e importancia de la **Planificación del evento**, **Gestión de invitados** y **Supervisión durante el evento**.
 
----
+### Enfoques de los segmentos:
 
-### Anfitriones de Eventos:
+Los Organizadores de eventos sociales no masivos se concentran principalmente en la **planificación y logística** del evento, garantizando que todo funcione correctamente y según lo esperado. Su enfoque está más relacionado con la ejecución técnica y la coordinación de recursos.
 
-#### Tareas con mayor frecuencia:
-1. **Gestionar la lista de invitados y las confirmaciones de asistencia.**
-2. **Coordinar la llegada de los invitados y su acomodo en el evento.**
-3. **Atender a los invitados durante el evento (responder dudas, ofrecer ayuda).**
+Los Anfitriones de eventos se centran en la **experiencia de los invitados** y en la **gestión del ambiente** durante el evento, asegurándose de que los asistentes se sientan cómodos, atendidos y disfruten del evento.
 
-Para los anfitriones de eventos, la tarea más frecuente es **gestionar la lista de invitados y las confirmaciones de asistencia**, ya que es esencial para asegurarse de que todos los invitados estén presentes y organizados. Esta tarea implica coordinar las respuestas de los invitados y asegurarse de que los asistentes se encuentren en el lugar adecuado a la hora indicada.
-
-#### Tareas con mayor importancia:
-1. **Asegurarse de que la experiencia de los invitados sea agradable y fluida.**
-2. **Coordinar la interacción entre los proveedores y los invitados.**
-3. **Asegurar la puntualidad y el cumplimiento de la programación del evento.**
-
-La tarea de **asegurarse de que la experiencia de los invitados sea agradable y fluida** es la más importante porque, como anfitrión, el éxito del evento depende directamente de cómo se sientan los invitados. Si los anfitriones logran ofrecer un ambiente cómodo, bien organizado y cordial, los asistentes disfrutarán del evento, lo que contribuirá a su éxito general.
-
----
-
-### Diferencias entre los segmentos:
-
-Al analizar ambos segmentos, se observa que los **organizadores de eventos sociales no masivos** se concentran principalmente en la **planificación y logística** del evento, garantizando que todo funcione correctamente y según lo esperado. Su enfoque está más relacionado con la ejecución técnica y la coordinación de recursos.
-
-Por otro lado, los **anfitriones de eventos** se centran en la **experiencia de los invitados** y en la **gestión del ambiente** durante el evento, asegurándose de que los asistentes se sientan cómodos, atendidos y disfruten del evento.
-
-Aunque las tareas varían, ambos segmentos coinciden en la importancia de la **organización eficiente** y el **bienestar de los participantes**. Sin embargo, los **organizadores** tienen un enfoque más técnico y operativo, mientras que los **anfitriones** se enfocan en la interacción social y la satisfacción personal de los invitados.
-
+Aunque las tareas varían, ambos segmentos coinciden en la importancia de la **organización eficiente** y el **bienestar de los participantes**. Sin embargo, los Organizadores tienen un enfoque más técnico y operativo, mientras que los Anfitriones se enfocan en la interacción social y la satisfacción personal de los invitados.
 
 
 ### 2.3.3. User Journey Mapping
