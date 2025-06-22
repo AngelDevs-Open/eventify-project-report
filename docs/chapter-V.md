@@ -927,3 +927,92 @@ En esta imagen se refleja el nivel de modificaciones realizadas por los commits 
 ![gitflow-2](../assets/chapter-V/network-2-open.png)
 
 Finalmente en estas imagenes se pueden apreciar las ramas con las que se ha trabajado durante el desarrollo del FrontEnd
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+#### 5.2.3.2. Aspect Leaders And Collaborators
+
+#### 5.2.3.3. Sprint Backlog 3
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+#### 5.2.3.6. Services Documentation for Sprint Review
+
+<table> 
+  <tr>
+    <td> <strong>Action </strong></td>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> GET</td>
+    <td> /api/v1/organizers/{organizerId}/quotes</td>
+    <td> Obtiene todas las cotizaciones de un organizador</td>
+  </tr>
+  <tr>
+    <td> GET</td>
+    <td> /api/v1/quotes/{quoteId}</td>
+    <td> Obtiene una cotización por ID</td>
+  </tr>
+  <tr>
+    <td> PUT</td>
+    <td> /api/v1/quotes/{quoteId}</td>
+    <td> Actualiza una cotización por ID</td>
+  </tr>
+  <tr>
+    <td> DELETE</td>
+    <td> /api/v1/quotes/{quoteId}</td>
+    <td> Elimina una cotización por ID</td>
+  </tr>
+  <tr>
+    <td> POST</td>
+    <td> /api/v1/quotes</td>
+    <td> Crea una nueva cotización</td>
+  </tr>
+  <tr>
+    <td> POST</td>
+    <td> /api/v1/quotes/{quoteId}/confirmations</td>
+    <td> Actualiza el estado de una cotización a "Accepted"</td>
+  </tr>
+  <tr>
+    <td> POST</td>
+    <td> /api/v1/quotes/{quoteId}/rejections</td>
+    <td> Actualiza el estado de una cotización a "Rejected"</td>
+  </tr>
+  <tr>
+    <td> GET</td>
+    <td> /api/v1/quotes/{quoteId}/service-items/{serviceItemId}</td>
+    <td> Obtiene un servicio de una cotización por ID</td>
+  </tr>
+  <tr>
+    <td> PUT</td>
+    <td> /api/v1/quotes/{quoteId}/service-items/{serviceItemId}</td>
+    <td> Actualiza un servicio de una cotización</td>
+  </tr>
+  <tr>
+    <td> DELETE</td>
+    <td> /api/v1/quotes/{quoteId}/service-items/{serviceItemId}</td>
+    <td> Elimina un servicio de una cotización</td>
+  </tr>
+  <tr>
+    <td> POST</td>
+    <td> /api/v1/quotes/{quoteId}/service-items</td>
+    <td> Crea un nuevo servicio para una cotización</td>
+  </tr>
+  <tr>
+    <td> GET</td>
+    <td> /api/v1/quotes/{quoteId}/service-items</td>
+    <td> Obtiene todos los servicios de una cotización</td>
+  </tr>
+</table>
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8. Team Collaboration Insights during sprint
