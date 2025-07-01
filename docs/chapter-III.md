@@ -2,6 +2,8 @@
 
 ## 3.1. To-Be Scenario Mapping
 
+En esta sección, exploraremos To-Be Scenario para cada User Persona, organizando la información por las filas Phases, Doing, Thinking y Feeling.
+
 **Segmento Organizadores**
 
 Este To-Be Scenario Mapping fue creado tras realizar una lluvia de ideas individual por parte del equipo, revisión en conjunto y alineamiento de las fases a partir del análisis del As-Is.
