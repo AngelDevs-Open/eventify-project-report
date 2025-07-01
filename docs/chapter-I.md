@@ -222,6 +222,8 @@ El Lean UX Canvas de Eventify identifica los problemas de los clientes para enco
 
 ## 1.3 Segmentos objetivo
 
+Para desarrollar un producto que realmente resuelva las necesidades de nuestros clientes, esta sección presenta un análisis detallado de los segmentos relevantes
+
 1. **Anfitriones de Eventos:**
 
 
