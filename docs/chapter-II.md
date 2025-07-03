@@ -632,6 +632,8 @@ En el As-is scenario mapping de este segmento se han identificado los principale
 
 ## 2.4. Ubiquitous Language
 
+Esta sección presenta un glosario con los términos clave del dominio del negocio, alineado con el enfoque de *Ubiquitous Language* del Domain Driven Design. Su propósito es proporcionar definiciones claras y precisas de los conceptos más relevantes para el problema y su solución, facilitando así una comunicación efectiva entre todos los miembros del equipo.
+
 **Capacity**: number of people a space can hold.
 
 **Attendees**: people who will attend and participate in an event.
