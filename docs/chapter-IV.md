@@ -463,6 +463,17 @@ Segmento Organizadores Anfitriones
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+Se presenta el enlace donde se realizaron los wireflows.
+
+
+Se presentaran los wireflows que competen con nuestros user goals
+
+[!registration organizer](/assets/chapter-IV/wireflow-1)
+
+
+[!registration host](/assets/chapter-IV/wireflow-1)
+
+
 
 ### 4.4.3. Web Applications Mock-ups
 En esta sección se muestran los mock-ups del Web Applications, que sirven como una representación visual de alta fidelidad para anticipar cómo se verá y funcionará la interfaz final. [Mock Ups - Eventify](https://www.figma.com/design/1usb4mpjHIvceZfIweObPL/Eventify-OS?node-id=0-1)
