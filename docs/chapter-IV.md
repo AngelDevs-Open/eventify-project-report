@@ -2,6 +2,8 @@
 
 ## 4.1. Style Guidelines
 
+En esta sección, se expone nuestra proposición de diseño para el landing page y la aplicación web. Las directrices de estilo de Eventify establecen las pautas visuales y de comunicación, garantizando una experiencia de usuario coherente, intuitiva y accesible. Su propósito es asegurar la consistencia en todos los puntos de interacción, desde la interfaz hasta las notificaciones y mensajes del sistema.
+
 ### 4.1.1. General Style Guidelines
 Esta sección presenta las decisiones visuales y comunicativas que definen la identidad de Eventify. Se explican aspectos clave como el uso del logo, la tipografía elegida, la paleta de colores, el sistema de espaciado y el tono de comunicación aplicado.
 
@@ -287,77 +289,77 @@ Este sistema de navegación facilita que tanto anfitriones como organizadores ac
 
 ## 4.3. Landing Page UI Design
 
-Esta sección expone el diseño de la Landing Page de Vehix, con el objetivo de atraer a los usuarios objetivo desde el primer momento. El enfoque del diseño es transmitir de forma clara el valor del producto, generar confianza e impulsar a la acción a través de una interfaz moderna, intuitiva y basada en principios de usabilidad.
+Esta sección expone el diseño de la Landing Page de Eventify, con el objetivo de atraer a los usuarios objetivo desde el primer momento. El enfoque del diseño es transmitir de forma clara el valor del producto, generar confianza e impulsar a la acción a través de una interfaz moderna, intuitiva y basada en principios de usabilidad.
 
 ### 4.3.1. Landing Page Wireframe
 En esta sección se presentan las representaciones de bajo nivel **(wireframes)** del landing page, diseñadas para dispositivos móviles y de escritorio. [Wireframe - Eventify](https://www.figma.com/design/uPtLATLNkVL8P5xY7wBOc2/Eventify---Landing-page?node-id=0-1&t=yRuZCtcaOfFtQUmB-1)
 
 **Desktop Web Browser**
 
-**Header Section**
+**Header Section**: Encabezado de la landing page.
 ![header-section-wireframe-desktop](/assets/chapter-IV/header-section-wireframe.png)
 
-**Hero Section**
+**Hero Section**: Sección principal de la landing page.
 ![hero-section-wireframe-desktop](/assets/chapter-IV/hero-section-wireframe.png)
 
-**About the product Section**
+**About the product Section** : Sección donde se presentará información del producto.
 ![about-product-section-wireframe-desktop](/assets/chapter-IV/about-the-product-section-wireframe.png)
 
-**Functionalities Section**
+**Functionalities Section**: Sección donde se mostrarán las funcionalidades ofrecidas.
 ![functionality-section-wireframe-desktop](/assets/chapter-IV/functionality-section-wireframe.png)
 
-**Benefits Section**
+**Benefits Section**: Se mostrarán los beneficios de usar Eventify.
 ![benefits-section-wireframe-desktop](/assets/chapter-IV/benefits-section-wireframe.png)
 
-**Plans Section**
+**Plans Section**: Se mostrará información de los planes ofrecidos.
 ![plans-section-wireframe-desktop](/assets/chapter-IV/plans-section-wireframe.png)
 
-**About us Section**
+**About us Section**: Sección donde se presentan a los integrantes que desarrollaron Eventify.
 ![about-us-section-wireframe-desktop](/assets/chapter-IV/about-us-section-wireframe.png)
 
-**About the team Section**
+**About the team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo. 
 ![about-team-section-wireframe-desktop](/assets/chapter-IV/about-the-team-section-wireframe.png)
 
-**Footer Section**
+**Footer Section** : Pie de página de la landing page
 ![footer-section-wireframe-desktop](/assets/chapter-IV/footer-section-wireframe.png)
 
 <br>
 
 **Mobile Web Browser**
 
-**Header Section**
+**Header Section**: Encabezado de la landing page.
 
 ![header-section-wireframe-desktop](/assets/chapter-IV/header-section-mobile-wireframe.png)
 
-**Hero Section**
+**Hero Section**: Sección principal de la landing page.
 
 ![hero-section-wireframe-desktop](/assets/chapter-IV/hero-section-mobile-wireframe.png)
 
-**About the product Section**
+**About the product Section**: Sección donde se presentará información del producto.
 
 ![about-product-section-wireframe-desktop](/assets/chapter-IV/about-the-product-section-mobile-wireframe.png)
 
-**Functionalities Section**
+**Functionalities Section**: Sección donde se mostrarán las funcionalidades ofrecidas.
 
 ![functionality-section-wireframe-desktop](/assets/chapter-IV/functionality-section-mobile-wireframe.png)
 
-**Benefits Section**
+**Benefits Section**: Se mostrarán los beneficios de usar Eventify.
 
 ![benefits-section-wireframe-desktop](/assets/chapter-IV/benefits-section-mobile-wireframe.png)
 
-**Plans Section**
+**Plans Section**: Se mostrará información de los planes ofrecidos.
 
 ![plans-section-wireframe-desktop](/assets/chapter-IV/plans-section-mobile-wireframe.png)
 
-**About us Section**
+**About us Section**: Sección donde se presentan a los integrantes que desarrollaron Eventify.
 
 ![about-us-section-wireframe-desktop](/assets/chapter-IV/about-us-section-mobile-wireframe.png)
 
-**About the team Section**
+**About the team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo. 
 
 ![about-team-section-wireframe-desktop](/assets/chapter-IV/about-the-team-section-mobile-wireframe.png)
 
-**Footer Section**
+**Footer Section**: Pie de página de la landing page
 
 ![footer-section-wireframe-desktop](/assets/chapter-IV/footer-section-mobile-wireframe.png)
 
@@ -367,31 +369,31 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 
 **Desktop Web Browser**
 
-**Header Section**
+**Header Section**: Encabezado de la landing page. Donde irán los botones para dirigirse directamente a alguna de las secciones de la landing page
 ![header-section-mockup](/assets/chapter-IV/header-section-mockup-desktop.png)
 
-**Hero Section**
+**Hero Section**: Sección principal de la landing page. Dirigido para nuestros dos segmentos objetivos con una imagen referencial.
 ![hero-section-mockup](/assets/chapter-IV/hero-section-mockup-desktop.png)
 
-**About the product Section**
+**About the product Section**: Sección donde se presentará información del producto. Cuenta con un video informativo.
 ![about-product-section-mockup](/assets/chapter-IV/about-product-section-mockup-desktop.png)
 
-**Functionalities Section**
+**Functionalities Section**: Sección donde se mostrarán las funcionalidades ofrecidas.
 ![functionalities-section-mockup](/assets/chapter-IV/functionality-section-mockup-desktop.png)
 
-**Benefits Section**
+**Benefits Section**: Se mostrarán los beneficios de usar Eventify. 
 ![benefits-section-mockup](/assets/chapter-IV/benefits-section-mockup-desktop.png)
 
-**Plans Section**
+**Plans Section**: Se mostrará información de los planes ofrecidos.
 ![plans-section-mockup](/assets/chapter-IV/plans-section-mockup-desktop.png)
 
-**About us Section**
+**About us Section**: Sección donde se presentan a los integrantes que desarrollaron Eventify.
 ![about-us-section-mockup](/assets/chapter-IV/about-us-section-mockup-desktop.png)
 
-**About the team Section**
+**About the team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo. 
 ![about-team-section-mockup](/assets/chapter-IV/about-team-section-mockup-desktop.png)
 
-**Footer Section**
+**Footer Section**: Pie de página de la landing page
 ![footer-section-mockup](/assets/chapter-IV/footer-section-mockup-desktop.png)
 
 
@@ -399,39 +401,39 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 
 **Mobile Web Browser**
 
-**Header Section**
+**Header Section**: Encabezado de la landing page. Donde irán los botones para dirigirse directamente a alguna de las secciones de la landing page
 
 ![header-section-mockup-mobile](/assets/chapter-IV/header-section-mockup-mobile.png)
 
-**Hero Section**
+**Hero Section**: Sección principal de la landing page. Dirigido para nuestros dos segmentos objetivos con una imagen referencial.
 
 ![hero-section-mockup-mobile](/assets/chapter-IV/hero-section-mockup-mobile.png)
 
-**About the product Section**
+**About the product Section**: Sección donde se presentará información del producto. Cuenta con un video informativo.
 
 ![about-product-section-mockup-mobile](/assets/chapter-IV/about-the-product-section-mockup-mobile.png)
 
-**Functionalities Section**
+**Functionalities Section**: Sección donde se mostrarán las funcionalidades ofrecidas.
 
 ![functionalities-section-mockup-mobile](/assets/chapter-IV/functionalities-section-mockup-mobile.png)
 
-**Benefits Section**
+**Benefits Section**: Se mostrarán los beneficios de usar Eventify. 
 
 ![benefits-section-mockup-mobile](/assets/chapter-IV/benefits-section-mockup-mobile.png)
 
-**Plans Section**
+**Plans Section**: Se mostrará información de los planes ofrecidos.
 
 ![plans-section-mockup-mobile](/assets/chapter-IV/plans-section-mockup-mobile.png)
 
-**About us Section**
+**About us Section**: Sección donde se presentan a los integrantes que desarrollaron Eventify.
 
 ![about-us-section-mockup-mobile](/assets/chapter-IV/about-us-section-mockup-mobile.png)
 
-**About the team Section**
+**About the team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo. 
 
 ![about-team-section-mockup-mobile](/assets/chapter-IV/about-the-team-section-mockup-mobile.png)
 
-**Footer Section**
+**Footer Section**: Pie de página de la landing page
 
 ![footer-section-mockup-mobile](/assets/chapter-IV/footer-section-mockup-mobile.png)
 
@@ -445,19 +447,37 @@ Esta sección presenta el diseño de los wireframes de nuestras aplicaciones, lo
 
 Segmento Organizadores de Eventos
 
+Los siguientes wireframes pertenecen a la vista de login.
 ![wireframe-1.png](../assets/chapter-IV/wireframe-1.png) 
+
+Wireframes pertnenecientes a la vista de profile.
 ![wireframe-2.png](../assets/chapter-IV/wireframe-2.png)
+
+Wireframes de las vistas correspondientes al álbum de imágenes y el chat.
 ![wireframe-3.png](../assets/chapter-IV/wireframe-3.png) 
+
+Wireframes para el manejo personal de información.
 ![wireframe-4.png](../assets/chapter-IV/wireframe-4.png)
 
 
 Segmento Organizadores Anfitriones
 
+Wireframes para el centro de planificación de eventos y el perfil del organizador anfitrión.
 ![wireframe-5a.png](../assets/chapter-IV/wireframe-5a.png)
+
+Wireframes correspondientes a la vista de portafolio, solicitud de prsupuesto e historial del organizador anfitrión.
 ![wireframe-6a.png](../assets/chapter-IV/wireframe-6a.png)
+
+Wireframe de la vista de los paquetes de servicio.
 ![wireframe-7a.png](../assets/chapter-IV/wireframe-7a.png)
+
+Wireframes para el contacto del host con el organizador.
 ![wireframe-8a.png](../assets/chapter-IV/wireframe-8a.png)
+
+Wireframes correspondientes a la lista de chats, rating y perfil del organizador anfitrión.
 ![wireframe-9a.png](../assets/chapter-IV/wireframe-9a.png)
+
+Wireframes correspondientes a las vistas de detalle de reseñas, y panel de notificaciones
 ![wireframe-10a.png](../assets/chapter-IV/wireframe-10a.png)
 
 
@@ -468,10 +488,7 @@ Se presenta el enlace donde se realizaron los wireflows.
 
 Se presentaran los wireflows que competen con nuestros user goals
 
-[!registration organizer](/assets/chapter-IV/wireflow-1)
 
-
-[!registration host](/assets/chapter-IV/wireflow-1)
 
 
 
@@ -480,33 +497,71 @@ En esta sección se muestran los mock-ups del Web Applications, que sirven como 
 <br>
 
 Segmento Organizadores de Eventos
+
+Vista de inicio de sesión
 ![login-screen 2.png](../assets/chapter-IV/login-screen%202.png)
+
+Vista para el registro de organizador
 ![register-organizer 1.png](../assets/chapter-IV/register-organizer%201.png)
+
+Vista para la recuperación de contraseña
 ![forgot-password 1.png](../assets/chapter-IV/forgot-password%201.png)
+
+Vista para la creación de una nueva contraseña
 ![reset-password 1.png](../assets/chapter-IV/reset-password%201.png)
+
+Vista para ingresar el codigo de verificación
 ![verification-code 1.png](../assets/chapter-IV/verification-code%201.png)
+
+Vista para restablecer la contraseña
 ![reset-password 1.png](../assets/chapter-IV/reset-password%201.png)
+
+Vista de perfil de organizador
 ![organizer-profile 1.png](../assets/chapter-IV/organizer-profile%201.png)
+
+Vista de actualización del perfil del organizador
 ![update-organizer-profile 1.png](../assets/chapter-IV/update-organizer-profile%201.png)
+
+Vista del álbum en el perfil del organizador
 ![almuns-profile-organizer.png](../assets/chapter-IV/almuns-profile-organizer.png)
+
+Vista para la edición del álbum
 ![album-detail 1.png](../assets/chapter-IV/album-detail%201.png)
+
+Vista para crear álbum
 ![create-album 1.png](../assets/chapter-IV/create-album%201.png)
+
+Vista para chat con los clientes
 ![direct-communication-mockup1-Org.png](../assets/chapter-IV/direct-communication-mockup1-Org.png)
 
 
 Segmento Organizadores Anfitriones 
 
+Vista para el centro de planificaciones de eventos
 ![event-planning-hub 1.png](../assets/chapter-IV/event-planning-hub%201.png)
+
+Vista de portafolio con los eventos recientes
 ![service-portfolio 1.png](../assets/chapter-IV/service-portfolio%201.png) 
+
+Vista de las reseñas hacia los organizadores
 ![organizer-Historial-reseña-anfitrion2.png](../assets/chapter-IV/organizer-Historial-rese%C3%B1a-anfitrion2.png) 
+
+Vista del perfil de los anfitriones 
 ![organizer-profile-public 1.png](../assets/chapter-IV/organizer-profile-public%201.png)
+
+Vista de los detalles de las reseñas
 ![review-detail-mockup-continuation 1.png](../assets/chapter-IV/review-detail-mockup-continuation%201.png)
+
+Vista de historial de reseñas
 ![review-rating-mockup 1.png](../assets/chapter-IV/review-rating-mockup%201.png)
+
+Vista para contactar con el organizador
 ![Contact-to-organizator-from-host.png](../assets/chapter-IV/Contact-to-organizator-from-host.png)
+
+Vista para escribir una reseña
 ![write-review 1.png](../assets/chapter-IV/write-review%201.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
-
 
 ## 4.5. Web Applications Prototyping
 
