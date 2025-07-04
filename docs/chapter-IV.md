@@ -612,59 +612,61 @@ Vista para escribir una reseña
 
 Se presenta el link del desarrollo de los user flow de nuestra aplicación.
 
+Link de los user flow en LucidChart: https://shorturl.at/R4G6z
+
 A continuación, se presentan los diagramas de flujo por los que los usuarios recorreran.
 
 User goal 1: Como organizador, quiero registrarme en la plataforma
 
-[!registration organizer](/assets/chapter-IV/userflow-1)
+![registration organizer](../assets/chapter-IV/userflow-1.png)
 
 El organizador llena un formulario registrarse a la aplicación y luego iniciar sesión de manera exitosa.
 
 User goal 2: Como anfitrión, quiero registrarme en la plataforma
 
-[!registration host](/assets/chapter-IV/userflow-2)
+![registration host](/assets/chapter-IV/userflow-2.png)
 
 El anfitrión llena un formulario registrarse a la aplicación y luego iniciar sesión de manera exitosa.
 
 User goal 3: Como usuario, quiero recuperar la contraseña de mi cuenta
 
-[!registration host](/assets/chapter-IV/userflow-3)
+![registration host](/assets/chapter-IV/userflow-3.png)
 
 El usuario recupera la contraseña de su cuenta, ingresa el codigo de confirmación e ingresa una nueva contraseña para su cuenta.
 
 User goal 4: Como usuario, quiero acceder a un chat dentro de la plataforma
 
-[!registration host](/assets/chapter-IV/userflow-4)
+![registration host](/assets/chapter-IV/userflow-4.png)
 
 El usuario accede a la vista de mensajes y puede enviar mensajes a los organizadores.
 
 User goal 5: Como usuario, quiero recibir notificaciones cuando tengo un nuevo mensaje 
 
-[!registration host](/assets/chapter-IV/userflow-5)
+![registration host](/assets/chapter-IV/userflow-5.png)
 
 El usuario recibe notificaciones cuando tenga un nuevo mensaje y las visualiza en la vista de notificaciones.
 
 User goal 6: Como organizador quiero definir un presupuesto y registrar los gastos del evento
 
-[!registration host](/assets/chapter-IV/userflow-6)
+![registration host](/assets/chapter-IV/userflow-6.png)
 
 El organizador define su presupuesto entre otros datos necesarios sobre la información del evento
 
 User goal 7: Como anfitrión, quiero poder ver los perfiles detallados de los organizadores
 
-[!registration host](/assets/chapter-IV/userflow-7)
+![registration host](/assets/chapter-IV/userflow-7.png)
 
 El anfitrión visualiza los perfiles públicos de los organizadores y pueden acceder a diferentes vistas, como reseñas, paquetes y portafolio.
 
 User goal 8: Como anfitrión, quiero calificar el desempeño del organizador una vez terminado el evento
 
-[!registration host](/assets/chapter-IV/userflow-8)
+![registration host](/assets/chapter-IV/userflow-8.png)
 
 El anfitrión califica el desempeño del organizador, dejando una puntuación en estrellas y una breve reseña de su experiencia.
 
 User goal 9: Como anfitrión, quiero poder editar una reseña que haya dejado sobre un organizador
 
-[!registration host](/assets/chapter-IV/userflow-9)
+![registration host](/assets/chapter-IV/userflow-9.png)
 
 El anfitrión puede editar alguna reseña que haya dejado hacia un organizador, dejando una puntuación en estrellas y una breve reseña de su experiencia.
 
