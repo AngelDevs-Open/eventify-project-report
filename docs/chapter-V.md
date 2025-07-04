@@ -575,6 +575,9 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
 En el presente Sprint nos enfocamos en desarrollar la primera versión del frontend de nuestra aplicación web Eventify. Para ello definimos en el sprint backlog, tareas relacionadas a las principales funcionalidades que presenta nuestro proyecto como la creación de cotizaciones para los eventos, la creación de tareas que se realizarán durante la planeación del evento, entre otros.
 
 #### 5.2.2.1. Sprint Planning 2
+
+A continuación, el cuadro correspondiente al sprint planning 2, donde se rescatan aspectos importantes del sprint planning meeting.
+
 | Sprint #                           | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Sprint Planning Background**     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -591,6 +594,8 @@ En el presente Sprint nos enfocamos en desarrollar la primera versión del front
 | **Story Points Totales**           | Sprint 2 - 32 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
+
+En esta sección, elaboraremos el artefacto Leadership-and-Collaboration Matrix (LACX) para asignar claramente quién asumirá el rol de líder y quiénes serán los colaboradores durante el Sprint 3.
 
 |            Team Member            | GitHub Username | TaskManagement | ProfileManagement | QuoteManagement | Event Management | Calendar | 
 |:---------------------------------:|:---------------:|:--------------:|:-----------------:|:---------------:|:----------------:|:--------:| 
@@ -755,6 +760,8 @@ Enlance: https://trello.com/b/rzR3S25M/eventify-sprint-backlog-2
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
+Se mostrarán los commits realizados en el desarrollo de este sprint para los productos solicitados.
+
 <table>
   <tr>
     <td align ="center" > <strong>Repository</strong></td>
@@ -855,6 +862,8 @@ Enlance: https://trello.com/b/rzR3S25M/eventify-sprint-backlog-2
 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
+
+Se muestra lo logrado en la ejecución del segundo sprint. Usando Gitflow y trabajando en ramas para ejecutar pruebas y realizar actualizaciones sin comprometer la rama principal.
 
 **Bounded Context Quote Management**
 
@@ -962,6 +971,8 @@ Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del ba
 #### 5.2.3.3.Sprint Backlog 3.
 
 #### 5.2.3.4. Development Evidence for Sprint Review
+
+A continuación, se mostrarán los commits registrados en el repositorio correspondiente al backend para el desarrollo del sprint 3.
 
 <table>
   <tr>
@@ -1111,6 +1122,8 @@ Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del ba
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 
+Para el Sprint 3, se alcanzó el objetivo de desplegar la segunda versión de la aplicación web. Adicionalmente, se logró la implementación de la primera versión del backend.
+
 **Backend**
 
 ![execution-backend-1](../assets/chapter-V/execution-backend-1.png)
@@ -1120,6 +1133,8 @@ Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del ba
 ![execution-backend-3.png](../assets/chapter-V/execution-backend-3.png)
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+A continuación, se muestran los endpoints documentados
 
 <table> 
   <tr>
@@ -1193,6 +1208,8 @@ Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del ba
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
+Aquí se verá el proceso del despliegue del backend durante el sprint.
+
 **Backend**
 
 Para esta entrega el backend fue desplegado en Render
@@ -1200,6 +1217,8 @@ Para esta entrega el backend fue desplegado en Render
 ![render-deploy](../assets/chapter-V/deployment-backend-render.png)
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+Esta sección demuestra la colaboración del equipo en la entrega del sprint actual, incluyendo las métricas de creación del backend.
 
 ### Backend
 
