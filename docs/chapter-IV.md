@@ -297,30 +297,39 @@ En esta sección se presentan las representaciones de bajo nivel **(wireframes)*
 **Desktop Web Browser**
 
 **Header Section**: Encabezado de la landing page.
+
 ![header-section-wireframe-desktop](/assets/chapter-IV/header-section-wireframe.png)
 
 **Hero Section**: Sección principal de la landing page.
+
 ![hero-section-wireframe-desktop](/assets/chapter-IV/hero-section-wireframe.png)
 
 **About the product Section** : Sección donde se presentará información del producto.
+
 ![about-product-section-wireframe-desktop](/assets/chapter-IV/about-the-product-section-wireframe.png)
 
 **Functionalities Section**: Sección donde se mostrarán las funcionalidades ofrecidas.
+
 ![functionality-section-wireframe-desktop](/assets/chapter-IV/functionality-section-wireframe.png)
 
 **Benefits Section**: Se mostrarán los beneficios de usar Eventify.
+
 ![benefits-section-wireframe-desktop](/assets/chapter-IV/benefits-section-wireframe.png)
 
 **Plans Section**: Se mostrará información de los planes ofrecidos.
+
 ![plans-section-wireframe-desktop](/assets/chapter-IV/plans-section-wireframe.png)
 
 **About us Section**: Sección donde se presentan a los integrantes que desarrollaron Eventify.
+
 ![about-us-section-wireframe-desktop](/assets/chapter-IV/about-us-section-wireframe.png)
 
 **About the team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo. 
+
 ![about-team-section-wireframe-desktop](/assets/chapter-IV/about-the-team-section-wireframe.png)
 
 **Footer Section** : Pie de página de la landing page
+
 ![footer-section-wireframe-desktop](/assets/chapter-IV/footer-section-wireframe.png)
 
 <br>
@@ -370,30 +379,39 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 **Desktop Web Browser**
 
 **Header Section**: Encabezado de la landing page. Donde irán los botones para dirigirse directamente a alguna de las secciones de la landing page
+
 ![header-section-mockup](/assets/chapter-IV/header-section-mockup-desktop.png)
 
 **Hero Section**: Sección principal de la landing page. Dirigido para nuestros dos segmentos objetivos con una imagen referencial.
+
 ![hero-section-mockup](/assets/chapter-IV/hero-section-mockup-desktop.png)
 
 **About the product Section**: Sección donde se presentará información del producto. Cuenta con un video informativo.
+
 ![about-product-section-mockup](/assets/chapter-IV/about-product-section-mockup-desktop.png)
 
 **Functionalities Section**: Sección donde se mostrarán las funcionalidades ofrecidas.
+
 ![functionalities-section-mockup](/assets/chapter-IV/functionality-section-mockup-desktop.png)
 
 **Benefits Section**: Se mostrarán los beneficios de usar Eventify. 
+
 ![benefits-section-mockup](/assets/chapter-IV/benefits-section-mockup-desktop.png)
 
 **Plans Section**: Se mostrará información de los planes ofrecidos.
+
 ![plans-section-mockup](/assets/chapter-IV/plans-section-mockup-desktop.png)
 
 **About us Section**: Sección donde se presentan a los integrantes que desarrollaron Eventify.
+
 ![about-us-section-mockup](/assets/chapter-IV/about-us-section-mockup-desktop.png)
 
 **About the team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo. 
+
 ![about-team-section-mockup](/assets/chapter-IV/about-team-section-mockup-desktop.png)
 
 **Footer Section**: Pie de página de la landing page
+
 ![footer-section-mockup](/assets/chapter-IV/footer-section-mockup-desktop.png)
 
 
@@ -448,36 +466,46 @@ Esta sección presenta el diseño de los wireframes de nuestras aplicaciones, lo
 Segmento Organizadores de Eventos
 
 Los siguientes wireframes pertenecen a la vista de login.
+
 ![wireframe-1.png](../assets/chapter-IV/wireframe-1.png) 
 
 Wireframes pertnenecientes a la vista de profile.
+
 ![wireframe-2.png](../assets/chapter-IV/wireframe-2.png)
 
 Wireframes de las vistas correspondientes al álbum de imágenes y el chat.
+
 ![wireframe-3.png](../assets/chapter-IV/wireframe-3.png) 
 
 Wireframes para el manejo personal de información.
+
 ![wireframe-4.png](../assets/chapter-IV/wireframe-4.png)
 
 
 Segmento Organizadores Anfitriones
 
 Wireframes para el centro de planificación de eventos y el perfil del organizador anfitrión.
+
 ![wireframe-5a.png](../assets/chapter-IV/wireframe-5a.png)
 
 Wireframes correspondientes a la vista de portafolio, solicitud de prsupuesto e historial del organizador anfitrión.
+
 ![wireframe-6a.png](../assets/chapter-IV/wireframe-6a.png)
 
 Wireframe de la vista de los paquetes de servicio.
+
 ![wireframe-7a.png](../assets/chapter-IV/wireframe-7a.png)
 
 Wireframes para el contacto del host con el organizador.
+
 ![wireframe-8a.png](../assets/chapter-IV/wireframe-8a.png)
 
 Wireframes correspondientes a la lista de chats, rating y perfil del organizador anfitrión.
+
 ![wireframe-9a.png](../assets/chapter-IV/wireframe-9a.png)
 
 Wireframes correspondientes a las vistas de detalle de reseñas, y panel de notificaciones
+
 ![wireframe-10a.png](../assets/chapter-IV/wireframe-10a.png)
 
 
@@ -499,66 +527,85 @@ En esta sección se muestran los mock-ups del Web Applications, que sirven como 
 Segmento Organizadores de Eventos
 
 Vista de inicio de sesión
+
 ![login-screen 2.png](../assets/chapter-IV/login-screen%202.png)
 
 Vista para el registro de organizador
+
 ![register-organizer 1.png](../assets/chapter-IV/register-organizer%201.png)
 
 Vista para la recuperación de contraseña
+
 ![forgot-password 1.png](../assets/chapter-IV/forgot-password%201.png)
 
 Vista para la creación de una nueva contraseña
 ![reset-password 1.png](../assets/chapter-IV/reset-password%201.png)
 
 Vista para ingresar el codigo de verificación
+
 ![verification-code 1.png](../assets/chapter-IV/verification-code%201.png)
 
 Vista para restablecer la contraseña
+
 ![reset-password 1.png](../assets/chapter-IV/reset-password%201.png)
 
 Vista de perfil de organizador
+
 ![organizer-profile 1.png](../assets/chapter-IV/organizer-profile%201.png)
 
 Vista de actualización del perfil del organizador
+
 ![update-organizer-profile 1.png](../assets/chapter-IV/update-organizer-profile%201.png)
 
 Vista del álbum en el perfil del organizador
+
 ![almuns-profile-organizer.png](../assets/chapter-IV/almuns-profile-organizer.png)
 
 Vista para la edición del álbum
+
 ![album-detail 1.png](../assets/chapter-IV/album-detail%201.png)
 
 Vista para crear álbum
+
 ![create-album 1.png](../assets/chapter-IV/create-album%201.png)
 
 Vista para chat con los clientes
+
 ![direct-communication-mockup1-Org.png](../assets/chapter-IV/direct-communication-mockup1-Org.png)
 
 
 Segmento Organizadores Anfitriones 
 
 Vista para el centro de planificaciones de eventos
+
 ![event-planning-hub 1.png](../assets/chapter-IV/event-planning-hub%201.png)
 
 Vista de portafolio con los eventos recientes
+
 ![service-portfolio 1.png](../assets/chapter-IV/service-portfolio%201.png) 
 
 Vista de las reseñas hacia los organizadores
+
 ![organizer-Historial-reseña-anfitrion2.png](../assets/chapter-IV/organizer-Historial-rese%C3%B1a-anfitrion2.png) 
 
 Vista del perfil de los anfitriones 
+
 ![organizer-profile-public 1.png](../assets/chapter-IV/organizer-profile-public%201.png)
 
 Vista de los detalles de las reseñas
+
 ![review-detail-mockup-continuation 1.png](../assets/chapter-IV/review-detail-mockup-continuation%201.png)
 
 Vista de historial de reseñas
+
 ![review-rating-mockup 1.png](../assets/chapter-IV/review-rating-mockup%201.png)
 
 Vista para contactar con el organizador
+
 ![Contact-to-organizator-from-host.png](../assets/chapter-IV/Contact-to-organizator-from-host.png)
 
 Vista para escribir una reseña
+
 ![write-review 1.png](../assets/chapter-IV/write-review%201.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
@@ -568,39 +615,57 @@ Se presenta el link del desarrollo de los user flow de nuestra aplicación.
 A continuación, se presentan los diagramas de flujo por los que los usuarios recorreran.
 
 User goal 1: Como organizador, quiero registrarme en la plataforma
+
 [!registration organizer](/assets/chapter-IV/userflow-1)
+
 El organizador llena un formulario registrarse a la aplicación y luego iniciar sesión de manera exitosa.
 
 User goal 2: Como anfitrión, quiero registrarme en la plataforma
+
 [!registration host](/assets/chapter-IV/userflow-2)
+
 El anfitrión llena un formulario registrarse a la aplicación y luego iniciar sesión de manera exitosa.
 
 User goal 3: Como usuario, quiero recuperar la contraseña de mi cuenta
+
 [!registration host](/assets/chapter-IV/userflow-3)
+
 El usuario recupera la contraseña de su cuenta, ingresa el codigo de confirmación e ingresa una nueva contraseña para su cuenta.
 
 User goal 4: Como usuario, quiero acceder a un chat dentro de la plataforma
+
 [!registration host](/assets/chapter-IV/userflow-4)
+
 El usuario accede a la vista de mensajes y puede enviar mensajes a los organizadores.
 
 User goal 5: Como usuario, quiero recibir notificaciones cuando tengo un nuevo mensaje 
+
 [!registration host](/assets/chapter-IV/userflow-5)
+
 El usuario recibe notificaciones cuando tenga un nuevo mensaje y las visualiza en la vista de notificaciones.
 
 User goal 6: Como organizador quiero definir un presupuesto y registrar los gastos del evento
+
 [!registration host](/assets/chapter-IV/userflow-6)
+
 El organizador define su presupuesto entre otros datos necesarios sobre la información del evento
 
 User goal 7: Como anfitrión, quiero poder ver los perfiles detallados de los organizadores
+
 [!registration host](/assets/chapter-IV/userflow-7)
+
 El anfitrión visualiza los perfiles públicos de los organizadores y pueden acceder a diferentes vistas, como reseñas, paquetes y portafolio.
 
 User goal 8: Como anfitrión, quiero calificar el desempeño del organizador una vez terminado el evento
+
 [!registration host](/assets/chapter-IV/userflow-8)
+
 El anfitrión califica el desempeño del organizador, dejando una puntuación en estrellas y una breve reseña de su experiencia.
 
 User goal 9: Como anfitrión, quiero poder editar una reseña que haya dejado sobre un organizador
+
 [!registration host](/assets/chapter-IV/userflow-9)
+
 El anfitrión puede editar alguna reseña que haya dejado hacia un organizador, dejando una puntuación en estrellas y una breve reseña de su experiencia.
 
 
