@@ -1258,6 +1258,14 @@ Durante el este Sprint nuestro enfoque es desarrollar la versión final de los t
 |      Sum of Story Points       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Sprint 4 - 22 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 #### 5.2.4.2. Aspect Leaders and Collaborators.
+
+|            Team Member            | GitHub Username | TaskManagement | ProfileManagement | QuoteManagement | Event Management | 
+|:---------------------------------:|:---------------:|:--------------:|:-----------------:|:---------------:|:----------------:|
+| Berrocal Ramirez, Omar Christian  |      OmBRz      |       L        |         C         |        C        |        C         |   
+|  Crisanto Calle, Deybbi Anderson  |     Dacc03      |       C        |         L         |        C        |        C         |  
+| Cutiri Agüero, Fabrizio Alexander |    Fabrizio     |       C        |         C         |        L        |        C         |   
+|   Paico Calderon, July Zelmira    |      JulyP      |       C        |         C         |        C        |        L         |
+
 #### 5.2.4.3. Sprint Backlog 4.
 #### 5.2.4.4. Development Evidence for Sprint Review.
 #### 5.2.4.5. Execution Evidence for Sprint Review.
