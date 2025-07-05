@@ -615,7 +615,7 @@ Enlance: https://trello.com/b/rzR3S25M/eventify-sprint-backlog-2
 <table>
   <tr>
     <td> <strong>Sprint #</strong></td>
-    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
   </tr>
 
    <tr>
@@ -969,6 +969,8 @@ Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del ba
 | Berrocal Ramirez, Omar Christian  |      OmBRz      |       C        |         C         |        C        |        C         |    L     |  
 
 #### 5.2.3.3.Sprint Backlog 3.
+
+
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
