@@ -624,13 +624,13 @@ Enlance: https://trello.com/b/rzR3S25M/eventify-sprint-backlog-2
   </tr>
   <tr>
     <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Title</strong></td>
     <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
-    <td align="center"> <strong>Description<strong></td>
-    <td align="center"> <strong>Estimation (Hours)<strong></td>
-    <td align="center"> <strong>Assigned To<strong></td>
-    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>Description</strong></td>
+    <td align="center"> <strong>Estimation (Hours)</strong></td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  </strong></td>
   </tr>
   <!---------------------------------------------------------------------- -->
   <tr>
@@ -1259,13 +1259,13 @@ Durante el este Sprint nuestro enfoque es desarrollar la versión final de los t
 
 #### 5.2.4.2. Aspect Leaders and Collaborators.
 
-|            Team Member            | GitHub Username | TaskManagement | ProfileManagement | QuoteManagement | Event Management | 
-|:---------------------------------:|:---------------:|:--------------:|:-----------------:|:---------------:|:----------------:|
-| Berrocal Ramirez, Omar Christian  |      OmBRz      |       L        |         C         |        C        |        C         |   
-|  Crisanto Calle, Deybbi Anderson  |     Dacc03      |       C        |         L         |        C        |        C         |  
-| Cutiri Agüero, Fabrizio Alexander |    Fabrizio     |       C        |         C         |        L        |        C         |   
-|   Paico Calderon, July Zelmira    |      JulyP      |       C        |         C         |        C        |        L         |
-
+|            Team Member            |  GitHub Username   | TaskManagement | ProfileManagement | QuoteManagement | Event Management | Subscription Management |
+|:---------------------------------:|:------------------:|:--------------:|:-----------------:|:---------------:|:----------------:|:-----------------------:|
+| Berrocal Ramirez, Omar Christian  |       OmBRz        |       L        |         C         |        C        |        C         |            C            | 
+|  Crisanto Calle, Deybbi Anderson  |       Dacc03       |       C        |         L         |        C        |        C         |            C            |
+| Cutiri Agüero, Fabrizio Alexander |      Fabrizio      |       C        |         C         |        L        |        C         |            C            |
+|   Paico Calderon, July Zelmira    |       JulyP        |       C        |         C         |        C        |        L         |            C            |
+|     Dayro Richard Rios Piñan      |    Addicted2you    |       C        |         C         |        C        |        C         |            L            | 
 #### 5.2.4.3. Sprint Backlog 4.
 #### 5.2.4.4. Development Evidence for Sprint Review.
 #### 5.2.4.5. Execution Evidence for Sprint Review.
