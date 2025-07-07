@@ -973,7 +973,7 @@ Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del ba
 
 Para el sprint 3 usamos la herramienta trello para organizar las tareas del equipo.
 
-![Sprint Backlog 3](../assets/chapter-V/sprint-backlog-3.png)
+![sprint-backlog 3](../assets/chapter-V/sprint-backlog-3.png)
 
 Enlance: https://trello.com/b/2zjBMbhf/eventify-sprint-backlog-3
 
@@ -1412,14 +1412,199 @@ Durante el este Sprint nuestro enfoque es desarrollar la versión final de los t
 
 #### 5.2.4.2. Aspect Leaders and Collaborators.
 
-|            Team Member            |  GitHub Username   | ReviewManagement | ProfileManagement | QuoteManagement | Event Management | Subscription Management |
-|:---------------------------------:|:------------------:|:----------------:|:-----------------:|:---------------:|:----------------:|:-----------------------:|
-| Berrocal Ramirez, Omar Christian  |       OmBRz        |        L         |         C         |        C        |        C         |            C            | 
-|  Crisanto Calle, Deybbi Anderson  |       Dacc03       |        C         |         L         |        C        |        C         |            C            |
-| Cutiri Agüero, Fabrizio Alexander |      Fabrizio      |        C         |         C         |        L        |        C         |            C            |
-|   Paico Calderon, July Zelmira    |       JulyP        |        C         |         C         |        C        |        L         |            C            |
-|     Dayro Richard Rios Piñan      |    Addicted2you    |        C         |         C         |        C        |        C         |            L            | 
+|             Team Member             |  GitHub Username   | ReviewManagement | ProfileManagement | QuoteManagement | Event Management | Subscription Management |
+|:-----------------------------------:|:------------------:|:----------------:|:-----------------:|:---------------:|:----------------:|:-----------------------:|
+|  Berrocal Ramirez, Omar Christian   |       OmBRz        |        L         |         C         |        C        |        C         |            C            | 
+|   Crisanto Calle, Deybbi Anderson   |       Dacc03       |        C         |         L         |        C        |        C         |            C            |
+|  Cutiri Agüero, Fabrizio Alexander  |      Fabrizio      |        C         |         C         |        L        |        C         |            C            |
+|    Paico Calderon, July Zelmira     |       JulyP        |        C         |         C         |        C        |        L         |            C            |
+|      Rios Piñan, Dayro Richard      |    Addicted2you    |        C         |         C         |        C        |        C         |            L            | 
+
 #### 5.2.4.3. Sprint Backlog 4.
+
+Para el sprint 4 usamos la herramienta trello para organizar las tareas del equipo.
+
+![sprint-backlog 4](../assets/chapter-V/sprint-backlog-4.png)
+
+Enlance: https://trello.com/b/raylAcjO/eventify-sprint-backlog-4
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 4</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>Description</strong></td>
+    <td align="center"> <strong>Estimation (Hours)</strong></td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="1" align="center"> US01 </td>
+    <td rowspan="1" align="center"> Navegación sencilla</td>
+    <td align="center"> TA01 </td>
+     <td align="center"> Implementar el lenguaje por defecto</td>
+    <td align="center"> Quiero que el landing page esté en ingles por defecto</td>
+    <td align="center"> 2</td>
+    <td align="center"> Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US05 </td>
+    <td rowspan="1" align="center"> Llamada a la acción</td>
+    <td align="center"> TA02 </td>
+     <td align="center"> Create call to action</td>
+    <td align="center"> Quiero que el landing page tenga las llamadas a la acción para los tres tipos de visitantes</td>
+    <td align="center"> 2</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US06 </td>
+    <td rowspan="1" align="center"> Visualización de tutorial de la aplicación</td>
+    <td align="center"> TA03 </td>
+     <td align="center"> Add about the product video</td>
+    <td align="center"> Quiero insertar un video sobre el producto en nuestra web de negocio.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US10 </td>
+    <td rowspan="1" align="center"> Diseño responsive</td>
+    <td align="center"> TA04 </td>
+     <td align="center"> Configure correct loading</td>
+    <td align="center"> Quiero que el sitio web de negocio se cargue correctamente .</td>
+    <td align="center"> 1</td>
+    <td align="center"> Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+<!-------------------------------------------------->
+  <tr>
+    <td rowspan="2" align="center"> US19 </td>
+    <td rowspan="2" align="center">  Gestión de presupuesto del evento</td>
+    <td align="center"> TA05 </td>
+    <td align="center"> Create an update operation for quote</td>
+    <td align="center"> Quiero crear una operacion para actualizar cotizaciones.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander </td>
+    <td align="center"> Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA06 </td>
+     <td align="center">Create service item for quote management.</td>
+    <td align="center"> Quiero crear un service item para el manejo de las cotizaciones.</td>
+    <td align="center"> 4</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US21 </td>
+    <td rowspan="1" align="center"> Vista de cronograma del evento</td>
+    <td align="center"> TA08 </td>
+     <td align="center"> Update scheduler for events</td>
+    <td align="center"> Quiero actualizar el calendario de los eventos.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Berrocal Ramirez, Omar Christian.</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US27 </td>
+    <td rowspan="1" align="center"> Editar reseña publicada</td>
+    <td align="center"> TA07 </td>
+     <td align="center">add update operation for reviews</td>
+    <td align="center"> Quiero implementar un operación para actualizar las reseñas publicadas.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Berrocal Ramirez, Omar Christian.</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US29 </td>
+    <td rowspan="1" align="center"> Visualización de los evento</td>
+    <td align="center"> TA09 </td>
+     <td align="center">add update operation for social events</td>
+    <td align="center"> Quiero implementar un operación para actualizar los registros de eventos sociales.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Paico Calderon, July Zelmira.</td>
+    <td align="center">In Progress</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US28 </td>
+    <td rowspan="1" align="center">Filtro de evento social</td>
+    <td align="center"> TA10 </td>
+     <td align="center">add querys for more event filters</td>
+    <td align="center"> Quiero implementar más opciones de filtros para los eventos.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Paico Calderon, July Zelmira.</td>
+    <td align="center">In Progress</td>
+  </tr>
+  <!------------------------------------------------>
+   <tr>
+    <td rowspan="3" align="center"> US31 </td>
+    <td rowspan="3" align="center">  Visualizar perfiles de organizadores	</td>
+    <td align="center"> TA11 </td>
+    <td align="center"> Create update opetarion for profile.</td>
+    <td align="center"> Quiero implementar una operación para actualizar los perfiles.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Crisanto Calle, Deybbi Anderson </td>
+    <td align="center"> Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA12 </td>
+     <td align="center">Create a service catalog for profiles.</td>
+    <td align="center"> Quiero crear un catálogo para los perfiles.</td>
+    <td align="center"> 2</td>
+    <td align="center">Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA13 </td>
+    <td align="center"> Create album for profile.</td>
+    <td align="center"> Quiero crear un album para los perfiles.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Crisanto Calle, Deybbi Anderson</td>
+    <td align="center"> Done</td>
+  </tr>
+  <!------------------------------------------------>
+   <tr>
+    <td rowspan="2" align="center">  </td>
+    <td rowspan="2" align="center">  </td>
+    <td align="center"> TA14 </td>
+    <td align="center"> Deploy products.</td>
+    <td align="center"> Quiero desplegar mis productos a un dominio público.</td>
+    <td align="center"> 2 </td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander </td>
+    <td align="center"> Done</td>
+  </tr>
+   <tr>
+    <td align="center"> TA15 </td>
+    <td align="center"> Implement security</td>
+    <td align="center"> Quiero agregar autenticación para la plataforma web.</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Rios Piñan, Dayro Richard </td>
+    <td align="center">In Progress</td>
+  </tr>
+
+
+</table>
+
 #### 5.2.4.4. Development Evidence for Sprint Review.
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
