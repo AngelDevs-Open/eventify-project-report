@@ -271,13 +271,13 @@ Enlance: https://trello.com/b/iDs1MVOZ/eventify-sprint-backlog-1
   </tr>
   <tr>
     <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Title</strong> </td>
     <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
-    <td align="center"> <strong>Description<strong></td>
-    <td align="center"> <strong>Estimation (Hours)<strong></td>
-    <td align="center"> <strong>Assigned To<strong></td>
-    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+    <td align="center"> <strong>Title</strong> </td>
+    <td align="center"> <strong>Description</strong> </td>
+    <td align="center"> <strong>Estimation (Hours)</strong> </td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  </strong></td>
   </tr>
   <!---------------------------------------------------------------------- -->
   <tr>
@@ -575,6 +575,9 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
 En el presente Sprint nos enfocamos en desarrollar la primera versión del frontend de nuestra aplicación web Eventify. Para ello definimos en el sprint backlog, tareas relacionadas a las principales funcionalidades que presenta nuestro proyecto como la creación de cotizaciones para los eventos, la creación de tareas que se realizarán durante la planeación del evento, entre otros.
 
 #### 5.2.2.1. Sprint Planning 2
+
+A continuación, el cuadro correspondiente al sprint planning 2, donde se rescatan aspectos importantes del sprint planning meeting.
+
 | Sprint #                           | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Sprint Planning Background**     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -591,6 +594,8 @@ En el presente Sprint nos enfocamos en desarrollar la primera versión del front
 | **Story Points Totales**           | Sprint 2 - 32 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
+
+En esta sección, elaboraremos el artefacto Leadership-and-Collaboration Matrix (LACX) para asignar claramente quién asumirá el rol de líder y quiénes serán los colaboradores durante el Sprint 3.
 
 |            Team Member            | GitHub Username | TaskManagement | ProfileManagement | QuoteManagement | Event Management | Calendar | 
 |:---------------------------------:|:---------------:|:--------------:|:-----------------:|:---------------:|:----------------:|:--------:| 
@@ -610,7 +615,7 @@ Enlance: https://trello.com/b/rzR3S25M/eventify-sprint-backlog-2
 <table>
   <tr>
     <td> <strong>Sprint #</strong></td>
-    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
   </tr>
 
    <tr>
@@ -619,13 +624,13 @@ Enlance: https://trello.com/b/rzR3S25M/eventify-sprint-backlog-2
   </tr>
   <tr>
     <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Title</strong></td>
     <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
-    <td align="center"> <strong>Description<strong></td>
-    <td align="center"> <strong>Estimation (Hours)<strong></td>
-    <td align="center"> <strong>Assigned To<strong></td>
-    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>Description</strong></td>
+    <td align="center"> <strong>Estimation (Hours)</strong></td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  </strong></td>
   </tr>
   <!---------------------------------------------------------------------- -->
   <tr>
@@ -755,6 +760,8 @@ Enlance: https://trello.com/b/rzR3S25M/eventify-sprint-backlog-2
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
+Se mostrarán los commits realizados en el desarrollo de este sprint para los productos solicitados.
+
 <table>
   <tr>
     <td align ="center" > <strong>Repository</strong></td>
@@ -856,6 +863,8 @@ Enlance: https://trello.com/b/rzR3S25M/eventify-sprint-backlog-2
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+Se muestra lo logrado en la ejecución del segundo sprint. Usando Gitflow y trabajando en ramas para ejecutar pruebas y realizar actualizaciones sin comprometer la rama principal.
+
 **Bounded Context Quote Management**
 
 **Quote Management**
@@ -935,20 +944,20 @@ Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del ba
 #### 5.2.3.1.Spring Planning 3.
 
 
-|            Sprint #            |   Sprint 3     |
-|:------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| **Sprint Planning Background** |      |
-|              Date              |   07/06/25  |
-|              Time              |  11:40 horas  |
-|            Location            |  Reunión presencial - Aula UPC VH107  |
-|          Prepared By           |   Omar Christian Berrocal Ramirez |
-|           Attendees            |   - Aldave Aldave Jean Pierr   <br> - Deybbi Anderson Crisanto Calle  <br> - Fabrizio Alexander Cutiri Agüero  <br> - July Zelmira Paico Calderon    |
-|    Sprint 2 Review Summary     |    Se logró documentar y diseñar la una estructura del Landing Page y el FrontEnd de la apliación web, definiendo secciones clave e identificando los componentes necesarios para una muestra del funcionamiento de la aplicación. Se establecieron las tecnologías base del proyecto: Angular, Angular Materials.  |
-| Sprint 2 Retrospective Summary |  Durante el Sprint 2 se acordó que el enfoque visual y estructural era fundamental para atraer a nuevos usuarios. También se identificó la necesidad de establecer estándares de componentes reutilizables y convenciones claras de código desde el inicio del desarrollo. |
-| **Sprint Goal & User Stories** | |
+|            Sprint #            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|:------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|              Date              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    07/06/25                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|              Time              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  11:40 horas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|            Location            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Reunión presencial - Aula UPC VH107                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|          Prepared By           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Omar Christian Berrocal Ramirez                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|           Attendees            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                - Aldave Aldave Jean Pierr   <br> - Deybbi Anderson Crisanto Calle  <br> - Fabrizio Alexander Cutiri Agüero  <br> - July Zelmira Paico Calderon                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|    Sprint 2 Review Summary     |                                                                                                                                                                                                                                                                                                                                                                                Se logró documentar y diseñar la una estructura del Landing Page y el FrontEnd de la apliación web, definiendo secciones clave e identificando los componentes necesarios para una muestra del funcionamiento de la aplicación. Se establecieron las tecnologías base del proyecto: Angular, Angular Materials.                                                                                                                                                                                                                                                                                                                                                                                 |
+| Sprint 2 Retrospective Summary |                                                                                                                                                                                                                                                                                                                                                                                                   Durante el Sprint 2 se acordó que el enfoque visual y estructural era fundamental para atraer a nuevos usuarios. También se identificó la necesidad de establecer estándares de componentes reutilizables y convenciones claras de código desde el inicio del desarrollo.                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |         Sprint 3 Goal          | Nuestro enfoque está en brindar información detallada respecto a nuestra aplicación y el equipo de desarrollo, así como cerrar la conversión de los visitantes a través del sitio web del negocio, además de implementar nuevas características, como la búsqueda de organizadores de eventos, planes de suscripción, comunicación directa entre organizadores y anfitriones, notificaciones, autenticación de usuarios y la gestión de eventos, tareas y cotizaciones a través de una API. Creemos que esto nos ayudará a captar la atención de diferentes tipos de visitantes (recurrentes, racionales y emocionales) y brindará una experiencia de usuario más completa y escalable tanto para los organizadores como para los anfitriones. Esto se confirmará cuando los usuarios puedan buscar organizadores de eventos, comprar un plan de suscripción mensual, comunicarse a través del chat, recibir notificaciones relevantes y los organizadores puedan crear, actualizar o cancelar eventos, tareas y cotizaciones utilizando los puntos finales API implementados. |
-|       Sprint 3 Velocity        |  Velocidad de 26 - Primer Sprint                                                                                 |
-|      Sum of Story Points       |                                                   Sprint 3 - 32 Story Points                                                                            |
+|       Sprint 3 Velocity        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Velocidad de 26 - Primer Sprint                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|      Sum of Story Points       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Sprint 3 - 22 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 #### 5.2.3.2. Aspect Leaders and Collaborators.
 |            Team Member            | GitHub Username | Task Management | Profile Management | Quote Management | Event Management | Review Management | 
@@ -961,7 +970,162 @@ Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del ba
 
 #### 5.2.3.3.Sprint Backlog 3.
 
+
+Para el sprint 3 usamos la herramienta trello para organizar las tareas del equipo.
+
+![sprint-backlog 3](../assets/chapter-V/sprint-backlog-3.png)
+
+Enlance: https://trello.com/b/2zjBMbhf/eventify-sprint-backlog-3
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 3</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>Description</strong></td>
+    <td align="center"> <strong>Estimation (Hours)</strong></td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="2" align="center"> US26 </td>
+    <td rowspan="2" align="center">  Calificar organizador tras evento</td>
+    <td align="center"> TA09 </td>
+     <td align="center"> Create a review for profile and social event</td>
+    <td align="center">Crear un registro de una reseña para el peril y el evento</td>
+    <td align="center"> 2</td>
+    <td align="center"> Berrocal Ramirez, Omar Christian</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA05 </td>
+     <td align="center"> Implement reviews business rules</td>
+    <td align="center"> Implementar las reglas de negocio para las reseñas</td>
+    <td align="center"> 2</td>
+    <td align="center"> Berrocal Ramirez, Omar Christian</td>
+    <td align="center">Done</td>
+  </tr>
+
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="2" align="center"> US18 </td>
+    <td rowspan="2" align="center">  Lista de tareas del evento</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Change status of the task</td>
+    <td align="center"> habilitar el cambio de estado de las tareas en el dashboard.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Aldave Aldave, Jean Pierr</td>
+    <td align="center">In Progress</td>
+  </tr>
+<tr>
+    <td align="center"> TA14 </td>
+     <td align="center"> Create Task for organizer dashboard</td>
+    <td align="center"> Crear lista de tareas para el organizador</td>
+    <td align="center"> 2</td>
+    <td align="center"> Aldave Aldave, Jean Pierr</td>
+    <td align="center">In Progress</td>
+  </tr>
+
+  <!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US28 </td>
+    <td rowspan="1" align="center">  Filtro de evento social</td>
+    <td align="center"> TA02 </td>
+    <td align="center"> Implement event filters</td>
+    <td align="center"> Agregar operaciones de filtro para encontrar eventos.</td>
+    <td align="center"> 3</td>
+    <td align="center"> Paico Calderon, July Zelmira</td>
+    <td align="center">Done</td>
+  </tr>
+
+
+<!-------------------------------------------------->
+  <tr>
+    <td rowspan="2" align="center"> US19 </td>
+    <td rowspan="2" align="center">  Gestión de presupuesto del evento</td>
+    <td align="center"> TA07 </td>
+    <td align="center"> Create a quote for the organizer</td>
+    <td align="center"> crea un cotización para el organizador de eventos.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander </td>
+    <td align="center"> Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA06 </td>
+     <td align="center">Implement quote business rules.</td>
+    <td align="center"> Implementa las reglas de negocio para la generación de cotizaciones.</td>
+    <td align="center"> 3</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US29 </td>
+    <td rowspan="1" align="center">  Visualización de los evento</td>
+    <td align="center"> TA11 </td>
+    <td align="center"> Create and delete a social event register</td>
+    <td align="center"> Implementa operaciones para gestionar la sección de eventos.</td>
+    <td align="center"> 4</td>
+    <td align="center"> Paico Calderon, July Zelmira </td>
+    <td align="center">Done</td>
+  </tr>
+  <!------------------------------------------------>
+   <tr>
+    <td rowspan="2" align="center"> US31 </td>
+    <td rowspan="2" align="center">  Visualizar perfiles de organizadores	</td>
+    <td align="center"> TA08 </td>
+    <td align="center"> Create a profile</td>
+    <td align="center"> Crea un registro de un perfil.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Crisanto Calle, Deybbi Anderson </td>
+    <td align="center"> Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA10 </td>
+     <td align="center">Implemnt profile business rules</td>
+    <td align="center"> Implementa las reglas del negocio para los perfiles.</td>
+    <td align="center"> 2</td>
+    <td align="center">Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+  <!------------------------------------------------>
+   <tr>
+    <td rowspan="2" align="center"> US07 </td>
+    <td rowspan="2" align="center">  Confianza y seguridad.</td>
+    <td align="center"> TA03 </td>
+    <td align="center"> Implement about us section.</td>
+    <td align="center"> Crea una seeción about us en el landing page.</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander </td>
+    <td align="center"> Done</td>
+  </tr>
+   <tr>
+    <td align="center"> TA04 </td>
+     <td align="center">Create About the product Section</td>
+    <td align="center"> Crea una sección para el video about the product.</td>
+    <td align="center"> 1</td>
+    <td align="center">Cutiri Agüero, Fabrizio Alexander</td>
+    <td align="center">In Progress</td>
+  </tr>
+
+
+</table>
+
 #### 5.2.3.4. Development Evidence for Sprint Review
+
+A continuación, se mostrarán los commits registrados en el repositorio correspondiente al backend para el desarrollo del sprint 3.
 
 <table>
   <tr>
@@ -1111,13 +1275,19 @@ Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del ba
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 
+Para el Sprint 3, se alcanzó el objetivo de desplegar la segunda versión de la aplicación web. Adicionalmente, se logró la implementación de la primera versión del backend.
+
 **Backend**
 
 ![execution-backend-1](../assets/chapter-V/execution-backend-1.png)
 
 ![execution-backend-2](../assets/chapter-V/execution-backend-2.png)
 
+![execution-backend-3.png](../assets/chapter-V/execution-backend-3.png)
+
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+A continuación, se muestran los endpoints documentados
 
 <table> 
   <tr>
@@ -1191,6 +1361,8 @@ Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del ba
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
+Aquí se verá el proceso del despliegue del backend durante el sprint.
+
 **Backend**
 
 Para esta entrega el backend fue desplegado en Render
@@ -1198,6 +1370,8 @@ Para esta entrega el backend fue desplegado en Render
 ![render-deploy](../assets/chapter-V/deployment-backend-render.png)
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+Esta sección demuestra la colaboración del equipo en la entrega del sprint actual, incluyendo las métricas de creación del backend.
 
 ### Backend
 
@@ -1213,6 +1387,378 @@ Para esta entrega el backend fue desplegado en Render
 
 ![network-insights](../assets/chapter-V/network-insights-backend.png)
 
+
+### 5.2.4. Sprint 4
+
+Durante el este Sprint nuestro enfoque es desarrollar la versión final de los tres productos de nuestro proyecto: la landing page, el FrontEnd y el BackEnd. Para lograrlo, definimos en el sprint backlog diversas tareas relacionadas con las funcionalidades principales del negocio, como las cotizaciones para eventos y la creación de tareas que se llevarán a cabo durante su planificación. Además, se implementarán mejoras en la experiencia del usuario y se realizarán pruebas exhaustivas para garantizar un producto de alta calidad.
+
+#### 5.2.4.1. Spring Planning 4.
+
+
+|            Sprint #            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Sprint 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|:------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|              Date              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             01/07/25                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|              Time              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           11:40 horas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|            Location            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Reunión presencial - Aula UPC VH107                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|          Prepared By           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Omar Christian Berrocal Ramirez                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|           Attendees            |                                                                                                                                                                                                                                                                                                                                                                                                                                                     - Dayro Richard Rios Piñan   <br> - Deybbi Anderson Crisanto Calle  <br> - Fabrizio Alexander Cutiri Agüero  <br> - July Zelmira Paico Calderon                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|    Sprint 3 Review Summary     |                                                                                                                                                                                                                                                                          Se completó la documentación y el diseño de la estructura de la Landing Page y el Frontend de la aplicación web, definiendo las secciones principales e identificando los componentes esenciales para mostrar el funcionamiento de la plataforma. Además, se determinaron las tecnologías fundamentales para el proyecto: Angular en el frontend, y Java con Springboot en el backend, lo que garantiza una arquitectura robusta y escalable para la gestión de la aplicación.                                                                                                                                                                                                                                                                          |
+| Sprint 3 Retrospective Summary |                                                                                                                                                                                                                                                                                                                                                            En el Sprint 3, se completó la integración inicial entre el frontend y backend, permitiendo el funcionamiento básico de características como generación de cotizaciones. Tambien se hizo hincapié en la importancia de seguir con los estándares de código para garantizar la escalabilidad del proyecto.                                                                                                                                                                                                                                                                                                                                                             |
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|         Sprint 4 Goal          | En este último sprint, nuestro enfoque es finalizar e integrar todos los componentes clave de la aplicación. Esto incluye presentar información clara sobre el proyecto y el equipo detrás del desarrollo, y optimizar el sitio web para convertir a los visitantes en usuarios activos. Se implementarán funcionalidades esenciales como la búsqueda de organizadores de eventos, suscripciones mensuales, notificaciones personalizadas, autenticación de usuarios y una API robusta para gestionar eventos, tareas y cotizaciones. Estas características están diseñadas para ofrecer una experiencia completa y escalable, pensada para atraer y retener distintos tipos de usuarios ,ya sean recurrentes, racionales o emocionales. El éxito de este sprint se validará cuando los usuarios puedan interactuar plenamente con el sistema: desde buscar organizadores y suscribirse a un plan, hasta recibir alertas y que los organizadores puedan administrar eficientemente sus actividades mediante la API implementada. |
+|       Sprint 4 Velocity        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Velocidad de 20 - Cuarto Sprint                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|      Sum of Story Points       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Sprint 4 - 22 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+
+|             Team Member             |  GitHub Username   | ReviewManagement | ProfileManagement | QuoteManagement | Event Management | Subscription Management |
+|:-----------------------------------:|:------------------:|:----------------:|:-----------------:|:---------------:|:----------------:|:-----------------------:|
+|  Berrocal Ramirez, Omar Christian   |       OmBRz        |        L         |         C         |        C        |        C         |            C            | 
+|   Crisanto Calle, Deybbi Anderson   |       Dacc03       |        C         |         L         |        C        |        C         |            C            |
+|  Cutiri Agüero, Fabrizio Alexander  |      Fabrizio      |        C         |         C         |        L        |        C         |            C            |
+|    Paico Calderon, July Zelmira     |       JulyP        |        C         |         C         |        C        |        L         |            C            |
+|      Rios Piñan, Dayro Richard      |    Addicted2you    |        C         |         C         |        C        |        C         |            L            | 
+
+#### 5.2.4.3. Sprint Backlog 4.
+
+Para el sprint 4 usamos la herramienta trello para organizar las tareas del equipo.
+
+![sprint-backlog 4](../assets/chapter-V/sprint-backlog-4.png)
+
+Enlance: https://trello.com/b/raylAcjO/eventify-sprint-backlog-4
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 4</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>Description</strong></td>
+    <td align="center"> <strong>Estimation (Hours)</strong></td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="1" align="center"> US01 </td>
+    <td rowspan="1" align="center"> Navegación sencilla</td>
+    <td align="center"> TA01 </td>
+     <td align="center"> Implementar el lenguaje por defecto</td>
+    <td align="center"> Quiero que el landing page esté en ingles por defecto</td>
+    <td align="center"> 2</td>
+    <td align="center"> Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US05 </td>
+    <td rowspan="1" align="center"> Llamada a la acción</td>
+    <td align="center"> TA02 </td>
+     <td align="center"> Create call to action</td>
+    <td align="center"> Quiero que el landing page tenga las llamadas a la acción para los tres tipos de visitantes</td>
+    <td align="center"> 2</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US06 </td>
+    <td rowspan="1" align="center"> Visualización de tutorial de la aplicación</td>
+    <td align="center"> TA03 </td>
+     <td align="center"> Add about the product video</td>
+    <td align="center"> Quiero insertar un video sobre el producto en nuestra web de negocio.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US10 </td>
+    <td rowspan="1" align="center"> Diseño responsive</td>
+    <td align="center"> TA04 </td>
+     <td align="center"> Configure correct loading</td>
+    <td align="center"> Quiero que el sitio web de negocio se cargue correctamente .</td>
+    <td align="center"> 1</td>
+    <td align="center"> Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+<!-------------------------------------------------->
+  <tr>
+    <td rowspan="2" align="center"> US19 </td>
+    <td rowspan="2" align="center">  Gestión de presupuesto del evento</td>
+    <td align="center"> TA05 </td>
+    <td align="center"> Create an update operation for quote</td>
+    <td align="center"> Quiero crear una operacion para actualizar cotizaciones.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander </td>
+    <td align="center"> Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA06 </td>
+     <td align="center">Create service item for quote management.</td>
+    <td align="center"> Quiero crear un service item para el manejo de las cotizaciones.</td>
+    <td align="center"> 4</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US21 </td>
+    <td rowspan="1" align="center"> Vista de cronograma del evento</td>
+    <td align="center"> TA08 </td>
+     <td align="center"> Update scheduler for events</td>
+    <td align="center"> Quiero actualizar el calendario de los eventos.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Berrocal Ramirez, Omar Christian.</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US27 </td>
+    <td rowspan="1" align="center"> Editar reseña publicada</td>
+    <td align="center"> TA07 </td>
+     <td align="center">add update operation for reviews</td>
+    <td align="center"> Quiero implementar un operación para actualizar las reseñas publicadas.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Berrocal Ramirez, Omar Christian.</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US29 </td>
+    <td rowspan="1" align="center"> Visualización de los evento</td>
+    <td align="center"> TA09 </td>
+     <td align="center">add update operation for social events</td>
+    <td align="center"> Quiero implementar un operación para actualizar los registros de eventos sociales.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Paico Calderon, July Zelmira.</td>
+    <td align="center">In Progress</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US28 </td>
+    <td rowspan="1" align="center">Filtro de evento social</td>
+    <td align="center"> TA10 </td>
+     <td align="center">add querys for more event filters</td>
+    <td align="center"> Quiero implementar más opciones de filtros para los eventos.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Paico Calderon, July Zelmira.</td>
+    <td align="center">In Progress</td>
+  </tr>
+  <!------------------------------------------------>
+   <tr>
+    <td rowspan="3" align="center"> US31 </td>
+    <td rowspan="3" align="center">  Visualizar perfiles de organizadores	</td>
+    <td align="center"> TA11 </td>
+    <td align="center"> Create update opetarion for profile.</td>
+    <td align="center"> Quiero implementar una operación para actualizar los perfiles.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Crisanto Calle, Deybbi Anderson </td>
+    <td align="center"> Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA12 </td>
+     <td align="center">Create a service catalog for profiles.</td>
+    <td align="center"> Quiero crear un catálogo para los perfiles.</td>
+    <td align="center"> 2</td>
+    <td align="center">Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA13 </td>
+    <td align="center"> Create album for profile.</td>
+    <td align="center"> Quiero crear un album para los perfiles.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Crisanto Calle, Deybbi Anderson</td>
+    <td align="center"> Done</td>
+  </tr>
+  <!------------------------------------------------>
+   <tr>
+    <td rowspan="2" align="center">  </td>
+    <td rowspan="2" align="center">  </td>
+    <td align="center"> TA14 </td>
+    <td align="center"> Deploy products.</td>
+    <td align="center"> Quiero desplegar mis productos a un dominio público.</td>
+    <td align="center"> 2 </td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander </td>
+    <td align="center"> Done</td>
+  </tr>
+   <tr>
+    <td align="center"> TA15 </td>
+    <td align="center"> Implement security</td>
+    <td align="center"> Quiero agregar autenticación para la plataforma web.</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Rios Piñan, Dayro Richard </td>
+    <td align="center">In Progress</td>
+  </tr>
+
+
+</table>
+
+#### 5.2.4.4. Development Evidence for Sprint Review.
+
+
+A continuación, se mostrarán los commits últimos registrados en el repositorio correspondiente al backend para el desarrollo del sprint 4.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Open/eventify-platfom </td>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> e851915f3f54ed55c7cdb521fd3eaf268ce1f0d7</td>
+    <td align="center"> feat(planning): add acl planning external profile service</td>
+    <td align="center"> ---</td>
+    <td align="center"> 05/07/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/profile-management</td>
+    <td align="center" > c699202593a4593bb96af9d787690243d76da12f</td>
+    <td align="center"> fix(pom): correct spelling of 'platform' in artifactId and name.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 01/07/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/reviews-management</td>
+    <td align="center">e0ee6a9f679a46df2f638830f10a0de953170703</td>
+    <td align="center"> fix: bean creation failure.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/event-management</td>
+    <td align="center"> d3212ba217da342b3b4d99e6ad1c9e3291e80ad8</td>
+    <td align="center"> feat(planning): add documentation for planning bounded context and social event management.</td>
+    <td align="center"> ---</td>
+    <td align="center">07/07/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/develop</td>
+    <td align="center"> 4166cc97eec4857b4008e1773bb55dd5cbcb7ae5</td>
+    <td align="center"> feat(iam): check properties.</td>
+    <td align="center"> ---</td>
+    <td align="center">07/07/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/iam</td>
+    <td align="center"> d78e4e4d873057d88c8000bc2b7a0c2ffdc12385</td>
+    <td align="center"> feat(iam): update application-prod.properties</td>
+    <td align="center"> ---</td>
+    <td align="center">07/07/2025</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Message body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Web/eventify-front-end </td>
+    <td align="center"> feature/develop</td>
+    <td align="center"> 051b1907d086f53f1e745007186623da9bc1ab61</td>
+    <td align="center"> Merge branch 'feature/event-management' into develop</td>
+    <td align="center"> ---</td>
+    <td align="center"> 07/07/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/event-management</td>
+    <td align="center" > 35a6eac8dad523388984eadc38fd2bb03eb7a521</td>
+    <td align="center"> refactor(calendar): refactor calendar view path and integrate FullCalendar.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 07/07/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/iam</td>
+    <td align="center">3d8198364a60a020a3f2f35af491242b26a0c4a5</td>
+    <td align="center"> feat(iam): add authentication section in navigation bar component</td>
+    <td align="center"> ---</td>
+    <td align="center"> 07/07/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/profile-management</td>
+    <td align="center"> 916bc3e3171e128c64c16edd415086d6629c5555</td>
+    <td align="center"> feat(base-service): add unit tests for BaseService with TestService implementation.</td>
+    <td align="center"> ---</td>
+    <td align="center">21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center"> 62258159bd17a3ab0aca2b30e651cad5cd511247</td>
+    <td align="center"> feat(service-item): add update service item functionality</td>
+    <td align="center"> ---</td>
+    <td align="center">07/07/2025</td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Message body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Web/eventify-landing-page </td>
+    <td align="center"> develop</td>
+    <td align="center"> d655cbc4b5c8a03a035c167cc050d7c915c6634a</td>
+    <td align="center"> refactor(paths): refactor assets paths in html.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 05/07/2025</td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Web/eventify-landing-page </td>
+    <td align="center"> main</td>
+    <td align="center"> a27215605323f59a313455f164e3aa2bb2af7f8c</td>
+    <td align="center"> refactor(assets): refactor developers profiles.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 05/07/2025</td>
+  </tr>
+
+</table>
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
