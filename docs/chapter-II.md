@@ -2,6 +2,8 @@
 
 ## 2.1. Competidores
 
+El objetivo de esta sección es identificar a los principales competidores directos que cuentan con modelos de negocio basados en productos digitales similares, así como a los competidores indirectos que brindan soluciones parcialmente comparables.
+
 ### 2.1.1. Análisis competitivo
 
 <table border="1px">
@@ -118,6 +120,8 @@
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+Esta sección analizará las estrategias y tácticas que se emplearán para aprovechar las debilidades de la competencia y contrarrestar sus fortalezas. También se considerarán las amenazas y oportunidades que estos competidores representan.
+
 * **Estrategia de diferenciación:**
   <br><br>
     - La estrategia de diferenciación se basa en ofrecer una solución de software única que se distinga de la competencia. En este caso, la propuesta es crear una aplicación web que conecte a organizadores de eventos con anfitriones, brindando herramientas de gestión para facilitar la planificación y ejecución de eventos. Esto permitirá a los organizadores optimizar su trabajo y a los anfitriones encontrar fácilmente el servicio que necesitan.
@@ -166,6 +170,8 @@
 
 
 ## 2.2. Entrevistas
+
+En esta sección se evaluarán las estrategias y tácticas que se aplicarán para sacar ventaja de las debilidades de los competidores y enfrentar sus puntos fuertes. Además, se examinarán las oportunidades y amenazas que estos pueden generar.
 
 ### 2.2.1. Diseño de entrevistas
 
@@ -631,6 +637,8 @@ En el As-is scenario mapping de este segmento se han identificado los principale
 ![As-is Scenario Map 2](../assets/chapter-II/as-is-scenario-anfitrion.png)
 
 ## 2.4. Ubiquitous Language
+
+Esta sección presenta un glosario con los términos clave del dominio del negocio, alineado con el enfoque de *Ubiquitous Language* del Domain Driven Design. Su propósito es proporcionar definiciones claras y precisas de los conceptos más relevantes para el problema y su solución, facilitando así una comunicación efectiva entre todos los miembros del equipo.
 
 **Capacity**: number of people a space can hold.
 

@@ -19,6 +19,7 @@
 |  Deybbi Anderson Crisanto Calle  | U202120569 |
 |   July Zelmira Paico Calderon    | U20211D760 |
 |     Jean Pierr Aldave Aldave     | U202120005 |
+|     Dayro Richard Rios Piñan     | U202315283 | 
 
 ### Abril, 2025
 ## 2025-10
