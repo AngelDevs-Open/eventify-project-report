@@ -511,11 +511,25 @@ Wireframes correspondientes a las vistas de detalle de reseñas, y panel de noti
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-Se presenta el enlace donde se realizaron los wireflows.
-
+Se presenta el enlace donde se realizaron los wireflows: https://tinyurl.com/3atdnfrt
 
 Se presentaran los wireflows que competen con nuestros user goals
 
+![wireflow-1.png](../assets/chapter-IV/wireflow-1.png)
+
+![wireflow-2.png](../assets/chapter-IV/wireflow-2.png)
+
+![wireflow-3.png](../assets/chapter-IV/wireflow-3.png)
+
+![wireflow-4.png](../assets/chapter-IV/wireflow-4.png)
+
+![wireflow-5.png](../assets/chapter-IV/wireflow-5.png)
+
+![wireflow-6.png](../assets/chapter-IV/wireflow-6.png)
+
+![wireflow-7.png](../assets/chapter-IV/wireflow-7.png)
+
+![wireflow-8.png](../assets/chapter-IV/wireflow-8.png)
 
 
 
